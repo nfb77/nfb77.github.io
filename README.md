@@ -1,11 +1,9 @@
 ![Nicc Forster-Benson](IMG_0918.JPG)
-# Nicholas (Nicc) Forster-Benson
 [CV](https://drive.google.com/file/d/1UnBz4oqbOoCGH2CATX7Wo8Pc_gwgTT6v/view?usp=sharing) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/nfb77) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/nicholas-forster-benson/)
+# Nicholas (Nicc) Forster-Benson
 
 
 **PhD Student, Sociology & Social Policy, Harvard University**
-
-**BA in Economics and Quantitative Social Science, Vanderbilt University (May 2025)**
 
 **Research Interests:** Knowledge production and policy, political economy, financialization and inequality, mixed methods
 
