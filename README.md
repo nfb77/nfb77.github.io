@@ -1,4 +1,4 @@
-![Nicc Forster-Benson](IMG_0918.JPG)
+![Nicc Forster-Benson](nashville_map.jpg)
 [CV](https://drive.google.com/file/d/1UnBz4oqbOoCGH2CATX7Wo8Pc_gwgTT6v/view?usp=sharing) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/nfb77) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/nicholas-forster-benson/)
 # Nicholas (Nicc) Forster-Benson
 
