@@ -37,8 +37,6 @@ state agents, knowledge production, and governance in graduate school. Currently
 examining how the logics of financialization and globalization shape inequality, permeating housing,
 infrastructure, and public space. Exploring the socio-political dynamics of contemporary urban governance
 Nicc looks to investigate the evolving relationships between cities, markets, and policy.
-Raised and educated in Nashville Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala
-Sweden. In his spare time, Nicc is a pick-up basketball enthusiast and part time 3-point specialist.
 
 Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.
 
