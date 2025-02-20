@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="nashville_map.jpg" alt="Nicc Forster-Benson" style="width: 1000px; margin-right: 20px;">
-    <img src="art1.jpg" alt="Nicc Forster-Benson" style="width: 500px; margin-right: 20px;">
+    <img src="nashville_map.jpg" alt="Nicc Forster-Benson" style="width: 600px; margin-right: 20px;">
+    <img src="art1.jpg" alt="Nicc Forster-Benson" style="width: 240px; margin-right: 20px;">
     <div>  
 
 
@@ -46,9 +46,9 @@ Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chic
 ## Contact
 📧 [nicholas.o.forster-benson@vanderbilt.edu](mailto:nicholas.o.forster-benson@vanderbilt.edu)
 <div style="display: flex; align-items: flex-start;">
-    <img src="profile.jpg" alt="Nicc Forster-Benson" style="width: 150px; margin-right: 20px;">
-    <img src="art4.jpg" alt="Artwork" style="width: 150px; margin-right: 20px;">
-    <img src="r_park.png" alt="Research Park" style="width: 150px; margin-right: 20px;">
+    <img src="r_park.png" alt="Research Park" style="width: 250px; margin-right: 20px;">
+    <img src="art6.1.jpg" alt="Nicc Forster-Benson" style="width: 250px; margin-right: 20px;">
+    <img src="art4.jpg" alt="Artwork" style="width: 250px; margin-right: 20px;">
     <div>  
 
 
