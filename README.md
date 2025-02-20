@@ -1,7 +1,7 @@
 <hr>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="art4.1.jpg" alt="Artwork" style="hieght: 209px; margin-right: 20px;">
+    <img src="art4.1.jpg" alt="Artwork" style="width: 209px; margin-right: 20px;">
     <img src="nashville_map.jpg" alt="Nashville Map" style="width: 500px; margin-right: 20px;">
     <img src="art1.jpg" alt="Artwork" style="width: 201px; margin-right: 0px;">
 </div>
