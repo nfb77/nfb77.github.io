@@ -1,7 +1,9 @@
 <div style="display: flex; align-items: flex-start;">
-    <img src="nashville_map.jpg" alt="Nashville Map" style="width: 1000px; margin-right: 20px;">
-    <img src="art1.jpg" alt="Artwork" style="width: 500px; margin-right: 0px;">
+        <img src="art4.1jpg" alt="Artwork" style="width: 200px; margin-right: 20px;">
+    <img src="nashville_map.jpg" alt="Nashville Map" style="width: 500px; margin-right: 20px;">
+    <img src="art1.jpg" alt="Artwork" style="width: 200px; margin-right: 0px;">
 </div>
+
 
 <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
