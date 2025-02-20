@@ -1,7 +1,7 @@
 <hr>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="art4.1.jpg" alt="Artwork" style="width: 209px; margin-right: 20px;">
+    <img src="art4.1.jpg" alt="Artwork" style="hieght: 209px; margin-right: 20px;">
     <img src="nashville_map.jpg" alt="Nashville Map" style="width: 500px; margin-right: 20px;">
     <img src="art1.jpg" alt="Artwork" style="width: 201px; margin-right: 0px;">
 </div>
@@ -11,7 +11,6 @@
 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
-<hr>
 
 # Nicholas (Nicc) Forster-Benson
 
@@ -31,7 +30,6 @@ Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chic
 
 ## Contact
 📧 [nicholas.o.forster-benson@vanderbilt.edu](mailto:nicholas.o.forster-benson@vanderbilt.edu)
-<hr>
 
 <div style="display: flex; align-items: flex-start;">
     <img src="r_park2.png" alt="Resivoir" style="hieght: 10px; margin-right: 20px;">
