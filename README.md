@@ -29,6 +29,6 @@ Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chic
 📧 [nicholas.o.forster-benson@vanderbilt.edu](mailto:nicholas.o.forster-benson@vanderbilt.edu)
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="r_park.png" alt="Research Park" style="width: 350fpx; margin-right: 20px;">
-    <img src="art6.jpg" alt="Artwork" style="width: 548px; margin-right: 20px;">
+    <img src="r_park2.png" alt="Research Park" style="width: 201fpx; margin-right: 20px;">
+    <img src="art6.jpg" alt="Artwork" style="width: 550px; margin-right: 20px;">
 </div>
