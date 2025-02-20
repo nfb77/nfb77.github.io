@@ -11,7 +11,7 @@
 <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
 
-<hr style="border: none; height: 1px; background-color: gainsboro; margin: 4px 0;">
+<hr style="border: none; height: 1px; background-color: gainsboro; margin: 1px 0;">
 
 # Nicholas (Nicc) Forster-Benson
 
