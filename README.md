@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start;">
     <img src="art4.1.jpg" alt="Artwork" style="height: 300px; margin-right: 10px;">
     <img src="nashville_map.jpg" alt="Nashville Map" style="height: 300px; margin-right: 10px;">
-    <img src="art1.jpg" alt="Artwork" style="height: 300px; margin-right: 10px; margin-bottom: 15px;">
+    <img src="art1.jpg" alt="Artwork" style="height: 300px; margin-right: 10px; margin-bottom: 10px;">
 </div>
 
 <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 3px 0;">
