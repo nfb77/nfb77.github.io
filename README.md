@@ -4,7 +4,7 @@
     <img src="art1.jpg" alt="Artwork"style="height: 300px; flex: 1; object-fit: cover; margin-right: 0;">
 </div>
 
-<hr style="border: none; height: 1px; background-color: gainsboro; margin: 1px 0;">
+<hr style="border: none; height: 1px; background-color: gainsboro; margin: 2px 0;">
 
 <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
