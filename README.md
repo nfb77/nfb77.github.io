@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start;">
-    <img src="art4.1.jpg" alt="Artwork" style="hieght: 10px; margin-right: 10px;">
-    <img src="nashville_map.jpg" alt="Nashville Map" style="hieght: 10px; margin-right: 20px;">
-    <img src="art1.jpg" alt="Artwork" style="hieght: 10px; margin-right: 0px;">
+    <img src="art4.1.jpg" alt="Artwork" style="height: 10px; margin-right: 10px;">
+    <img src="nashville_map.jpg" alt="Nashville Map" style="height: 10px; margin-right: 20px;">
+    <img src="art1.jpg" alt="Artwork" style="height: 10px; margin-right: 0px;">
 </div>
 
 <hr style="border: none; height: 1px; background-color: gainsboro; margin: 4px 0;">
@@ -33,6 +33,6 @@ Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chic
 📧 [nicholas.o.forster-benson@vanderbilt.edu](mailto:nicholas.o.forster-benson@vanderbilt.edu)
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="r_park2.png" alt="Resivoir" style="hieght: 10px; margin-right: 20px;">
-    <img src="art6.jpg" alt="Artwork" style="hieght: 10px; margin-right: 20px;">
+    <img src="r_park2.png" alt="Resivoir" style="height: 10px; margin-right: 20px;">
+    <img src="art6.jpg" alt="Artwork" style="height: 10px; margin-right: 20px;">
 </div>
