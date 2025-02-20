@@ -1,4 +1,4 @@
-<hr style="border: none; height: 3px; background-color: black; margin: 20px 0;">
+<hr style="border: none; height: 3px; background-color: grey; margin: 2px 0;">
 
 <div style="display: flex; align-items: flex-start;">
     <img src="art4.1.jpg" alt="Artwork" style="width: 209px; margin-right: 10px;">
@@ -6,7 +6,7 @@
     <img src="art1.jpg" alt="Artwork" style="width: 201px; margin-right: 0px;">
 </div>
 
-<hr style="border: none; height: 3px; background-color: black; margin: 10px 0;">
+<hr style="border: none; height: 3px; background-color: grey; margin: 2px 0;">
 
 <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
