@@ -1,17 +1,17 @@
-<hr style="border: none; height: 3px; background-color: grey; margin: 2px 0;">
-
 <div style="display: flex; align-items: flex-start;">
     <img src="art4.1.jpg" alt="Artwork" style="width: 209px; margin-right: 10px;">
     <img src="nashville_map.jpg" alt="Nashville Map" style="width: 500px; margin-right: 20px;">
     <img src="art1.jpg" alt="Artwork" style="width: 201px; margin-right: 0px;">
 </div>
 
-<hr style="border: none; height: 3px; background-color: grey; margin: 2px 0;">
+<hr style="border: none; height: 1px; background-color: grey; margin: 2px 0;">
 
 <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
+
+<hr style="border: none; height: 1px; background-color: grey; margin: 2px 0;">
 
 # Nicholas (Nicc) Forster-Benson
 
