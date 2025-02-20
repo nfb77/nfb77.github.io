@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: flex-start;">
     <img src="art4.1.jpg" alt="Artwork" style="height: 300px; flex: 1; object-fit: cover; margin-right: 10px;">
-    <img src="nashville_map.jpg" alt="Nashville Map" style="height: 300px; flex: 1; object-fit: cover; margin-right: 0;">
     <img src="art1.jpg" alt="Artwork"style="height: 300px; flex: 1; object-fit: cover; margin-right: 0;">
 </div>
 
