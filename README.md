@@ -73,7 +73,7 @@
         <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
 
-        <strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
+        <p><strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
         <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
         <h2>About Me</h2>
         <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025. With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc aims to continue exploring the relations between state agents, knowledge production, and governance in graduate school.
