@@ -13,7 +13,7 @@
             background-color: white;
             overflow: hidden;
             display: flex;
-            padding: 10px;
+            padding: 20px;
         }
         .navbar a {
             color: #575757;
@@ -52,7 +52,7 @@
 </head>
 <body>
     <div class="navbar">
-        <a href="#about">About</a>
+        <a href="#about">Nicholas Forster-Benson</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
         <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -69,9 +69,10 @@
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
         <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
+                <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
         <strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
         <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
-
         <h2>About Me</h2>
         <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025. With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc aims to continue exploring the relations between state agents, knowledge production, and governance in graduate school.
         </p>
@@ -82,10 +83,6 @@
 Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
         <h2 id="research">Research</h2>
-
-        <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
         <p>In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to estimate the effect of upzoning on housing affordability in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville. Analyzing upzoning as a process of spatial financialization, his thesis draws upon the social production of space as a framework to understand post-Fordist modes of accumulation in Nashville.
 </p>
