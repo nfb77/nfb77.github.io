@@ -53,7 +53,7 @@
 </head>
 <body>
     <div class="navbar">
-        <a href="#about">Nicholas Forster-Benson</a>
+        <a href="#about">About Me</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
         <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -69,13 +69,13 @@
         </div>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
-        <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
+        <h1 id="about">About Me</h1>
                 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a></p>
+        <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
         <p><strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
         <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods
-        <h2>About Me</h2>
+        <h2>Nicholas (Nicc) Forster-Benson</h2>
         <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025. With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc aims to continue exploring the relations between state agents, knowledge production, and governance in graduate school.
         </p>
 <p>Currently, he is interested in examining how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Exploring the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.
