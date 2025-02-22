@@ -4,8 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nicc Forster-Benson</title>
     <style>
-        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
-
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -53,13 +51,14 @@
     </style>
 </head>
 <body>
-    
+            <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
     <div class="navbar">
         <a href="#about">About</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
         <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
     </div>
+        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
     <div class="content">
 <div style="display: flex; align-items: flex-start;">
