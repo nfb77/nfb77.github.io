@@ -17,15 +17,16 @@
         }
         .navbar a {
             color: #575757;
-            padding: 20px 26px;
+            padding: 14px 20px;
             text-decoration: none;
             text-align: center;
+            font-size: 20px; 
         }
         .navbar a:hover {
             background-color: #f0f3f4;
         }
         .content {
-            padding: 20px;
+            padding: 15px;
         }
         hr {
             border: none;
