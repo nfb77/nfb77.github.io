@@ -56,7 +56,7 @@
         <a href="#about">About Me</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
-        <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://nfb77.github.io/Files/NFB_CV25.pdf" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
     </div>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
@@ -96,16 +96,16 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
 <ul>
     <li>
         <strong>Teaching Assistant, ECON 1500 Economic Statistics, Fall 2024</strong><br>
-        Vanderbilt University, Department of Economics, Dr. Ariell Zimran)    <a href="https://raw.githubusercontent.com/nfb77/nfb77.github.io/blob/main/Files/EconStatFall24.pdf" target="_blank">Syllabus</a> <br>
+        Vanderbilt University, Department of Economics, Dr. Ariell Zimran)    <a href="https://nfb77.github.io/Files/EconStatFall24.pdf" target="_blank">Syllabus</a> <br>
         Led weekly office hours and assisting in evaluation regarding understandings of set-theory, probability, random variables, and regression analysis.    </li>
     <li>
         <strong>Teaching Assistant, SOC 3202 Cultural Production and Institutions, Fall 2023 </strong><br>
-        Vanderbilt University, Department of Sociology, (Dr. Richard Lloyd)     <a href="https://raw.githubusercontent.com/nfb77/nfb77.github.io/blob/main/Files/EconStatFall24.pdf" target="_blank">Syllabus</a> <br>
+        Vanderbilt University, Department of Sociology, (Dr. Richard Lloyd)     <a href="https://nfb77.github.io/Files/SOC3203Fall.pdf" target="_blank">Syllabus</a> <br>
         Assisted in grading and instruction regarding the development of a sociological approach to the production of culture. Examining the production of authenticity within the milieu of various art fields, from the production of drill music to 15th century Italian painting.
     </li>
     <li>
         <strong>Teaching Assistant, SOC 3233 Contemporary American Society, Fall 2022, Fall 2023</strong><br>
-         Vanderbilt University, Department of Sociology, (Dr. Richard Lloyd)    <a href="https://raw.githubusercontent.com/nfb77/nfb77.github.io/blob/main/Files/EconStatFall24.pdf" target="_blank">Syllabus</a> <br>
+         Vanderbilt University, Department of Sociology, (Dr. Richard Lloyd)    <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a> <br>
        Was responsible for key creation and essay evaluation regarding methods regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
 
     </li>
