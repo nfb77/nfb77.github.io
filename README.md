@@ -77,13 +77,33 @@
         <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
 
         <h2>About Me</h2>
-        <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025...</p>
+        <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025. With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc aims to continue exploring the relations between state agents, knowledge production, and governance in graduate school. Currently, he is interested in examining how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Exploring the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.
+
+Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
         <h2 id="research">Research</h2>
-        <p>Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics)...</p>
+        <p>In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to estimate the effect of upzoning on housing affordability in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville. Analyzing upzoning as a process of spatial financialization, his thesis draws upon the social production of space as a framework to understand post-Fordist modes of accumulation in Nashville.
 
-        <h2 id="teaching">Teaching</h2>
-        <p>Details about teaching experience will be added here.</p>
+Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc has applied insights into the social construction of political economy to topics of international development and legacies of colonialism in Africa, analyzing trade relationships between Portugal and its former African colonies from 1960-2022. Using gravity model Poisson pseudo-maximum-likelihood estimates of bilateral trade flows, Nicc’s research provided [quantitative evidence for the persistence of colonial commodity dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987) and natural resource exploitation. His work combined empirical methodology with world-systems theory aiming to enhance our understanding of Africa’s unequal exchange in the new global division of labor, emphasizing the socio-political construction of modern economic inequalities.</p>
+
+<h2 id="teaching">Teaching</h2>
+<ul>
+    <li>
+        <strong>Teaching Assistant, ECON 1500 Economic Statistics</strong><br>
+        Department of Economics, Fall 2024<br>
+        Led weekly office hours and assisted in evaluations on set-theory, probability, random variables, and regression analysis.
+    </li>
+    <li>
+        <strong>Teaching Assistant, SOC 3202 Cultural Production and Institutions</strong><br>
+        Department of Sociology, Fall 2023<br>
+        Assisted in grading and instruction on the sociological approach to cultural production, analyzing authenticity in fields ranging from drill music to 15th-century Italian painting.
+    </li>
+    <li>
+        <strong>Teaching Assistant, SOC 3233 Contemporary American Society</strong><br>
+        Department of Sociology, Fall 2022, Fall 2023<br>
+        Helped develop evaluation methods for critical analysis of political, economic, and social shifts in the U.S., focusing on political economy, geography, and social class stratification.
+    </li>
+</ul>
 
         <h2 id="contact">Contact</h2>
         <p>📧 <a href="mailto:nicholas.o.forster-benson@vanderbilt.edu">nicholas.o.forster-benson@vanderbilt.edu</a></p>
