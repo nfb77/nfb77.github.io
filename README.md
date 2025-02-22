@@ -20,7 +20,7 @@
             padding: 14px 20px;
             text-decoration: none;
             text-align: center;
-            font-size: 25px; /* Increased font size */
+            font-size: 20px; /* Increased font size */
         }
         .navbar a:hover {
             background-color: #f0f3f4;
@@ -32,7 +32,7 @@
             border: none;
             height: 3px;
             background-color: black;
-            margin: 20px 0;
+            margin: 5px 0;
         }
         .image-container {
             display: flex;
