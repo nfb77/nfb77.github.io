@@ -107,13 +107,14 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
         <strong>Teaching Assistant, SOC 3233 Contemporary American Society, Fall 2022, Fall 2023</strong><br>
          Vanderbilt University, Department of Sociology, (Dr. Richard Lloyd)<br>
        Was responsible for key creation and essay evaluation regarding methods regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
+    <a href="https://raw.githubusercontent.com/nfb77/github.io/main/r_park2.png" target="_blank">View PDF</a>
+
     </li>
 </ul>
         <h2 id="contact">Contact</h2>
         <p>📧 <a href="mailto:nicholas.o.forster-benson@vanderbilt.edu">nicholas.o.forster-benson@vanderbilt.edu</a></p>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
-        <h3>Additional Images:</h3>
 <div style="display: flex; align-items: flex-start;">
     <img src="r_park2.png" alt="Resivoir" style="height: 245px; flex: 1; object-fit: cover; margin-right: 10px;">
     <img src="art6.jpg" alt="Artwork"  style="height: 245px; flex: 1; object-fit: cover; margin-right: 0;">
