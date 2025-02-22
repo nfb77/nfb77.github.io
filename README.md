@@ -4,35 +4,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nicc Forster-Benson</title>
     <style>
-        body {
+         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         .navbar {
-            background-color: white;
+            background-color: #white;
             overflow: hidden;
             display: flex;
             padding: 10px;
         }
         .navbar a {
-            color: #575757;
-            padding: 5px 5px;
+            color: 575757;
+            padding: 14px 20px;
             text-decoration: none;
             text-align: center;
-            font-size: 20px; 
+            font-size: 18px; /* Increased font size */
         }
         .navbar a:hover {
             background-color: #f0f3f4;
         }
         .content {
-            padding: 5px;
+            padding: 20px;
         }
         hr {
             border: none;
             height: 3px;
             background-color: black;
-            margin: 5px 0;
+            margin: 20px 0;
         }
         .image-container {
             display: flex;
@@ -69,13 +69,10 @@
         </div>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
-        <h1 id="about">About Me</h1>
-                <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
+        <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
         <p><strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
         <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods
-        <h2>Nicholas (Nicc) Forster-Benson</h2>
+        <h2>About Me</h2>
         <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025. With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc aims to continue exploring the relations between state agents, knowledge production, and governance in graduate school.
         </p>
 <p>Currently, he is interested in examining how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Exploring the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.
@@ -85,7 +82,11 @@
 Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
         <h2 id="research">Research</h2>
-
+        
+                <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
+        
         <p>In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to estimate the effect of upzoning on housing affordability in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville. Analyzing upzoning as a process of spatial financialization, his thesis draws upon the social production of space as a framework to understand post-Fordist modes of accumulation in Nashville.
 </p>
 <p>
