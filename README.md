@@ -4,6 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nicc Forster-Benson</title>
     <style>
+        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -22,7 +24,7 @@
             text-align: center;
         }
         .navbar a:hover {
-            background-color: #575757;
+            background-color: #f0f3f4;
         }
         .content {
             padding: 20px;
@@ -60,17 +62,14 @@
     </div>
 
     <div class="content">
-        <div class="image-container">
-            <img src="nashville_map.jpg" alt="Nashville Map">
-            <img src="art1.jpg" alt="Artwork">
+<div style="display: flex; align-items: flex-start;">
+    <img src="art4.1.jpg" alt="Artwork" style="height: 300px; flex: 1; object-fit: cover; margin-right: 10px;">
+    <img src="nashville_map.jpg" alt="Nashville Map" style="height: 300px; flex: 1; object-fit: cover; margin-right: 10px;">
+    <img src="art1.jpg" alt="Artwork" style="height: 300px; flex: 1; object-fit: cover; margin-right: 0;">
+</div>
         </div>
 
         <hr>
-
-        <a href="#contact">Contact</a>
-        <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
 
         <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
         <strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
@@ -82,6 +81,11 @@
 Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
         <h2 id="research">Research</h2>
+
+        <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
+
         <p>In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to estimate the effect of upzoning on housing affordability in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville. Analyzing upzoning as a process of spatial financialization, his thesis draws upon the social production of space as a framework to understand post-Fordist modes of accumulation in Nashville.
 
 Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc has applied insights into the social construction of political economy to topics of international development and legacies of colonialism in Africa, analyzing trade relationships between Portugal and its former African colonies from 1960-2022. Using gravity model Poisson pseudo-maximum-likelihood estimates of bilateral trade flows, Nicc’s research provided [quantitative evidence for the persistence of colonial commodity dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987) and natural resource exploitation. His work combined empirical methodology with world-systems theory aiming to enhance our understanding of Africa’s unequal exchange in the new global division of labor, emphasizing the socio-political construction of modern economic inequalities.</p>
@@ -111,11 +115,10 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
         <hr>
 
         <h3>Additional Images:</h3>
-        <div class="image-container">
-            <img src="r_park.png" alt="Research Park">
-            <img src="art6.1.jpg" alt="Artwork">
-            <img src="art4.jpg" alt="Artwork">
-        </div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="r_park2.png" alt="Resivoir" style="height: 245px; flex: 1; object-fit: cover; margin-right: 10px;">
+    <img src="art6.jpg" alt="Artwork"  style="height: 245px; flex: 1; object-fit: cover; margin-right: 0;">
+</div>
     </div>
 
 </body>
