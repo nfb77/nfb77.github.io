@@ -13,11 +13,11 @@
             background-color: white;
             overflow: hidden;
             display: flex;
-            padding: 20px;
+            padding: 10px;
         }
         .navbar a {
             color: #575757;
-            padding: 14px 20px;
+            padding: 20px 26px;
             text-decoration: none;
             text-align: center;
         }
