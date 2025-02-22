@@ -106,7 +106,7 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
     <li>
         <strong>Teaching Assistant, SOC 3233 Contemporary American Society</strong><br>
         Department of Sociology, Fall 2022, Fall 2023<br>
-       Grading key creation and evaluation regarding methods regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
+       Was responsible for key creation and essay evaluation regarding methods regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
     </li>
 </ul>
         <h2 id="contact">Contact</h2>
