@@ -1,4 +1,47 @@
 <html>
+.content {
+    max-width: 900px;  /* Adjust as needed */
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;  /* Ensures wrapping on small screens */
+    width: 100%;
+}
+
+.image-container img {
+    height: 300px;
+    flex: 1;
+    object-fit: cover;
+    margin-right: 10px;
+    max-width: 100%; /* Ensures images don't overflow */
+}
+
+.image-container img:last-child {
+    margin-right: 0;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .image-container {
+        flex-direction: column;  /* Stack images vertically */
+        align-items: center;     /* Center images */
+    }
+
+    .image-container img {
+        width: 100%;  /* Make images full-width */
+        height: auto; /* Adjust height dynamically */
+        margin-bottom: 10px;
+    }
+
+    .content {
+        padding: 10px;  /* Reduce padding for smaller screens */
+    }
+}
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
