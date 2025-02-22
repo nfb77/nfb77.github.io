@@ -71,6 +71,8 @@
         <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
                 <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
+
         <strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
         <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
         <h2>About Me</h2>
