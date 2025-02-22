@@ -31,7 +31,7 @@
             border: none;
             height: 3px;
             background-color: black;
-            margin: 20px 0;
+            margin: 5px 0;
         }
         .image-container {
             display: flex;
