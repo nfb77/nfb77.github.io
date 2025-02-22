@@ -17,7 +17,7 @@
         }
         .navbar a {
             color: #575757;
-            padding: 14px 20px;
+            padding: 5px 5px;
             text-decoration: none;
             text-align: center;
             font-size: 20px; 
@@ -26,7 +26,7 @@
             background-color: #f0f3f4;
         }
         .content {
-            padding: 15px;
+            padding: 5px;
         }
         hr {
             border: none;
