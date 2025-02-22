@@ -119,7 +119,6 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
     <img src="r_park2.png" alt="Resivoir" style="height: 245px; flex: 1; object-fit: cover; margin-right: 10px;">
     <img src="art6.jpg" alt="Artwork"  style="height: 245px; flex: 1; object-fit: cover; margin-right: 0;">
 </div>
-    </div>
 
 </body>
 </html>
