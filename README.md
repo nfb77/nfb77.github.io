@@ -16,7 +16,7 @@
             padding: 10px;
         }
         .navbar a {
-            color: 575757;
+            color: #575757;
             padding: 14px 20px;
             text-decoration: none;
             text-align: center;
@@ -97,20 +97,18 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
     <li>
         <strong>Teaching Assistant, ECON 1500 Economic Statistics</strong><br>
         Department of Economics, Fall 2024<br>
-        Led weekly office hours and assisted in evaluations on set-theory, probability, random variables, and regression analysis.
-    </li>
+        Led weekly office hours and assisting in evaluation regarding understandings of set-theory, probability, random variables, and regression analysis.    </li>
     <li>
         <strong>Teaching Assistant, SOC 3202 Cultural Production and Institutions</strong><br>
         Department of Sociology, Fall 2023<br>
-        Assisted in grading and instruction on the sociological approach to cultural production, analyzing authenticity in fields ranging from drill music to 15th-century Italian painting.
+        Assisted in grading and instruction regarding the development of a sociological approach to the production of culture. Examining the production of authenticity within the milieu of various art fields, from the production of drill music to 15th century Italian painting.
     </li>
     <li>
         <strong>Teaching Assistant, SOC 3233 Contemporary American Society</strong><br>
         Department of Sociology, Fall 2022, Fall 2023<br>
-        Helped develop evaluation methods for critical analysis of political, economic, and social shifts in the U.S., focusing on political economy, geography, and social class stratification.
+       Grading key creation and evaluation regarding methods regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
     </li>
 </ul>
-
         <h2 id="contact">Contact</h2>
         <p>📧 <a href="mailto:nicholas.o.forster-benson@vanderbilt.edu">nicholas.o.forster-benson@vanderbilt.edu</a></p>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
