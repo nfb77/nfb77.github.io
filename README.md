@@ -1,40 +1,103 @@
-<a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nicc Forster-Benson</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+            display: flex;
+            padding: 10px;
+        }
+        .navbar a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        .navbar a:hover {
+            background-color: #575757;
+        }
+        .content {
+            padding: 20px;
+        }
+        hr {
+            border: none;
+            height: 3px;
+            background-color: black;
+            margin: 20px 0;
+        }
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            width: 100%;
+        }
+        .image-container img {
+            height: 300px;
+            flex: 1;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+        .image-container img:last-child {
+            margin-right: 0;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="navbar">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#contact">Contact</a>
+    </div>
 
-<hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
+    <div class="content">
+        <div class="image-container">
+            <img src="nashville_map.jpg" alt="Nashville Map">
+            <img src="art1.jpg" alt="Artwork">
+        </div>
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="art4.1.jpg" alt="Artwork" style="height: 300px; flex: 1; object-fit: cover; margin-right: 10px;">
-    <img src="nashville_map.jpg" alt="Nashville Map" style="height: 300px; flex: 1; object-fit: cover; margin-right: 10px;">
-    <img src="art1.jpg" alt="Artwork" style="height: 300px; flex: 1; object-fit: cover; margin-right: 0;">
-</div>
+        <hr>
 
-<hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 2px 0;">
+        <a href="https://drive.google.com/file/d/1x0khmKX-Khnhw1tpvGOzUraXPIuiKe5Q/view?usp=sharing" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://linkedin.com/in/nicholas-forster-benson/" target="_blank">LinkedIn</a>
 
+        <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
+        <strong>PhD Student, Sociology & Social Policy, Harvard University</strong>
+        <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
 
+        <h2>About Me</h2>
+        <p>Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025...</p>
 
-# Nicholas (Nicc) Forster-Benson
+        <h2 id="research">Research</h2>
+        <p>Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics)...</p>
 
+        <h2 id="teaching">Teaching</h2>
+        <p>Details about teaching experience will be added here.</p>
 
-**PhD Student, Sociology & Social Policy, Harvard University**
+        <h2 id="contact">Contact</h2>
+        <p>📧 <a href="mailto:nicholas.o.forster-benson@vanderbilt.edu">nicholas.o.forster-benson@vanderbilt.edu</a></p>
 
-**Research Interests:** Knowledge production and policy, political economy, financialization and inequality, mixed methods
+        <hr>
 
-## About Me
-Nicc will receive his BA in Economics and Quantitative Social Science from Vanderbilt University in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to estimate the effect of upzoning on housing affordability in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville. Analyzing upzoning as a process of spatial financialization, his thesis draws upon the social production of space as a framework to understand post-Fordist modes of accumulation in Nashville.
+        <h3>Additional Images:</h3>
+        <div class="image-container">
+            <img src="r_park.png" alt="Research Park">
+            <img src="art6.1.jpg" alt="Artwork">
+            <img src="art4.jpg" alt="Artwork">
+        </div>
+    </div>
 
-Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc has applied insights into the social construction of political economy to topics of international development and legacies of colonialism in Africa, analyzing trade relationships between Portugal and its former African colonies from 1960-2022. Using gravity model Poisson pseudo-maximum-likelihood estimates of bilateral trade flows, Nicc’s research provided [quantitative evidence for the persistence of colonial commodity dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987) and natural resource exploitation. His work combined empirical methodology with world-systems theory aiming to enhance our understanding of Africa’s unequal exchange in the new global division of labor, emphasizing the socio-political construction of modern economic inequalities.
-
-With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc aims to continue exploring the relations between state agents, knowledge production, and governance in graduate school. Currently, he is interested in examining how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Exploring the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.
-
-Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.
-
-## Contact
-📧 [nicholas.o.forster-benson@vanderbilt.edu](mailto:nicholas.o.forster-benson@vanderbilt.edu)
-
-<div style="display: flex; align-items: flex-start;">
-    <img src="r_park2.png" alt="Resivoir" style="height: 245px; flex: 1; object-fit: cover; margin-right: 10px;">
-    <img src="art6.jpg" alt="Artwork"  style="height: 245px; flex: 1; object-fit: cover; margin-right: 0;">
-</div>
+</body>
+</html>
