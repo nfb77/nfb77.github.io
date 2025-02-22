@@ -51,7 +51,6 @@
     </style>
 </head>
 <body>
-            <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
     <div class="navbar">
         <a href="#about">About</a>
         <a href="#research">Research</a>
