@@ -111,7 +111,7 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
     </li>
 </ul>
         <h2 id="contact">Contact</h2>
-        <p>📧 <a href="nforsterbenson@g.harvard.edu">nicholas.o.forster-benson@vanderbilt.edu</a></p>
+        <p>📧 <a href="nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a></p>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
 <div style="display: flex; align-items: flex-start;">
