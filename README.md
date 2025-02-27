@@ -47,7 +47,7 @@
             margin-right: 0px;
         }
         .image-container img:last-child {
-            margin-right: 0;
+            margin-right: 0px;
         }
     </style>
 </head>
