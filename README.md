@@ -54,9 +54,9 @@
 <body>
     <div class="navbar">
         <a href="#about">About Me</a>
+        <a href="https://nfb77.github.io/Files/NFB_CV25.pdf" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
-        <a href="https://nfb77.github.io/Files/NFB_CV25.pdf" target="_blank">CV</a> &nbsp;&nbsp;&nbsp;&nbsp; 
     </div>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
