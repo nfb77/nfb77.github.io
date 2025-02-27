@@ -106,7 +106,7 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
     <li>
         <strong>Teaching Assistant, SOC 3233 Contemporary American Society, Fall 2022, Fall 2023</strong><br>
          Vanderbilt University, Department of Sociology,  <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a> <br>
-       Was responsible for key creation and essay evaluation regarding methods regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
+       Was responsible for key creation and essay evaluation regarding critical analysis of shifts in the political, economic, and social structure of the United States; changes in political economy, geography, and social class stratification.
 
     </li>
 </ul>
