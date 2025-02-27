@@ -44,7 +44,7 @@
             height: 200px;
             flex: 1;
             object-fit: cover;
-            margin-right: 10px;
+            margin-right: 0px;
         }
         .image-container img:last-child {
             margin-right: 0;
