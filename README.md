@@ -101,7 +101,7 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
     <li>
         <strong>Teaching Assistant, SOC 3202 Cultural Production and Institutions, Fall 2023 </strong><br>
         Vanderbilt University, Department of Sociology,   <a href="https://nfb77.github.io/Files/SOC3203Fall.pdf" target="_blank">Syllabus</a> <br>
-        Assisted in grading and instruction regarding the development of a sociological approach to the production of culture. Examining the production of authenticity within the milieu of various art fields, from the production of drill music to 15th century Italian painting.
+        Assisted in grading regarding the development of a sociological approach to the production of culture. Examining the production of authenticity within the milieu of various art fields, from the production of drill music to 15th century Italian painting.
     </li>
     <li>
         <strong>Teaching Assistant, SOC 3233 Contemporary American Society, Fall 2022, Fall 2023</strong><br>
