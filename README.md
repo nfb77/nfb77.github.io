@@ -62,7 +62,6 @@
    
 <div style="display: flex; align-items: flex-start;">
     <img src="nashville_map.jpg" alt="Nashville Map" style="width: 1000px; margin-right: 20px;">
-    <img src="art1.jpg" alt="Artwork" style="width: 500px; margin-right: 0px;">
 </div>
 
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
