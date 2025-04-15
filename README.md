@@ -112,6 +112,6 @@ Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) an
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="r_park2.png" alt="Resivoir" style="width: 1000px; margin-right: 20px;">
+    <img src="r_park1.png" alt="Resivoir" style="width: 500px; margin-right: 20px;">
 </div>
 
