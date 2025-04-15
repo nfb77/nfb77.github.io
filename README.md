@@ -59,12 +59,12 @@
         <a href="#teaching">Teaching</a>
     </div>
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
-
+   
     <div class="content">
-<div style="display: flex; align-items: flex-start;">
-    <img src="nashville_map.jpg" alt="Nashville Map" style="height: 300px; flex: 1; object-fit: cover;">
-</div>
+        <div class="image-container">
+            <img src="nashville_map.jpg" alt="Nashville Map">
         </div>
+
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
         <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
