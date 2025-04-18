@@ -29,6 +29,7 @@
       background-color: #f9f9f9; /* same as body */
       border-bottom: 1px solid #ddd;
       padding: 15px 0;
+      position: top;
       top: 0;
       left: 0;
       width: 100%;
@@ -147,7 +148,7 @@
 
     <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
-      <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
+      <hr style="border: none; height: 1px; background-color: d; margin-bottom: 0px 0;">
 
     <h2 id="research">Research</h2>
     <p>
