@@ -19,7 +19,7 @@
     }
 
     .wrapper {
-      max-width: 900px;
+      max-width: 1000;
       margin: 0 auto;
       padding: 80px 20px 50px; /* top padding accounts for fixed navbar */
     }
