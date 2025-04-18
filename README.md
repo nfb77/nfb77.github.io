@@ -54,6 +54,11 @@
       transition: background 0.2s;
     }
 
+   .navbar a:hover {
+      background-color: #eee;
+      border-radius: 5px;
+    }
+    
     h1, h2 {
       margin: 30px 0 15px;
       color: #2c3e50;
