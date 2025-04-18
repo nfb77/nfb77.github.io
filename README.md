@@ -11,7 +11,7 @@
       box-sizing: border-box;
     }
      html {
-    scroll-padding-top: 80px; /* Adjust this value if your navbar height is different */
+    scroll-padding-top: 100px;
   }
 
     body {
