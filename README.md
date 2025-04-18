@@ -37,7 +37,12 @@
       left: 0;
       width: 100%;
       z-index: 1000;
+      display: flex;
+      flex-wrap: wrap; 
+      gap: 20px; 
     }
+
+
 
     .nav-links {
       max-width: 900px;
