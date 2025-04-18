@@ -29,7 +29,7 @@
       background-color: #f9f9f9; /* same as body */
       border-bottom: 1px solid #ddd;
       padding: 15px 0;
-      position: top;
+      position: fixed;
       top: 0;
       left: 0;
       width: 100%;
