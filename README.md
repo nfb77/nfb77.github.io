@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,18 +13,22 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Garamond', serif;
             line-height: 1.6;
             color: #333;
             background-color: #f9f9f9;
             padding-bottom: 50px;
         }
 
+        .wrapper {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
         /* Navbar */
         .navbar {
             background-color: white;
-            display: flex;
-            justify-content: center;
             border-bottom: 1px solid #ddd;
             padding: 15px 0;
             position: sticky;
@@ -33,9 +36,16 @@
             z-index: 1000;
         }
 
+        .navbar .nav-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
         .navbar a {
             color: #444;
-            padding: 12px 20px;
+            padding: 10px 15px;
             text-decoration: none;
             font-size: 18px;
             transition: background 0.2s;
@@ -46,14 +56,6 @@
             border-radius: 5px;
         }
 
-        /* Content */
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 30px 20px;
-            background-color: white;
-        }
-
         h1, h2 {
             margin: 30px 0 15px;
             color: #2c3e50;
@@ -61,7 +63,7 @@
 
         p, li {
             margin-bottom: 16px;
-            font-size: 16px;
+            font-size: 17px;
         }
 
         ul {
@@ -76,7 +78,6 @@
             text-decoration: underline;
         }
 
-        /* Divider */
         hr {
             border: none;
             height: 2px;
@@ -84,7 +85,6 @@
             margin: 40px 0;
         }
 
-        /* Image Layout */
         .image-container {
             display: flex;
             flex-wrap: wrap;
@@ -109,7 +109,7 @@
         }
 
         @media (max-width: 768px) {
-            .navbar {
+            .navbar .nav-links {
                 flex-direction: column;
                 align-items: center;
             }
@@ -121,14 +121,17 @@
     </style>
 </head>
 <body>
+
     <div class="navbar">
-        <a href="#about">About Me</a>
-        <a href="https://nfb77.github.io/Files/NFB_CV25.pdf" target="_blank">CV</a>  
-        <a href="#research">Research</a>
-        <a href="#teaching">Teaching</a>
+        <div class="wrapper nav-links">
+            <a href="#about">About Me</a>
+            <a href="https://nfb77.github.io/Files/NFB_CV25.pdf" target="_blank">CV</a>  
+            <a href="#research">Research</a>
+            <a href="#teaching">Teaching</a>
+        </div>
     </div>
 
-    <div class="container">
+    <div class="wrapper">
         <img src="nashville_map.jpg" alt="Nashville Map" class="wide-img">
 
         <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
@@ -181,5 +184,6 @@
             <img src="r_park1.png" alt="Reservoir Park" class="half-img">
         </div>
     </div>
+
 </body>
 </html>
