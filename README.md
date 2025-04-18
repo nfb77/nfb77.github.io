@@ -1,4 +1,8 @@
 <html lang="en">
+  html {
+  scroll-padding-top: 80px; /* adjust if your navbar is taller/shorter */
+}
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
