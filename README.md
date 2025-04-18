@@ -29,7 +29,6 @@
       background-color: #f9f9f9; /* same as body */
       border-bottom: 1px solid #ddd;
       padding: 15px 0;
-      position: fixed;
       top: 0;
       left: 0;
       width: 100%;
@@ -148,7 +147,7 @@
 
     <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
-    <hr>
+      <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
     <h2 id="research">Research</h2>
     <p>
@@ -160,7 +159,7 @@
 
     <p>Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
 
-    <hr>
+        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
     <h2 id="teaching">Teaching</h2>
     <ul>
@@ -178,7 +177,7 @@
       </li>
     </ul>
 
-    <hr>
+        <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
     <h2 id="contact">Contact</h2>
     <p>📧 <a href="mailto:nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a></p>
