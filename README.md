@@ -1,8 +1,4 @@
 <html lang="en">
-  html {
-  scroll-padding-top: 80px; /* adjust if your navbar is taller/shorter */
-}
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -14,6 +10,9 @@
       padding: 0;
       box-sizing: border-box;
     }
+     html {
+    scroll-padding-top: 80px; /* Adjust this value if your navbar height is different */
+  }
 
     body {
       font-family: 'Garamond', serif;
