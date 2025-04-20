@@ -21,14 +21,14 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 20px 20px 20px; 
+      padding: 20px 20px 50px; 
     }
 
     /* Navbar */
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 0px -200px;
+  padding: 0px 20px;
   display: flex;
   flex-wrap: wrap; /* Allows wrapping on very small screens */
   justify-content: center;
