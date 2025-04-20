@@ -28,7 +28,7 @@
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: -10px 50px;
+  padding: 0px 50px;
   display: flex;
   flex-wrap: wrap; /* Allows wrapping on very small screens */
   justify-content: center;
