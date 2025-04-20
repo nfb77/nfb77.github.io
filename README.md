@@ -21,14 +21,14 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 0px 20px 50px; 
+      padding: 20px 20px 50px; 
     }
 
     /* Navbar */
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 0px 50px;
+  padding: 0px 0px;
   display: flex;
   flex-wrap: wrap; /* Allows wrapping on very small screens */
   justify-content: center;
@@ -49,7 +49,7 @@
 
     .navbar a {
       color: #444;
-      padding: 10px 15px;
+      padding: 0px 15px;
       text-decoration: none;
       font-size: 18px;
       transition: background 0.2s;
