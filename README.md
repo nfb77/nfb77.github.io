@@ -10,9 +10,6 @@
       padding: 0;
       box-sizing: border-box;
     }
-     html {
-    scroll-padding-top: 100px;
-  }
 
     body {
       font-family: 'Garamond', serif;
@@ -24,14 +21,14 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 20px 20px 50px; /* top padding accounts for fixed navbar */
+      padding: 20px 20px 50px; 
     }
 
     /* Navbar */
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 15px 20px;
+  padding: 0px 0px 50px;
   display: flex;
   flex-wrap: wrap; /* Allows wrapping on very small screens */
   justify-content: center;
