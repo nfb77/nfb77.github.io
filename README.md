@@ -28,7 +28,7 @@
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 0px 0px;
+  padding: 0px 100px;
   display: flex;
   flex-wrap: wrap; /* Allows wrapping on very small screens */
   justify-content: center;
@@ -49,7 +49,7 @@
 
     .navbar a {
       color: #444;
-      padding: 0px 15px;
+      padding: 10px 15px;
       text-decoration: none;
       font-size: 18px;
       transition: background 0.2s;
