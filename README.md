@@ -28,19 +28,15 @@
     }
 
     /* Navbar */
-    .navbar {
-      background-color: #f9f9f9; /* same as body */
-      border-bottom: 1px solid #ddd;
-      padding: 15px 0;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      z-index: 1000;
-      display: flex;
-      flex-wrap: wrap; 
-      gap: 20px; 
-    }
+.navbar {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+  padding: 15px 20px;
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping on very small screens */
+  justify-content: center;
+  gap: 20px; /* Space between links */
+}
 
 
 
