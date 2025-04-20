@@ -21,7 +21,7 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 20px 20px 50px; 
+      padding: 0px 20px 50px; 
     }
 
     /* Navbar */
