@@ -30,7 +30,7 @@
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 15px 0; /* Add vertical space top & bottom */
+  padding: 0 0; /* Add vertical space top & bottom */
   display: flex;
   justify-content: center;
 }
