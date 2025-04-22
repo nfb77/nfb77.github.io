@@ -25,40 +25,44 @@
     }
 
     /* Navbar */
+
+    
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 0px 100px 0px;
+  padding: 15px 0; /* Add vertical space top & bottom */
   display: flex;
-  flex-wrap: wrap; /* Allows wrapping on very small screens */
   justify-content: center;
-  gap: 20px; /* Space between links */
 }
 
+.nav-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px; /* Space between items */
+}
 
+.navbar a {
+  color: #444;
+  padding: 8px 14px; /* Slightly more vertical padding */
+  text-decoration: none;
+  font-size: 18px;
+  transition: background 0.2s;
+}
 
-    .nav-links {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 0 20px;
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 15px;
-    }
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
 
-    .navbar a {
-      color: #444;
-      padding: 10px 15px;
-      text-decoration: none;
-      font-size: 18px;
-      transition: background 0.2s;
-    }
-
-   .navbar a:hover {
-      background-color: #eee;
-      border-radius: 5px;
-    }
+  .navbar a {
+    font-size: 16px;
+    padding: 6px 10px;
+  }
+}
     
     h1, h2 {
       margin: 30px 0 15px;
