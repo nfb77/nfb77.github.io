@@ -26,21 +26,23 @@
 
     /* Navbar */
 
-    
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 20px 0; /* Add vertical space top & bottom */
+  padding: 15px 0;
   display: flex;
   justify-content: center;
+  align-items: center; /* ✅ This vertically centers nav items */
 }
 
 .nav-links {
   display: flex;
+  align-items: center; /* ✅ Ensures vertical alignment */
   justify-content: center;
   flex-wrap: wrap;
-  gap: 25px; /* Space between items */
-}
+  gap: 25px;
+}    
+
 
 .navbar a {
   color: #444;
