@@ -29,7 +29,6 @@
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 15px 0;
   display: flex;
   justify-content: center;
   align-items: center; /* ✅ This vertically centers nav items */
