@@ -29,7 +29,7 @@
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 10px 25px; 
+  padding: 25px 25px; 
   justify-content: center;
 }
 
