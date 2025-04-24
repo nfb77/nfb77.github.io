@@ -109,15 +109,6 @@
       width: 48%;
     }
 
-    @media (max-width: 768px) {
-      .nav-links {
-        flex-direction: column;
-        align-items: center;
-      }
-
-      .half-img {
-        width: 100%;
-      }
     }
   </style>
 </head>
