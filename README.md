@@ -29,6 +29,7 @@
 .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
+  padding: 0 10px; 
   display: flex;
   justify-content: center;
 }
