@@ -31,7 +31,6 @@
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
   display: flex;
-  justify-content: center;
   align-items: center; /* ✅ This vertically centers nav items */
 }
 
