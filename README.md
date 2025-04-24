@@ -83,7 +83,7 @@
       border: none;
       height: 2px;
       background-color: #ddd;
-      margin: 20px 0;
+      margin: 40px 0;
     }
 
     .image-container {
@@ -113,7 +113,7 @@
   </style>
 </head>
 <body>
-
+  
   <div class="navbar">
     <div class="nav-links">
       <a href="#about">About Me</a>
