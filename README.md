@@ -58,7 +58,7 @@
 }
 
     h1, h2 {
-      margin: 30px 0 15px;
+      margin: 15px 0 15px;
       color: #2c3e50;
     }
 
