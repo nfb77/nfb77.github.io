@@ -26,43 +26,35 @@
       padding: 20px 20px 50px; 
     }
 
-    /* Navbar */
-
-.navbar {
+    .navbar {
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
-  padding: 10px 10px; 
-  display: flex;  
+  padding: 10px 10px;
+  display: flex;
   justify-content: center;
 }
 
 .nav-links {
   display: flex;
-  align-items: center; /* ✅ Ensures vertical alignment */
+  align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   gap: 25px;
-}    
-
+}
 
 .navbar a {
   color: #444;
-  padding: 8px 16px; /* Slightly more vertical padding */
+  padding: 8px 16px;
   text-decoration: none;
   font-size: 18px;
   transition: background 0.2s;
 }
 
-  .navbar a {
-    font-size: 18px;
-    padding: 0 10px;
-  }
+.navbar a:hover {
+  background-color: #eee;
+  border-radius: 5px;
 }
-   .navbar a:hover {
-      background-color: #eee;
-      border-radius: 5px;
-    }
-    
+
     h1, h2 {
       margin: 30px 0 15px;
       color: #2c3e50;
