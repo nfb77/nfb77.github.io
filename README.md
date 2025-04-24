@@ -6,6 +6,7 @@
   <style>
     /* Reset & Base Styles */
     * {
+      font-family: 'Garamond', serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
