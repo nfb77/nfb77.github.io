@@ -51,7 +51,7 @@
   transition: background 0.2s;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 2500px) {
   .nav-links {
     flex-direction: row;
     flex-wrap: wrap;
