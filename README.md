@@ -44,7 +44,7 @@
 
 .navbar a {
   color: #444;
-  padding: 8px 14px; /* Slightly more vertical padding */
+  padding: 8px 0px; /* Slightly more vertical padding */
   text-decoration: none;
   font-size: 18px;
   transition: background 0.2s;
