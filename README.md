@@ -58,7 +58,7 @@
 }
 
     h1, h2 {
-      margin: 15px 0 15px;
+      margin: 30px 0 15px;
       color: #2c3e50;
     }
 
@@ -83,7 +83,7 @@
       border: none;
       height: 2px;
       background-color: #ddd;
-      margin: 40px 0;
+      margin: 20px 0;
     }
 
     .image-container {
