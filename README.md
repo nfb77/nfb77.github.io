@@ -53,14 +53,6 @@
   transition: background 0.2s;
 }
 
-@media (max-width: 2500px) {
-  .nav-links {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-
   .navbar a {
     font-size: 18px;
     padding: 0 10px;
