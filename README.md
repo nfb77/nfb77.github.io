@@ -1,12 +1,14 @@
 <html lang="en">
 <head>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Nicc Forster-Benson</title>
   <style>
     /* Reset & Base Styles */
     * {
-      font-family: 'Garamond', serif;
+      font-family: 'EB Garamond', serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
