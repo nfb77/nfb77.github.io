@@ -61,7 +61,7 @@
 
   .navbar a {
     font-size: 16px;
-    padding: 6px 10px;
+    padding: 0 10px;
   }
 }
    .navbar a:hover {
