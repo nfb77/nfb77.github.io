@@ -8,7 +8,7 @@
   <style>
     /* Reset & Base Styles */
     * {
-      font-family: 'EB Garamond', serif;
+      font-family: 'Garamond','EB Garamond',  serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
@@ -32,6 +32,7 @@
   background-color: #f9f9f9;
   border-bottom: 1px solid #ddd;
   padding: 15px 0; 
+  display: flex;  
   justify-content: center;
 }
 
