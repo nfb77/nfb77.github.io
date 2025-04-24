@@ -25,6 +25,8 @@
       margin: 0 auto;
       padding: 20px 20px 50px; 
     }
+   
+    /* Navbar */
 
     .navbar {
   background-color: #f9f9f9;
@@ -44,7 +46,7 @@
 
 .navbar a {
   color: #444;
-  padding: 8px 16px;
+  padding: 8px 8px;
   text-decoration: none;
   font-size: 18px;
   transition: background 0.2s;
