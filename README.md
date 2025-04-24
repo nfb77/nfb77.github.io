@@ -60,7 +60,7 @@
   }
 
   .navbar a {
-    font-size: 16px;
+    font-size: 18px;
     padding: 0 10px;
   }
 }
@@ -76,7 +76,7 @@
 
     p, li {
       margin-bottom: 16px;
-      font-size: 17px;
+      font-size: 18px;
     }
 
     ul {
