@@ -83,7 +83,6 @@
 
     a:hover {
       text-decoration: underline;
-      border-radius: 5px;
     }
 
     hr {
