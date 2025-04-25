@@ -157,13 +157,13 @@
         Vanderbilt University, Department of Economics — <a href="https://nfb77.github.io/Files/EconStatFall24.pdf" target="_blank">Syllabus</a><br>
         Led weekly office hours and assisted in evaluation related to set theory, probability, random variables, and regression analysis.
       </li>
-      <li><strong>SOC 3202 Cultural Production and Institutions, Teaching Assistant, Fall 2023</strong><br>
-        Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3203Fall.pdf" target="_blank">Syllabus</a><br>
-        Assisted in grading and instruction on the sociology of cultural production—from drill music to 15th-century Italian painting.
-      </li>
       <li><strong>SOC 3233 Contemporary American Society, Teaching Assistant, Fall 2022, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
         Key creation and essay evaluation regarding political, economic, and social changes in the U.S.
+      </li>
+      <li><strong>SOC 3202 Cultural Production and Institutions, Teaching Assistant, Fall 2023</strong><br>
+        Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3203Fall.pdf" target="_blank">Syllabus</a><br>
+        Assisted in grading and instruction on the sociology of cultural production—from drill music to 15th-century Italian painting.
       </li>
     </ul>
 
