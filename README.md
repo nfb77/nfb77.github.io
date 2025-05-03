@@ -117,7 +117,7 @@
   <div class="navbar">
     <div class="nav-links">
       <a href="#about">About Me</a>
-      <a href="https://nfb77.github.io/Files/NFB_CV25.pdf" target="_blank">CV</a>
+      <a href="https://nfb77.github.io/Files/CV2025.pdf" target="_blank">CV</a>
       <a href="#research">Research</a>
       <a href="#teaching">Teaching</a>
     </div>
