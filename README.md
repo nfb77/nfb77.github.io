@@ -141,8 +141,7 @@
 
     <h2 id="research">Research</h2>
     <p>
-      <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp;
-   /* <a href="https://scholar.google.com/citations?user=kRAT0zUAAAAJ&hl=en" target="_blank">Google Scholar</a>  */
+      <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
     </p>
 
     <p>In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville.</p>
