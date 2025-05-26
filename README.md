@@ -32,7 +32,7 @@
       border-bottom: 1px solid #ddd;
       position: fixed;
       justify-content: center; 
-      padding: 20px 0;
+      padding: 15px 0;
       top: 0;
       left: 0;
       width: 100%;
