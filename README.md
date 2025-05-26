@@ -149,7 +149,7 @@
       <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
     </p>
     
-    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understands of the relations between state agents, knowledge production, governance, and inequality.</p>
+    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understanding of the relations between state agents, knowledge production, governance, and inequality.</p>
     
     <p>Currently, Nicc's research explores how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Focusing on the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.</p>
 
