@@ -31,7 +31,8 @@
       background-color: #f9f9f9; /* same as body */
       border-bottom: 1px solid #ddd;
       position: fixed;
-      align-items: center;
+      justify-content: center; 
+      padding: 20px 0;
       top: 0;
       left: 0;
       width: 100%;
