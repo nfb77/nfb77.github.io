@@ -32,7 +32,7 @@
       position: absolute;
       justify-content: center; 
       padding: 10px 0;
-      top: 5;
+      top: 0;
       left: 0;
       width: 100%;
       z-index: 1000;
