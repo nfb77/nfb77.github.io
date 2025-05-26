@@ -31,8 +31,8 @@
       background-color: #f9f9f9; /* same as body */
       position: absolute;
       justify-content: center; 
-      padding: 20px 0;
-      top: 0;
+      padding: 10px 0;
+      top: 5;
       left: 0;
       width: 100%;
       z-index: 1000;
