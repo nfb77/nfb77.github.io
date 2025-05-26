@@ -136,10 +136,10 @@
     <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
 
     <h2>About Me</h2>
-    <p>Nicc received his BA in Economics and Quantitative Social Science (interdisciplinary) from Vanderbilt University in May of 2025. With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in exploring the relations between state agents, knowledge production, and governance.</p>
-
-    <p>Currently, Nicc's research explores how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Focusing on the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.</p>
-
+    <p>Nicc received his BA in Economics and Quantitative Social Science (interdisciplinary) from Vanderbilt University in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville.</p>
+    
+    <p>Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
+    
     <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
       <hr style="border: none; height: 1px; background-color: d; margin-bottom: 0px 0;">
@@ -148,10 +148,10 @@
     <p>
       <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
     </p>
-
-    <p>In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville. Nicc’s findings demonstrated the regressive effects of upzoning on housing affordability, relating upzoning policies to the peripheralization of black communities in Nashville.</p>
-
-    <p>Nicc has worked under the mentorship of both Dr. Richard Lloyd (VU sociology) and Karim Nchare (VU economics) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
+    
+    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understands of the relations between state agents, knowledge production, governance, and inequality.</p>
+    
+    <p>Currently, Nicc's research explores how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Focusing on the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.</p>
 
         <hr style="border: none; height: 1px; background-color: gainsboro; margin-bottom: 0px 0;">
 
