@@ -36,6 +36,9 @@
   justify-content: center;
   position: fixed;
   flex-wrap: wrap; 
+  z-index: 1000;
+  display: flex;
+  gap: 20px;
   }
 
 .nav-links {
