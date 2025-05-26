@@ -30,7 +30,7 @@
       .navbar {
       background-color: #f9f9f9; /* same as body */
       border-bottom: 1px solid #ddd;
-      position: fixed;
+      position: absolute;
       justify-content: center; 
       padding: 15px 0;
       top: 0;
