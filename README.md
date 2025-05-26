@@ -27,21 +27,22 @@
     }
    
     /* Navbar */
-
-    .navbar {
-  background-color: #f9f9f9;
-  border-bottom: 1px solid #ddd;
-  padding: 10px 10px;
-  display: flex;
-  justify-content: center;
-  position: fixed;
-  flex-wrap: wrap; 
-  z-index: 1000;
-  display: flex;
-  gap: 20px;
-  }
-
-.nav-links {
+      .navbar {
+      background-color: #f9f9f9; /* same as body */
+      border-bottom: 1px solid #ddd;
+      padding: 15px 0;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      display: flex;
+      flex-wrap: wrap; 
+      gap: 20px; 
+    }
+    
+    
+    .nav-links {
   display: flex;
   align-items: center;
   justify-content: center;
