@@ -35,6 +35,7 @@
   display: flex;
   justify-content: center;
   position: fixed;
+  flex-wrap: wrap; 
   }
 
 .nav-links {
