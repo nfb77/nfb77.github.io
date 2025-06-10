@@ -64,7 +64,7 @@
 }
 
     h1, h2 {
-      margin: 30px 0 15px;
+      margin: 60px 0 20px;
       color: #2c3e50;
     }
 
