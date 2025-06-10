@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="harvard-logo.png" />
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -29,7 +28,7 @@
    
     /* Navbar */
       .navbar {
-      background-color: #943126; /* same as body */
+      background-color: #f9f9f9; /* same as body */
       position: absolute;
       justify-content: center; 
       padding: 20px 0 10px 0;
@@ -51,7 +50,7 @@
 }
 
 .navbar a {
-  color: #f9f9f9;
+  color: #444;
   padding: 8px 8px;
   text-decoration: none;
   font-size: 18px;
