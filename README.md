@@ -29,7 +29,7 @@
    
     /* Navbar */
       .navbar {
-      background-color: #f9f9f9; /* same as body */
+      background-color: #943126; /* same as body */
       position: absolute;
       justify-content: center; 
       padding: 20px 0 10px 0;
