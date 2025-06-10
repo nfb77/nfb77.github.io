@@ -142,7 +142,7 @@
     
     <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
-      <hr style="border: none; height: 1px; background-color: #F5F5F5; margin-bottom: 0px 0;">
+      <hr style="border: none; height: 1px; background-color: #EEEEEE; margin-bottom: 0px 0;">
 
     <h2 id="research">Research</h2>
     <p>
@@ -153,7 +153,7 @@
     
     <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understanding of the relations between state agents, knowledge production, governance, and inequality.</p>
 
-        <hr style="border: none; height: 1px; background-color: #F5F5F5; margin-bottom: 0px 0;">
+        <hr style="border: none; height: 1px; background-color: #EEEEEE; margin-bottom: 0px 0;">
 
     <h2 id="teaching">Teaching</h2>
     <ul>
@@ -171,7 +171,7 @@
       </li>
     </ul>
 
-        <hr style="border: none; height: 1px; background-color: #F5F5F5; margin-bottom: 0px 0;">
+        <hr style="border: none; height: 1px; background-color: #EEEEEE; margin-bottom: 0px 0;">
 
     <h2 id="contact">Contact</h2>
     <p>📧 <a href="mailto:nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a></p>
