@@ -65,7 +65,7 @@
 
     h1, h2 {
       scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
-      margin: 60px 0 70px;
+      margin-bottom: 60px;
       color: #2c3e50;
     }
 
