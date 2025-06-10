@@ -143,8 +143,6 @@
     
     <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
-      <hr style="border: none; height: 1px; background-color: #EEEEEE; margin-bottom: 0px 0;">
-
     <h2 id="research">Research</h2>
     <p>
       <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
@@ -154,7 +152,6 @@
     
     <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understanding of the relations between state agents, knowledge production, governance, and inequality.</p>
 
-        <hr style="border: none; height: 1px; background-color: #EEEEEE; margin-bottom: 0px 0;">
 
     <h2 id="teaching">Teaching</h2>
     <ul>
@@ -171,8 +168,6 @@
         Assisted in grading and instruction on the sociology of cultural production—from drill music to 15th-century Italian painting.
       </li>
     </ul>
-
-        <hr style="border: none; height: 1px; background-color: #EEEEEE; margin-bottom: 0px 0;">
 
     <h2 id="contact">Contact</h2>
     <p>📧 <a href="mailto:nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a></p>
