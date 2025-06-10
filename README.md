@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
-<head>
   <link rel="icon" type="image/png" href="HUShield.png" />
 </head>
   <meta charset="UTF-8" />
