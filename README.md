@@ -142,7 +142,7 @@
     
     <p>Nicc has worked under the mentorship of both Dr. Karim Nchare (VU economics) and Dr. Richard Lloyd (VU sociology) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
     
-    <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala, Sweden. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
+    <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
 
     <h2 id="research">Research</h2>
     <p>
