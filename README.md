@@ -26,9 +26,8 @@
       margin: 0 auto;
       padding: 0px 20px 50px; 
     }
+ 
     .top-bar {
-      position: absolute;
-      z-index: 1000;
       background-color: #0d2340;
       color: white;
       text-align: center;
@@ -38,8 +37,6 @@
     }
 
     .middle-bar {
-      position: absolute;
-      z-index: 1000;
       background-color: #1f1f1f;
       color: white;
       padding: 25px 20px;
@@ -58,8 +55,6 @@
     }
 
     .navbar {
-      position: absolute;
-      z-index: 1000;
       background-color: #5e676e;
       display: flex;
       justify-content: center;
@@ -76,35 +71,13 @@
       letter-spacing: 1px;
       transition: background-color 0.3s;
       padding: 5px 8px;
-      position: absolute;
-      z-index: 1000;
     }
 
     .navbar a:hover {
       background-color: rgba(255, 255, 255, 0.15);
       border-radius: 4px;
     }
-    
-    .nav-links {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 25px;
-}
 
-.navbar a {
-  color: #444;
-  padding: 8px 8px;
-  text-decoration: none;
-  font-size: 18px;
-  transition: background 0.2s;
-}
-
-.navbar a:hover {
-  background-color: #eee;
-  border-radius: 5px;
-}
 
     h1, h2 {
       scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
