@@ -32,6 +32,7 @@
       color: white;
       padding: 10px 0 10px 10px;
       text-align: left;
+      font-size: 17px;
       top: 0;
       left: 0;
       width: 100%;
