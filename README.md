@@ -30,6 +30,7 @@
       background-color: #0d2340;
       position: absolute;
       color: white;
+      padding: 20px 10px 10px 0;
       justify-content: left; 
       top: 0;
       left: 0;
@@ -44,7 +45,7 @@
       position: absolute;
       justify-content: right; 
       padding: 20px 0 10px 0;
-      top: 25;
+      top: 1;
       left: 0;
       width: 100%;
       z-index: 1000;
