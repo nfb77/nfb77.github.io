@@ -31,7 +31,6 @@
       position: absolute;
       color: white;
       justify-content: left; 
-      padding: 20px 10px 10px 0;
       top: 0;
       left: 0;
       width: 100%;
