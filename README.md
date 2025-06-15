@@ -24,7 +24,7 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 0px 50px 50px; 
+      padding: 0px 100px 50px; 
     }
    .top-bar {
       background-color: #0d2340;
@@ -133,7 +133,7 @@
 </head>
 <body>
    <!-- Top Bar -->
-  <div class="top-bar">Nicc Forster-Benson</div>
+  <div class="top-bar"> Nicc Forster-Benson</div>
 
   <div class="navbar">
     <div class="nav-links">
