@@ -30,7 +30,7 @@
       background-color: #0d2340;
       position: absolute;
       color: white;
-      padding: 20px 0 10px 0;
+      padding: 20px 0 10px 10px;
       text-align: left;
       top: 0;
       left: 0;
