@@ -44,8 +44,8 @@
       background-color: #1f1f1f;
       position: absolute;
       justify-content: right; 
-      top: 0;
       padding: 20px 0 10px 0;
+      top: 50;
       left: 0;
       width: 100%;
       z-index: 1000;
@@ -72,7 +72,7 @@
 
 .navbar a:hover {
   background-color:  rgba(255, 255, 255, 0.15);
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
     h1, h2 {
