@@ -24,13 +24,13 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 0px 20px 50px; 
+      padding: 0px 50px 50px; 
     }
    .top-bar {
       background-color: #0d2340;
       position: absolute;
       color: white;
-      padding: 20px 10px 10px 0;
+      padding: 20px 0 10px 0;
       text-align: left;
       top: 0;
       left: 0;
@@ -44,7 +44,7 @@
       background-color: #1f1f1f;
       position: absolute;
       justify-content: center; 
-      padding: 20px 0 10px 0;
+      padding: 10px 0 10px 0;
       top: 50px;
       left: 0;
       width: 100%;
