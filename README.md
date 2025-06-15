@@ -26,14 +26,25 @@
       margin: 0 auto;
       padding: 0px 20px 50px; 
     }
+   .top-bar {
+      background-color: #0d2340;
+      position: absolute;
+      color: white;
+      justify-content: left; 
+      padding: 20px 0 10px 0;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      display: flex;
+      flex-wrap: wrap; }
    
     /* Navbar */
       .navbar {
-      background-color: #0d2340;
+      background-color: #1f1f1f;
       position: absolute;
-      justify-content: center; 
+      justify-content: right; 
       padding: 20px 0 10px 0;
-      top: 0;
       left: 0;
       width: 100%;
       z-index: 1000;
@@ -120,7 +131,9 @@
   </style>
 </head>
 <body>
-  
+   <!-- Top Bar -->
+  <div class="top-bar">Nicc Forster-Benson</div>
+
   <div class="navbar">
     <div class="nav-links">
       <a href="#about">About Me</a>
