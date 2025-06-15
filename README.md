@@ -29,7 +29,7 @@
    
     /* Navbar */
       .navbar {
-      background-color: #f9f9f9; /* same as body */
+      background-color: #0d2340;
       position: absolute;
       justify-content: center; 
       padding: 20px 0 10px 0;
@@ -51,7 +51,7 @@
 }
 
 .navbar a {
-  color: #444;
+  color: white;
   padding: 8px 8px;
   text-decoration: none;
   font-size: 18px;
