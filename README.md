@@ -24,7 +24,7 @@
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 0px 100px 50px; 
+      padding: 0px 20px 100px; 
     }
    .top-bar {
       background-color: #0d2340;
