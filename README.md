@@ -45,7 +45,6 @@
       position: absolute;
       justify-content: right; 
       padding: 20px 0 10px 0;
-      top: 1;
       left: 0;
       width: 100%;
       z-index: 1000;
