@@ -26,61 +26,42 @@
       margin: 0 auto;
       padding: 0px 20px 50px; 
     }
- 
-    .top-bar {
-      background-color: #0d2340;
-      color: white;
-      text-align: left;
-      padding: 6px 0;
-      font-size: 14px;
-      letter-spacing: 1px;
+   
+    /* Navbar */
+      .navbar {
+      background-color: #f9f9f9; /* same as body */
+      position: absolute;
+      justify-content: center; 
+      padding: 20px 0 10px 0;
       top: 0;
       left: 0;
       width: 100%;
       z-index: 1000;
-    }
-
-    .middle-bar {
-      background-color: #1f1f1f;
-      color: white;
-      padding: 25px 20px;
-      text-align: left;
-      width: 100%;
-      z-index: 1000;
-    }
-
-
-    .middle-bar p {
-      font-size: 18px;
-      margin: 0;
-      opacity: 0.8;
-    }
-
-    .navbar {
-      background-color: #5e676e;
       display: flex;
-      justify-content: center;
-      padding: 15px 0;
-      gap: 40px;
-      width: 100%;
-      z-index: 1000;
+      flex-wrap: wrap; 
     }
+    
+    
+    .nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+}
 
-    .navbar a {
-      color: white;
-      text-transform: uppercase;
-      text-decoration: none;
-      font-size: 15px;
-      letter-spacing: 1px;
-      transition: background-color 0.3s;
-      padding: 5px 8px;
-    }
+.navbar a {
+  color: #444;
+  padding: 8px 8px;
+  text-decoration: none;
+  font-size: 18px;
+  transition: background 0.2s;
+}
 
-    .navbar a:hover {
-      background-color: rgba(255, 255, 255, 0.15);
-      border-radius: 4px;
-    }
-
+.navbar a:hover {
+  background-color: #eee;
+  border-radius: 5px;
+}
 
     h1, h2 {
       scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
@@ -139,13 +120,6 @@
   </style>
 </head>
 <body>
-    <!-- Top Bar -->
-  <div class="top-bar">HARVARD UNIVERSITY</div>
-
-  <!-- Middle Bar -->
-  <div class="middle-bar">
-    <p>Nicc Forster-Benson</p>
-  </div>
   
   <div class="navbar">
     <div class="nav-links">
