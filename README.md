@@ -36,7 +36,7 @@
       padding: 6px 0;
       font-size: 14px;
       letter-spacing: 1px;
-      top: 0;
+      top: 80px;
       left: 0;
       width: 100%;
       z-index: 1000;
