@@ -31,7 +31,7 @@
       position: absolute;
       color: white;
       justify-content: left; 
-      padding: 20px 0 10px 0;
+      padding: 20px 10px 10px 0;
       top: 0;
       left: 0;
       width: 100%;
@@ -45,7 +45,7 @@
       position: absolute;
       justify-content: right; 
       padding: 20px 0 10px 0;
-      top: 50;
+      top: 25;
       left: 0;
       width: 100%;
       z-index: 1000;
