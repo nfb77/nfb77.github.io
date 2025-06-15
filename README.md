@@ -32,6 +32,10 @@
       color: white;
       padding: 20px 10px 10px 0;
       justify-content: left; 
+      text-align: left;
+      padding: 6px 0;
+      font-size: 14px;
+      letter-spacing: 1px;
       top: 0;
       left: 0;
       width: 100%;
