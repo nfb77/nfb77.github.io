@@ -45,7 +45,7 @@
       position: absolute;
       justify-content: center; 
       padding: 20px 0 10px 0;
-      top: 55px;
+      top: 50px;
       left: 0;
       width: 100%;
       z-index: 1000;
@@ -71,7 +71,7 @@
 }
 
 .navbar a:hover {
-  background-color:  rgba(255, 255, 255, 0.15);
+  background-color:  rgba(60, 60, 60);
   border-radius: 4px;
 }
 
