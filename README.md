@@ -43,8 +43,9 @@
       .navbar {
       background-color: #1f1f1f;
       position: absolute;
-      justify-content: right; 
+      justify-content: center; 
       padding: 20px 0 10px 0;
+      top: 80px;
       left: 0;
       width: 100%;
       z-index: 1000;
