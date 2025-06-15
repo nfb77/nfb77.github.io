@@ -3,7 +3,6 @@
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="favicon.ico?">
   <title>Nicc Forster-Benson</title>
-title:Nicc Forster-Benson
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -25,7 +24,7 @@ title:Nicc Forster-Benson
     .wrapper {
       max-width: 1000;
       margin: 0 auto;
-      padding: 20px 10px 100px 10px;
+      padding: 30px 10px 100px 10px;
     }
    .top-bar {
       background-color: #0d2340;
