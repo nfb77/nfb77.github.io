@@ -30,10 +30,14 @@
     .top-bar {
       background-color: #0d2340;
       color: white;
-      text-align: center;
+      text-align: left;
       padding: 6px 0;
       font-size: 14px;
       letter-spacing: 1px;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
     }
 
     .middle-bar {
@@ -41,12 +45,10 @@
       color: white;
       padding: 25px 20px;
       text-align: left;
+      width: 100%;
+      z-index: 1000;
     }
 
-    .middle-bar h1 {
-      font-size: 36px;
-      margin-bottom: 5px;
-    }
 
     .middle-bar p {
       font-size: 18px;
@@ -60,7 +62,8 @@
       justify-content: center;
       padding: 15px 0;
       gap: 40px;
-      flex-wrap: wrap;
+      width: 100%;
+      z-index: 1000;
     }
 
     .navbar a {
@@ -141,8 +144,7 @@
 
   <!-- Middle Bar -->
   <div class="middle-bar">
-    <p>Henry Ford II Professor of the Social Sciences</p>
-    <h1>Nicc Forster-Benson</h1>
+    <p>Nicc Forster-Benson</p>
   </div>
   
   <div class="navbar">
