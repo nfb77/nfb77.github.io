@@ -206,9 +206,9 @@
   <div class="bio-photo-wrapper">
     <img src="Me.JPG" alt="Nicc Forster-Benson" class="bio-photo" />
     <div class="photo-caption">
-      <p><strong>Nicholas (Nicc) Forster-Benson</strong></p>
-      <p><strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></p>
-    <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
+      <p><strong>Nicholas (Nicc) Forster-Benson</strong>
+      <strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a>
+    <strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
     </div>
   </div>
 
