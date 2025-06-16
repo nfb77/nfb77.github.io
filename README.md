@@ -120,6 +120,7 @@
       cursor: pointer;          /* Optional: adds pointer cursor */
     }
     .bio-section {
+      max-width: 100%;
       position: relative;
       display: flex;
       align-items: flex-start;
@@ -127,7 +128,7 @@
     }
     
     .bio-photo {
-      max-width: 50px;
+      max-width: 25%;
       height: auto;
       float: left;
       margin-left: 30px;
