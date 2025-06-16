@@ -147,7 +147,7 @@
 </head>
 <body>
    <!-- Top Bar -->
-  <div class="top-bar" id="home"> <a href="https://nfb77.github.io/#about" class="plain-link" target="_blank">Nicc Forster-Benson</a></div>
+  <div class="top-bar" id="home"> <a href="https://nfb77.github.io/#about" class="plain-link" >Nicc Forster-Benson</a></div>
 
   <div class="navbar">
     <div class="nav-links">
