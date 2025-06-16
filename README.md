@@ -119,11 +119,33 @@
       text-decoration: none;    /* Removes underline */
       cursor: pointer;          /* Optional: adds pointer cursor */
     }
-    .bio-section {
-      position: relative;
+
+        .bio-section {
       display: flex;
       align-items: flex-start;
-      gap: 20px;
+      gap: 30px;
+      max-width: 900px;
+    }
+    
+    .bio-photo-wrapper {
+      text-align: center;
+      max-width: 200px;
+    }
+    
+    .bio-photo {
+      width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+    
+    .photo-caption {
+      margin-top: 8px;
+      font-size: 0.95em;
+      color: #444;
+    }
+    
+    .bio-text {
+      flex: 1;
     }
     
     .plain-link {
@@ -177,24 +199,26 @@
     
 <img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
 
+
     <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
-    <p><strong>PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></strong></p>
-    <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
 
 <div class="bio-section">
-  <img src="Me.JPG" alt="Your Name" style=" max-width: 50px; height: auto; float: left; margin-left: 30px; margin-bottom: 10px; border-radius: 4px;" >
-  <p>
-    I study how the organization of work affects inequality and instability. My projects have dealt with widening disparities between workplaces, payroll instability at subcontractors, and between-group variance decompositions. I work mostly with American and French administrative data – both contemporary and historical – and am interested in the methods we use to understand economic and social life.
-    Here's <a href="your-cv.pdf" class="plain-link">my CV</a>.
-  </p>
-</div>
+  <div class="bio-photo-wrapper">
+    <img src="your-photo.jpg" alt="Your Name" class="bio-photo" />
+    <div class="photo-caption">
+      <p><strong>PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></strong></p>
+    <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
+    </div>
+  </div>
 
-    <h2>About Me</h2>
-    <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
-    
-    <p>Nicc has worked under the mentorship of both Dr. Karim Nchare (VU economics) and Dr. Richard Lloyd (VU sociology) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
-    
-    <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>
+  <div class="bio-text">
+        <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
+            
+            <p>Nicc has worked under the mentorship of both Dr. Karim Nchare (VU economics) and Dr. Richard Lloyd (VU sociology) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
+            
+            <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>    
+  </div>
+</div>
 
 <div class="spacer"></div>
 
