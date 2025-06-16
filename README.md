@@ -119,6 +119,27 @@
       text-decoration: none;    /* Removes underline */
       cursor: pointer;          /* Optional: adds pointer cursor */
     }
+    .bio-section {
+      position: relative;
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+    }
+    
+    .bio-photo {
+      max-width: 250px;
+      height: auto;
+      float: right;
+      margin-left: 30px;
+      margin-bottom: 10px;
+      border-radius: 4px;
+    }
+    
+    .plain-link {
+      color: inherit;
+      text-decoration: none;
+    }
+    
     .image-container {
       display: flex;
       flex-wrap: wrap;
@@ -145,6 +166,9 @@
     }
   </style>
 </head>
+
+
+
 <body>
    <!-- Top Bar -->
   <div class="top-bar" id="home"> <a href="https://nfb77.github.io/#about" class="plain-link" >Nicc Forster-Benson</a></div>
@@ -161,6 +185,14 @@
   <div class="wrapper">
     
 <img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
+
+<div class="bio-section">
+  <img src="your-photo.jpg" alt="Your Name" class="bio-photo" />
+  <p>
+    I study how the organization of work affects inequality and instability. My projects have dealt with widening disparities between workplaces, payroll instability at subcontractors, and between-group variance decompositions. I work mostly with American and French administrative data – both contemporary and historical – and am interested in the methods we use to understand economic and social life.
+    Here's <a href="your-cv.pdf" class="plain-link">my CV</a>.
+  </p>
+</div>
 
     <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
     <p><strong>PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></strong></p>
