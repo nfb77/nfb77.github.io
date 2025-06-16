@@ -126,15 +126,6 @@
       gap: 20px;
     }
     
-    .bio-photo {
-      max-width: 50px;
-      height: auto;
-      float: left;
-      margin-left: 30px;
-      margin-bottom: 10px;
-      border-radius: 4px;
-    }
-    
     .plain-link {
       color: inherit;
       text-decoration: none;
@@ -191,7 +182,7 @@
     <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
 
 <div class="bio-section">
-  <img src="Me.JPG" alt="Your Name" class="bio-photo" />
+  <img src="Me.JPG" alt="Your Name" style=" max-width: 50px; height: auto; float: left; margin-left: 30px; margin-bottom: 10px; border-radius: 4px;" >
   <p>
     I study how the organization of work affects inequality and instability. My projects have dealt with widening disparities between workplaces, payroll instability at subcontractors, and between-group variance decompositions. I work mostly with American and French administrative data – both contemporary and historical – and am interested in the methods we use to understand economic and social life.
     Here's <a href="your-cv.pdf" class="plain-link">my CV</a>.
