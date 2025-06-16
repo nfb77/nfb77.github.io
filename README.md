@@ -129,7 +129,7 @@
     
     .bio-photo-wrapper {
       text-align: center;
-      max-width: 200px;
+      max-width: 300px;
     }
     
     .bio-photo {
