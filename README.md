@@ -154,7 +154,8 @@
   </div>
 
   <div class="wrapper">
-<img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+    
+<img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 20px auto 0 auto; ; display: block; margin: 0 auto;">
 
     <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
     <p><strong>PhD Student, Sociology & Social Policy, Harvard University</strong></p>
