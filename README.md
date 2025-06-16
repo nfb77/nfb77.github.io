@@ -35,7 +35,7 @@
       background-color: #0d2340;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 140px;
+      padding: 10px 0 15px 110px;
       text-align: left;
       font-size: 18px;
       top: 0;
@@ -160,9 +160,8 @@
     <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
     <p><strong>PhD Student, Sociology & Social Policy, Harvard University</strong></p>
     <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
-
     <h2>About Me</h2>
-    <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from Vanderbilt University in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
+    <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from Vanderbilt University in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
     
     <p>Nicc has worked under the mentorship of both Dr. Karim Nchare (VU economics) and Dr. Richard Lloyd (VU sociology) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
     
