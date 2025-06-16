@@ -9,6 +9,7 @@
   <style>
     /* Reset & Base Styles */
     * {
+      title: Nicc Forster-Benson;
       font-family: 'Garamond','EB Garamond',  serif;
       margin: 0;
       padding: 0;
