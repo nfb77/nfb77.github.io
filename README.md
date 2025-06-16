@@ -186,16 +186,16 @@
     
 <img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
 
+    <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
+    <p><strong>PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></strong></p>
 <div class="bio-section">
-  <img src="your-photo.jpg" alt="Your Name" class="bio-photo" />
+  <img src="Me.png" alt="Your Name" class="bio-photo" />
   <p>
     I study how the organization of work affects inequality and instability. My projects have dealt with widening disparities between workplaces, payroll instability at subcontractors, and between-group variance decompositions. I work mostly with American and French administrative data – both contemporary and historical – and am interested in the methods we use to understand economic and social life.
     Here's <a href="your-cv.pdf" class="plain-link">my CV</a>.
   </p>
 </div>
 
-    <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
-    <p><strong>PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></strong></p>
     <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
     <h2>About Me</h2>
     <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
