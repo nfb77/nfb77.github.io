@@ -35,7 +35,7 @@
       background-color: #0d2340;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 100px;
+      padding: 10px 0 15px 140px;
       text-align: left;
       font-size: 18px;
       top: 0;
