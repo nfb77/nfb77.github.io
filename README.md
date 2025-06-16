@@ -10,16 +10,17 @@
   
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
   <style>
     /* Reset & Base Styles */
     * {
-      title: Nicc Forster-Benson;
       font-family: 'Garamond','EB Garamond',  serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
 
+    
     body {
       line-height: 1.6;
       color: #333;
@@ -113,7 +114,11 @@
     .spacer {
       margin-top: 60px;
       }
-
+    .plain-link {
+      color: inherit;           /* Uses the same text color as surrounding text */
+      text-decoration: none;    /* Removes underline */
+      cursor: pointer;          /* Optional: adds pointer cursor */
+    }
     .image-container {
       display: flex;
       flex-wrap: wrap;
