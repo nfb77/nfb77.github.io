@@ -188,6 +188,8 @@
 
     <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
     <p><strong>PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a></strong></p>
+    <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
+
 <div class="bio-section">
   <img src="Me.JPG" alt="Your Name" class="bio-photo" />
   <p>
@@ -196,7 +198,6 @@
   </p>
 </div>
 
-    <p><strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
     <h2>About Me</h2>
     <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
     
