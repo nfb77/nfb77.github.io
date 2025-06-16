@@ -46,9 +46,9 @@
       display: flex;
       flex-wrap: wrap; }
    
-    /* Navbar  colors  #1f1f1f #0d2340  #5e676e   #930f00  #ffce56 #4f4f4f     */  
+    /* Navbar  colors  #1f1f1f #0d2340  #5e676e  #4f4f4f #930f00  #ffce56      */  
       .navbar {
-      background-color: #5e676e;
+      background-color: #930f00;
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
