@@ -107,7 +107,7 @@
       margin: 40px 0;
     }
     .spacer {
-      margin-top: 40px;
+      margin-top: 80px;
       }
 
     .image-container {
