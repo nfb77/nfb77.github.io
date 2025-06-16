@@ -35,7 +35,7 @@
       background-color: #0d2340;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 50px;
+      padding: 10px 0 15px 100px;
       text-align: left;
       font-size: 18px;
       top: 0;
@@ -155,7 +155,7 @@
 
   <div class="wrapper">
     
-<img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 20px auto 0 auto; ; display: block; margin: 0 auto;">
+<img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
 
     <h1 id="about">Nicholas (Nicc) Forster-Benson</h1>
     <p><strong>PhD Student, Sociology & Social Policy, Harvard University</strong></p>
