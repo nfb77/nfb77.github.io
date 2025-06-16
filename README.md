@@ -48,7 +48,7 @@
    
     /* Navbar  colors  #1f1f1f #0d2340  #5e676e  #4f4f4f #840a0a  #ffce56      */  
       .navbar {
-      background-color: #840a0a;
+      background-color: #5e676e;
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
@@ -78,7 +78,7 @@
 }
 
 .navbar a:hover {
-  background-color:  rgba(60, 60, 60);
+  background-color:  #4f4f4f;
   border-radius: 4px;
 }
 
