@@ -48,7 +48,7 @@
    
     /* Navbar  colors  #1f1f1f #0d2340  #5e676e  #4f4f4f #840a0a  #ffce56      */  
       .navbar {
-      background-color: #5e676e;
+      background-color: #1f1f1f;
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
