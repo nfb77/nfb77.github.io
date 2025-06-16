@@ -142,7 +142,7 @@
 </head>
 <body>
    <!-- Top Bar -->
-  <div class="top-bar"> Nicc Forster-Benson</div>
+  <div class="top-bar" id="home"> Nicc Forster-Benson</div>
 
   <div class="navbar">
     <div class="nav-links">
