@@ -23,7 +23,7 @@
 
     .wrapper {
       max-width: 1000;
-      margin: 0 auto 100px auto; 
+      margin: 0 auto 50px auto; 
       padding: 30px 10px 10px 10px;
     }
    .top-bar {
