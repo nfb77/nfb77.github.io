@@ -127,7 +127,7 @@
     }
     
     .bio-photo {
-      max-width: 250px;
+      max-width: 50px;
       height: auto;
       float: left;
       margin-left: 30px;
