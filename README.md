@@ -132,12 +132,6 @@
       max-width: 35%;
     }
     
-    .bio-photo {
-      width: 100%;
-      height: auto;
-      border-radius: 4px;
-    }
-    
     .photo-caption {
       margin-top: 8px;
       font-size: 0.95em;
@@ -203,11 +197,11 @@
 
 <div class="bio-section">
   <div class="bio-photo-wrapper">
-    <img src="Me.JPG" alt="Nicc Forster-Benson" class="bio-photo" />
+    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 70%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
-      <p><strong>Nicholas (Nicc) Forster-Benson</strong>
-      <strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a>
-    <strong>Research Interests:</strong> Knowledge production and policy, political economy, financialization and inequality, mixed methods</p>
+      <p><strong>Nicholas (Nicc) Forster-Benson</strong> <br>
+      PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
+    Research Interests: Knowledge production and policy, political economy, financialization and inequality, quantitative methods</p>
     </div>
   </div>
 
