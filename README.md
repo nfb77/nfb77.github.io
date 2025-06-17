@@ -175,7 +175,7 @@
       height: 40vh;
       background-attachment: fixed;
       background-size: 75%;
-      background-position: bottom;
+      background-position: top;
       background-repeat: no-repeat;
     }
 
