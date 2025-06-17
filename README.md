@@ -203,13 +203,12 @@
   </div>
 
   <div class="spacer"></div>
-
+  
+  <div class="spacer"></div>
 
 <div class="fixed-bg-section"></div>
 
   <div class="content-section">
-  
-  <div class="wrapper">
     
   <div class="wrapper">
 
