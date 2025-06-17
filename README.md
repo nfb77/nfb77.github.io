@@ -211,6 +211,8 @@
   <div class="content-section">
   
   <div class="wrapper">
+    
+  <div class="wrapper">
 
 
     <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
