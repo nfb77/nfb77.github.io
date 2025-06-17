@@ -200,18 +200,16 @@
     </div>
   </div>
   
-
-  <div class="spacer"></div>
   
-<div class="fixed-bg-section"></div>
+    <div class="fixed-bg-section"></div>
 
     
-  <div class="wrapper">
+    <div class="wrapper">
 
     <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
 
-<div class="bio-section">
-  <div class="bio-photo-wrapper">
+    <div class="bio-section">
+    <div class="bio-photo-wrapper">
     <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 60%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
