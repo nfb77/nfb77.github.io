@@ -199,7 +199,7 @@
   <div class="bio-photo-wrapper">
     <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 60%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
-      <p><p><strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
+      <p><strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: political economy, financialization and inequality, quantitative methods</p>
     </div>
   </div>
