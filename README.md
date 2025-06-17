@@ -137,6 +137,25 @@
     .bio-text {
       flex: 1;
     }
+
+    /* Responsive mobile styles */
+  @media (max-width: 768px) {
+  .bio-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .bio-photo-wrapper {
+    max-width: 80%;
+    flex: 0 0 auto;
+  }
+
+  .bio-text {
+    text-align: left;
+    padding: 0 10px;
+  }
+}
     
     .plain-link {
       color: inherit;           /* Uses the same text color as surrounding text */
