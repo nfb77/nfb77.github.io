@@ -183,7 +183,7 @@
       left: 0;
       width: 100%;
       height: 100vh;
-      background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
+      background-image: src="nashville_map.jpg";
       background-size: cover;
       background-position: center;
       z-index: -1;
