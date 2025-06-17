@@ -115,11 +115,6 @@
       margin-top: 60px;
       }
     
-    .plain-link {
-      color: inherit;           /* Uses the same text color as surrounding text */
-      text-decoration: none;    /* Removes underline */
-      cursor: pointer;          /* Optional: adds pointer cursor */
-    }
 
         .bio-section {
       display: flex;
@@ -144,59 +139,37 @@
     }
     
     .plain-link {
-      color: inherit;
-      text-decoration: none;
+      color: inherit;           /* Uses the same text color as surrounding text */
+      text-decoration: none;    /* Removes underline */      /* Optional: adds pointer cursor      cursor: pointer;     */
     }
     
-    .image-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      margin: 20px 0;
-    }
-
-    .image-container img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
-
-    .wide-img {
-      width: 100%;
-      max-height: 300px;
-      object-fit: cover;
-    }
-
-    .half-img {
-      width: 48%;
-    }
     
-.fixed-background {
-  position: relative;
-  height: 55vh;
-  overflow: hidden;
-}
-
-.fixed-background::before {
-  content: "";
-  background-image: url('nashville_map.jpg');
-  background-size: cover;
-  background-position: center;
-  position: fixed;
-  top: 110px;
-  left: 0;
-  height: 55vh;
-  width: 100%;
-  z-index: -1;
-}
-
-.overlay-content {
-  position: relative;
-  z-index: 1;
-  padding: 40px;
-  color: white;
-}
-  
+      .fixed-background {
+        position: relative;
+        height: 55vh;
+        overflow: hidden;
+      }
+      
+      .fixed-background::before {
+        content: "";
+        background-image: url('nashville_map.jpg');
+        background-size: cover;
+        background-position: center;
+        position: fixed;
+        top: 110px;
+        left: 0;
+        height: 55vh;
+        width: 100%;
+        z-index: -1;
+      }
+      
+      .overlay-content {
+        position: relative;
+        z-index: 1;
+        padding: 40px;
+        color: white;
+      }
+        
   </style>
 </head>
 
@@ -279,9 +252,7 @@
     <h2 id="contact">Contact</h2>
     <p>📧 <a href="mailto:nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a></p>
 
-    <div class="image-container">
-      <img src="r_park1.png" alt="Reservoir Park" class="half-img"/>
-    </div>
+      <img src="r_park1.png" alt="Reservoir Park" style="width: 48%"/>
   
   </div>
 
