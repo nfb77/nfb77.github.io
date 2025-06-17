@@ -129,7 +129,7 @@
     
     .bio-photo-wrapper {
       text-align: center;
-      max-width: 35%;
+      max-width: 40%;
     }
     
     .photo-caption {
@@ -197,7 +197,7 @@
 
 <div class="bio-section">
   <div class="bio-photo-wrapper">
-    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 70%; height: auto; border-radius: 4px;" />
+    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 40%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
       <p><strong>Nicholas (Nicc) Forster-Benson</strong> <br>
       PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
