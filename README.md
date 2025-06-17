@@ -199,8 +199,7 @@
     
 <img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
 
-
-    <h1 id="about">About Me</h1>
+    <h2 id="about">About Me</h2>
 
 <div class="bio-section">
   <div class="bio-photo-wrapper">
