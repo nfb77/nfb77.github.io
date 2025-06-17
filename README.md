@@ -172,7 +172,8 @@
     
   .fixed-bg-section {
       background-image: url('nashville_map.jpg');
-      height: 30vh;
+      height: 40vh;
+      top: 130px;
       background-attachment: fixed;
       background-size: contain;
       background-position: center;
