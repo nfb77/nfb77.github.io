@@ -22,13 +22,13 @@
 
     
     body {
-      line-height: 1.6;
+      line-height: 1.5;
       color: #333;
       background-color: #f9f9f9;
     }
 
     .wrapper {
-      max-width: 1100px;
+      max-width: 1000px;
       margin: 0 auto 50px auto; 
       padding: 30px 10px 10px 10px;
     }
@@ -114,6 +114,7 @@
     .spacer {
       margin-top: 60px;
       }
+    
     .plain-link {
       color: inherit;           /* Uses the same text color as surrounding text */
       text-decoration: none;    /* Removes underline */
@@ -179,10 +180,7 @@
       background-repeat: no-repeat;
     }
 
-    .content-section {
-      background-color: #f9f9f9;
-      padding: 100px 20px;
-    }
+
   
   </style>
 </head>
@@ -207,7 +205,6 @@
   
 <div class="fixed-bg-section"></div>
 
-  <div class="content-section">
     
   <div class="wrapper">
 
@@ -269,8 +266,6 @@
     <div class="image-container">
       <img src="r_park1.png" alt="Reservoir Park" class="half-img"/>
     </div>
-  </div>
-
   
   </div>
 
