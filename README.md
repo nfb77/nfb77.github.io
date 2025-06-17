@@ -193,15 +193,14 @@
     
 <img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
 
-    <h2 id="about">About Me</h2>
+    <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
 
 <div class="bio-section">
   <div class="bio-photo-wrapper">
     <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 60%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
-      <p><strong>Nicholas (Nicc) Forster-Benson</strong> <br>
-      PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
-    Research Interests: political economy, financialization and inequality, quantitative methods</p>
+      <p><p><strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
+    <strong>Research Interests</strong>: political economy, financialization and inequality, quantitative methods</p>
     </div>
   </div>
 
