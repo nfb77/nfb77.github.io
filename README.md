@@ -154,6 +154,14 @@
       background-repeat: no-repeat;
     }
 
+    /* Fallback for mobile */
+    @media (max-width: 768px) {
+    .fixed-background {
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
         
   </style>
 </head>
