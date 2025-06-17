@@ -213,7 +213,6 @@
     
   <div class="wrapper">
 
-
     <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
 
 <div class="bio-section">
