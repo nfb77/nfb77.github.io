@@ -124,12 +124,12 @@
       display: flex;
       align-items: flex-start;
       gap: 30px;
-      max-width: 900px;
+      max-width: 100%;
     }
     
     .bio-photo-wrapper {
       text-align: center;
-      max-width: 300px;
+      max-width: 35%;
     }
     
     .bio-photo {
