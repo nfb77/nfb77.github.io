@@ -172,7 +172,7 @@
     
   .fixed-bg-section {
       background-image: url('nashville_map.jpg');
-      height: 40vh;
+      height: 55vh;
       background-attachment: fixed;
       background-size: 75%;
       background-position: top;
@@ -201,11 +201,10 @@
       <a href="#teaching">Teaching</a>
     </div>
   </div>
+  
 
   <div class="spacer"></div>
   
-  <div class="spacer"></div>
-
 <div class="fixed-bg-section"></div>
 
   <div class="content-section">
