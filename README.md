@@ -171,6 +171,15 @@
     }
 
     }
+    .parallax {
+  background-image: url('nashville_map.jpg');
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
   </style>
 </head>
 
@@ -189,9 +198,9 @@
     </div>
   </div>
 
+  <section class="parallax"></section>
+
   <div class="wrapper">
-    
-<img src="nashville_map.jpg" alt="Nashville Map" style="max-width: 75%; height: 70px auto 0 auto; ; display: block; margin: 0 auto;">
 
     <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
 
