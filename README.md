@@ -48,7 +48,7 @@
    
     /* Navbar  colors  #1f1f1f dark grey  #5e676e  light grey #4f4f4f grey  #0d2340 dark blue #840a0a crimson  #ffce56  yellow    */  
       .navbar {
-      background-color: #0d2340;
+      background-color: #1f1f1f;
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
