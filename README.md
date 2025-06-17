@@ -237,7 +237,7 @@
         
     <p> Nicc's research explores how logics of financialization and globalization housing inequality. Focusing on the political of contemporary urban governance, Nicc looks to investigate the relations between knowledge production, markets, policy, and inequality.</p>
     
-    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is investigates how state agents understand and attempt to address economic inequality.</p>
+    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is investigates how state agents come to understand and attempt to address economic inequality.</p>
 
 <div class="spacer"></div>
 
@@ -246,15 +246,16 @@
     <ul>
       <li><strong>ECON 1500 Economic Statistics, Teaching Assistant, Fall 2024</strong><br>
         Vanderbilt University, Department of Economics — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
-        Led weekly office hours and assisted in evaluation related to set theory, probability, random variables, and regression analysis.
+        Set theory, probability, random variables, inference and regression analysis.
       </li>
       <li><strong>SOC 3233 Contemporary American Society, Teaching Assistant, Fall 2022, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
-        Key creation and essay evaluation regarding political, economic, and social changes in the U.S.
+         Changes in political economy, geography, and social class stratification in the United States (1940s-present)
       </li>
       <li><strong>SOC 3202 Cultural Production and Institutions, Teaching Assistant, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3203Fall23.pdf" target="_blank">Syllabus</a><br>
-        Assisted in grading and instruction on the sociology of cultural production—from drill music to 15th-century Italian painting.
+        Examining the production of art and authenticity within various art fields, from the production of drill music to 15th-century Italian painting.
+
       </li>
     </ul>
 
