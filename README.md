@@ -170,14 +170,23 @@
       width: 48%;
     }
 
+     .parallax-container {
+      position: relative;
+      height: 100vh;
+      overflow: hidden;
     }
-    .parallax {
+    
+    }
+    .parallax-bg {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
       height: 100vh;
       background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
-      background-attachment: fixed;
-      background-position: center;
-      background-repeat: no-repeat;
       background-size: cover;
+      background-position: center;
+      z-index: -1;
     }
   
   </style>
@@ -198,8 +207,10 @@
     </div>
   </div>
 
-  <section class="parallax"></section>
-
+  <div class="parallax-container">
+    <div class="parallax-bg"></div>
+  </div>
+  
   <div class="wrapper">
 
 
