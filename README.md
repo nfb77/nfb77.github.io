@@ -142,33 +142,18 @@
       color: inherit;           /* Uses the same text color as surrounding text */
       text-decoration: none;    /* Removes underline */      /* Optional: adds pointer cursor      cursor: pointer;     */
     }
-    
-    
+
       .fixed-background {
-        position: relative;
-        height: 55vh;
-        overflow: hidden;
-      }
-      
-      .fixed-background::before {
-        content: "";
-        background-image: url('nashville_map.jpg');
-        background-size: cover;
-        background-position: center;
-        position: fixed;
-        top: 110px;
-        left: 0;
-        height: 55vh;
-        width: 100%;
-        z-index: -1;
-      }
-      
-      .overlay-content {
-        position: relative;
-        z-index: 1;
-        padding: 40px;
-        color: white;
-      }
+      margin-top: 70px;
+      margin-bottom: 30px;
+      background-image: url('nashville_map.jpg');
+      height: 55vh;
+      background-attachment: fixed;
+      background-size: 75%;
+      background-position: top;
+      background-repeat: no-repeat;
+    }
+
         
   </style>
 </head>
@@ -190,8 +175,6 @@
   
   
     <div class="fixed-background">
-    <div class="overlay-content">
-    </div>
     </div>
     
     <div class="wrapper">
