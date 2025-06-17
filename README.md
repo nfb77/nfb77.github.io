@@ -198,9 +198,11 @@
     </div>
   </div>
 
-  <section class="parallax"></section>
 
   <div class="wrapper">
+
+    <section class="parallax"></section>
+
 
     <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
 
