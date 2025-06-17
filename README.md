@@ -175,7 +175,7 @@
       height: 40vh;
       top: 250px;
       background-attachment: fixed;
-      background-size: auto;
+      background-size: 90%;
       background-position: center;
       background-repeat: no-repeat;
     }
