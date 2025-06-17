@@ -28,9 +28,11 @@
     }
 
     .wrapper {
-      width: 100%;
       background-color: #f9f9f9;
+      margin: 0 auto 50px auto; 
+      padding: 30px 10px 10px 10px;
     }
+    
    .top-bar {
       background-color: #0d2340;
       position: absolute;
