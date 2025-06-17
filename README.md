@@ -33,7 +33,7 @@
     }
     
    .top-bar {
-      background-color: #0d2340;
+      background-color: #840a0a;
       position: absolute;
       color: white;
       padding: 10px 0 15px 130px;
@@ -46,9 +46,9 @@
       display: flex;
       flex-wrap: wrap; }
    
-    /* Navbar  colors  #1f1f1f #0d2340  #5e676e  #4f4f4f #840a0a  #ffce56      */  
+    /* Navbar  colors  #1f1f1f dark grey  #5e676e  light grey #4f4f4f grey  #0d2340 dark blue #840a0a crimson  #ffce56  yellow    */  
       .navbar {
-      background-color: #1f1f1f;
+      background-color: #0d2340;
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
