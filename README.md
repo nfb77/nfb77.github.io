@@ -199,15 +199,15 @@
   <div class="bio-photo-wrapper">
     <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 60%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
-      <p><strong>PhD Student</strong>, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
+      <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: political economy, financialization and inequality, quantitative methods</p>
     </div>
   </div>
 
   <div class="bio-text">
-        <p>Nicc is an incoming <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in Economics and Quantitative Social Science (interdisciplinary) from <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
+        <p>Nicc is an incoming <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Economics</a> and Quantitative Social Science (interdisciplinary) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
             
-            <p>Nicc has worked under the mentorship of both Dr. Karim Nchare (VU economics) and Dr. Richard Lloyd (VU sociology) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
+            <p>Nicc has worked under the mentorship of both <a href="https://sites.google.com/view/karimnchare/accueil" class="plain-link" target="_blank">Dr. Karim Nchare</a> (<a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">VU Economics</a>) and <a href="https://scholar.google.com/citations?user=0uUc8-cAAAAJ&hl=en" class="plain-link" target="_blank">Dr. Richard Lloyd</a> (<a href="https://as.vanderbilt.edu/sociology/" class="plain-link" target="_blank">VU Sociology</a>) navigating the complexities of formal economic modeling in relation to the socially-temporally contingent nature of economic phenomenon. In another strand of research, Nicc analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
             
             <p>Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>    
   </div>
@@ -220,9 +220,9 @@
       <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
     </p>
         
-    <p>Currently, Nicc's research explores how logics of financialization and globalization housing inequality. Focusing on the political of contemporary urban governance, Nicc looks to investigate the relations between knowledge production, markets, policy, and inequality.</p>
+    <p> Nicc's research explores how logics of financialization and globalization housing inequality. Focusing on the political of contemporary urban governance, Nicc looks to investigate the relations between knowledge production, markets, policy, and inequality.</p>
     
-    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understanding of the relations between state agents, knowledge production, governance, and inequality.</p>
+    <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is investigates how state agents understand and attempt to address economic inequality.</p>
 
 <div class="spacer"></div>
 
