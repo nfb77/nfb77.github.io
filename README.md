@@ -172,15 +172,13 @@
 
     }
     .parallax {
-  background-image: url('nashville_map.jpg');
-  top: 47px;
-  left: 0;
-  height: 1000px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+      height: 100vh;
+      background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
   
   </style>
 </head>
