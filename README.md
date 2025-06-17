@@ -248,7 +248,7 @@
       </li>
       <li><strong>SOC 3233 Contemporary American Society, Teaching Assistant, Fall 2022, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
-         Changes in political economy, geography, and social class stratification in the United States (1940s-present)
+         Changes in political economy, geography, and social class stratification in the United States (1940s-present).
       </li>
       <li><strong>SOC 3202 Cultural Production and Institutions, Teaching Assistant, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3203Fall23.pdf" target="_blank">Syllabus</a><br>
