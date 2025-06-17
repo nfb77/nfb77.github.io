@@ -172,7 +172,7 @@
 
     }
     .parallax {
-  background-image: url('nashville_map.jpg');
+  background-image: url('https://picsum.photos/id/1018/1000/600');
   top: 47px;
   left: 0;
   height: 1000px;
