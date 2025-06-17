@@ -174,7 +174,7 @@
       background-image: url('nashville_map.jpg');
       height: 40vh;
       background-attachment: fixed;
-      background-size: 90%;
+      background-size: 50%;
       background-position: center;
       background-repeat: no-repeat;
     }
