@@ -180,7 +180,7 @@
     }
 
     .content-section {
-      background-color: white;
+      background-color: #f9f9f9;
       padding: 100px 20px;
     }
   
