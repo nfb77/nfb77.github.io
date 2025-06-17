@@ -173,7 +173,7 @@
     }
     .parallax {
   background-image: url('nashville_map.jpg');
-  height: 100vh;
+  height: 300px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
