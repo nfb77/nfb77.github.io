@@ -184,7 +184,7 @@
   background-size: cover;
   background-position: center;
   position: fixed;
-  top: 0;
+  top: 150px;
   left: 0;
   height: 55vh;
   width: 100%;
