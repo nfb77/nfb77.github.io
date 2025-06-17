@@ -170,26 +170,19 @@
       width: 48%;
     }
     
-  .background-section {
-        position: relative;
-        height: 100vh;
-        background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80') center / cover no-repeat;
-        z-index: 1;
-      }
-  
-      .scrolling-content {
-        position: relative;
-        z-index: 2; /* Higher than background */
-        background: white;
-        padding: 100px 20px;
-        margin-top: -50vh; /* pull up to overlap the background */
-      }
-  
-      .scrolling-content::before {
-        content: "";
-        display: block;
-        height: 50vh; /* acts as spacer to cover background */
-      }
+  .fixed-bg-section {
+      background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
+      height: 100vh;
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .content-section {
+      background-color: white;
+      padding: 100px 20px;
+    }
   
   </style>
 </head>
@@ -209,11 +202,9 @@
     </div>
   </div>
 
-<div class="background-section"></div>
+<div class="fixed-bg-section"></div>
 
-  <div class="scrolling-content">
-  
-
+  <div class="content-section">
   
   <div class="wrapper">
 
