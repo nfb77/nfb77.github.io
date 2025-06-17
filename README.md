@@ -197,11 +197,11 @@
 
 <div class="bio-section">
   <div class="bio-photo-wrapper">
-    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 40%; height: auto; border-radius: 4px;" />
+    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 60%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
       <p><strong>Nicholas (Nicc) Forster-Benson</strong> <br>
       PhD Student, <a href="https://www.hks.harvard.edu/node/104091/doctoral-programs/phd-social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
-    Research Interests: Knowledge production and policy, political economy, financialization and inequality, quantitative methods</p>
+    Research Interests: political economy, financialization and inequality, quantitative methods</p>
     </div>
   </div>
 
@@ -221,7 +221,7 @@
       <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
     </p>
         
-    <p>Currently, Nicc's research explores how the logics of financialization and globalization shape inequality, permeating housing, infrastructure, and public space. Focusing on the socio-political dynamics of contemporary urban governance, Nicc looks to investigate the evolving relationships between cities, markets, and policy.</p>
+    <p>Currently, Nicc's research explores how logics of financialization and globalization housing inequality. Focusing on the political of contemporary urban governance, Nicc looks to investigate the relations between knowledge production, markets, policy, and inequality.</p>
     
     <p>With experience working for the Tennessee Department of Treasury, the U.S. Federal Reserve Board of Governors, and running for political office in Tennessee, Nicc is interested in bettering our understanding of the relations between state agents, knowledge production, governance, and inequality.</p>
 
