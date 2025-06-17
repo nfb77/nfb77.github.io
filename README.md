@@ -252,7 +252,7 @@
     <h2 id="contact">Contact</h2>
     <p>📧 <a href="mailto:nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a></p>
 
-      <img src="r_park1.png" alt="Reservoir Park" style="width: 48%"/>
+      <img src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
   
   </div>
 
