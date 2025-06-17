@@ -169,25 +169,27 @@
     .half-img {
       width: 48%;
     }
-
-     .parallax-container {
-      position: relative;
-      height: 100vh;
-      overflow: hidden;
-    }
     
-    }
-    .parallax-bg {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100vh;
-      background-image: src="nashville_map.jpg";
-      background-size: cover;
-      background-position: center;
-      z-index: 1001;
-    }
+  .background-section {
+        position: relative;
+        height: 100vh;
+        background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80') center / cover no-repeat;
+        z-index: 1;
+      }
+  
+      .scrolling-content {
+        position: relative;
+        z-index: 2; /* Higher than background */
+        background: white;
+        padding: 100px 20px;
+        margin-top: -50vh; /* pull up to overlap the background */
+      }
+  
+      .scrolling-content::before {
+        content: "";
+        display: block;
+        height: 50vh; /* acts as spacer to cover background */
+      }
   
   </style>
 </head>
@@ -207,9 +209,11 @@
     </div>
   </div>
 
-  <div class="parallax-container">
-    <div class="parallax-bg"></div>
-  </div>
+<div class="background-section"></div>
+
+  <div class="scrolling-content">
+  
+
   
   <div class="wrapper">
 
@@ -272,6 +276,9 @@
     <div class="image-container">
       <img src="r_park1.png" alt="Reservoir Park" class="half-img"/>
     </div>
+  </div>
+
+  
   </div>
 
 </body>
