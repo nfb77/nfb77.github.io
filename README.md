@@ -29,7 +29,7 @@
 
     .wrapper {
       background-color: #f9f9f9;
-      margin: 0 auto 50px auto; 
+      margin: 0; 
       padding: 30px 10px 10px 10px;
     }
     
