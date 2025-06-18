@@ -164,7 +164,7 @@
     }
 
       .fixed-background {
-      margin-top: 70px;
+      margin-top: 100px;
       margin-bottom: 30px;
       background-image: url('nashville_map.jpg');
       height: 55vh;
