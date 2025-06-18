@@ -125,7 +125,7 @@
     
     .bio-photo-wrapper {
       text-align: center;
-      max-width: 35%;
+      max-width: 37%;
     }
     
     .photo-caption {
@@ -210,7 +210,7 @@
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">
-    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 100%; height: auto; border-radius: 4px;" />
+    <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 93%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: political economy, financialization and inequality, quantitative methods</p>
