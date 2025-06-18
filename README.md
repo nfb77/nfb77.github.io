@@ -125,7 +125,7 @@
     
     .bio-photo-wrapper {
       text-align: center;
-      max-width: 40%;
+      max-width: 50%;
     }
     
     .photo-caption {
