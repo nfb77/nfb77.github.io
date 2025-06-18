@@ -33,7 +33,7 @@
     }
     
    .top-bar {
-      background-color: #840a0a;
+      background-color: #0d2340;
       position: absolute;
       color: white;
       padding: 10px 0 15px 130px;
