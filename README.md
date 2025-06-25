@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/738e5718-d712-4331-931a-d073a625de04)<html lang="en">
+<html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="favicon.ico?">
