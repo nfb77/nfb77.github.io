@@ -1,4 +1,4 @@
-<html lang="en">
+![image](https://github.com/user-attachments/assets/738e5718-d712-4331-931a-d073a625de04)<html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="favicon.ico?">
@@ -213,7 +213,7 @@
     <img src="Me.JPG" alt="Nicc Forster-Benson" style="width: 70%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
-    <strong>Research Interests</strong>: political economy, financialization and inequality, quantitative methods</p>
+    <strong>Research Interests</strong>: political economy, markets and inequality, finance, methodology </p>
     </div>
   </div>
 
