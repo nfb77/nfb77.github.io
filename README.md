@@ -216,7 +216,6 @@
     <strong>Research Interests</strong>: political economy, markets and inequality, financialization, methodology </p>
     </div>
   </div>
-https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php#overview
 
   <div class="bio-text">
         <p>Nicc is an incoming <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. He received his BA in <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" class="plain-link" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a> in May of 2025. In his honors thesis, Nicc applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">estimate the effect of upzoning on housing prices</a> in Nashville.</p>
