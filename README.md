@@ -189,9 +189,9 @@
 
 <body>
    <!-- Top Bar -->
+   <img src="HU1.png" alt="HU one" style="background-color: transparent;height: 50px;top: 20;left: 100; z-index: 1001;" />
+  
   <div class="top-bar" id="home"> 
-      <img src="HU1.png" alt="HU one" style="background-color: transparent;height: 50px;top: 0;
-      left: 0;" />
       <a href="https://nfb77.github.io/#about" text-decoration="underline" class="plain-link" >Nicc Forster-Benson</a></div>
 
   <div class="navbar">
