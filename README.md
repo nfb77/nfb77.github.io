@@ -1,4 +1,4 @@
-<html lang="en">
+![image](https://github.com/user-attachments/assets/064c1d30-78f7-44e8-b609-a030549408ac)<html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="favicon.ico?">
@@ -220,12 +220,12 @@
   </div>
 
   <div class="bio-text">
-        <p>I am an incoming <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. My current research focuses on the political economy of local housing policy in the United States, examining the relationship between financial speculation, liquidity, and inequality.</p>
+        <p>I am an incoming <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. Broadly, my research investigates how various market structures and interventions effect economic inequalities at both the local and global scale.</p>
 
-        <p>Nicc’s current research focuses on the political economy of local housing policy in the United States, examining the relationship between financial speculation, liquidity, and inequality. Another strand of his work focuses on underdevelopment in the global south, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in west Africa.</p>
+        <p>My current research focuses on the political economy of local housing policy in the United States, examining the relationship between financial speculation, liquidity, and inequality. Another strand of my work focuses on underdevelopment in the global south, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in west Africa.</p>
 
         
-          <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" class="plain-link" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. Raised and educated in Nashville, Tennessee, Nicc has also lived in Boston, Chicago, Milan, and Uppsala. In his spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>   
+          <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" class="plain-link" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. I was raised and educated in Nashville, Tennessee, but have also lived in Boston, Chicago, Milan, and Uppsala. In my spare time, he is a pick-up basketball enthusiast and part-time 3-point specialist.</p>   
           
   </div>
 </div>
