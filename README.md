@@ -190,8 +190,7 @@
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home"> <a href="https://nfb77.github.io/#about" class="plain-link" >Nicc Forster-Benson</a>
-    <img src="HULeaf2.png" alt="Harvard Logo" style="height: 25px; background:transparent; align="right";" /> </div>
+  <div class="top-bar" id="home"> <a href="https://nfb77.github.io/#about" class="plain-link" >Nicc Forster-Benson</a> </div>
 
 
   <div class="navbar">
