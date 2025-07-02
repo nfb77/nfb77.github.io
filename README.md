@@ -212,7 +212,7 @@
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">
-    <img src="IMG_4609 1mb.JPEG" alt="Nicc Forster-Benson" style="width: 70%; height: auto; border-radius: 4px;" />
+    <img src="IMG_4613 1mb.jpg" alt="Nicc Forster-Benson" style="width: 70%; height: auto; border-radius: 4px;" />
     <div class="photo-caption">
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: political economy, markets and inequality, financialization, methodology </p>
