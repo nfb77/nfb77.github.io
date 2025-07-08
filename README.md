@@ -207,7 +207,7 @@
     
     <div class="wrapper">
 
-    <h2 id="about">Nicholas (Nicc) Forster-Benson</h2>
+    <h2 id="about">Nicc Forster-Benson</h2>
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">
