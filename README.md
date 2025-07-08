@@ -18,7 +18,6 @@
       font-family: 'Garamond','EB Garamond',  serif;
       margin: 0;
       padding: 0;
-      box-sizing: border-box;
     }
 
     
@@ -180,64 +179,6 @@
     background-size: cover;
   }
 }
-
-
-  .footer {
-  background-color: #222;
-  color: #fff;
-  padding: 40px 20px 20px;
-  font-size: 0.95em;
-}
-
-.footer-container {
-  max-width: 1000px;
-  margin: 0 auto;
-}
-
-.footer-logo {
-  width: 120px;
-  margin-bottom: 15px;
-}
-
-.footer-left p {
-  line-height: 1.6;
-}
-
-.footer-left a {
-  color: #ccc;
-  text-decoration: underline;
-}
-
-.footer-bottom {
-  border-top: 1px solid #444;
-  margin-top: 30px;
-  padding-top: 15px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.footer-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  margin-top: 10px;
-}
-
-.footer-links a {
-  color: #bbb;
-  text-decoration: underline;
-  font-size: 0.9em;
-}
-
-@media (min-width: 600px) {
-  .footer-bottom {
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-  }
-}
-
         
   </style>
 </head>
@@ -327,33 +268,6 @@
       <img src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
   
   </div>
-
-
-  <footer class="footer">
-  <div class="footer-container">
-    <div class="footer-left">
-      <img src="harvard_logo.png" alt="Harvard Logo" class="footer-logo">
-      <p>
-        <strong>Department of Sociology</strong><br>
-        Reservoir Park Courts<br>
-        1801 8th Ave South<br>
-        Nashville, TN 37203<br>
-        Phone: (615) 555-1234<br>
-        Email: <a href="mailto:nforsterbenson@g.harvard.edu">nforsterbenson@g.harvard.edu</a>
-      </p>
-    </div>
-
-    <div class="footer-bottom">
-      <p>© 2025 The President and Fellows of Harvard College</p>
-      <div class="footer-links">
-        <a href="#">Accessibility</a>
-        <a href="#">Digital Accessibility</a>
-        <a href="#">Report Copyright Infringement</a>
-        <a href="#">Info Practices</a>
-      </div>
-    </div>
-  </div>
-</footer>
 
 
 </body>
