@@ -159,7 +159,7 @@
     
     .plain-link {
       color: inherit;           /* Uses the same text color as surrounding text */
-      /* text-decoration: none;     Removes underline */      /* Optional: adds pointer cursor      cursor: pointer;     */
+      text-decoration: none;    */  Removes underline     */ Optional: adds pointer cursor      cursor: pointer;     */
     }
 
       .fixed-background {
@@ -219,12 +219,12 @@
   </div>
 
   <div class="bio-text">
-        <p>I am an incoming <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. Broadly, my research investigates how various market structures and interventions affect economic inequalities at both the local and global scale.</p>
+        <p>I am an incoming <a href="https://gsas.harvard.edu/program/social-policy" target="_blank">Sociology & Social Policy PhD</a> student at Harvard University. Broadly, my research investigates how various market structures and interventions affect economic inequalities at both the local and global scale.</p>
 
         <p>Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, liquidity, and inequality. Another strand of my work focuses on underdevelopment, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in the global south.</p>
 
         
-          <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" class="plain-link" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. I am a lifelong Tennessean, but I have also lived briefly lived in Uppsala, Chicago, Milan, and Boston. In my spare time, I am a pick-up basketball enthusiast and part-time 3-point specialist.</p>   
+          <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/"  target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. I am a lifelong Tennessean, but I have also lived briefly lived in Uppsala, Chicago, Milan, and Boston. In my spare time, I am a pick-up basketball enthusiast and part-time 3-point specialist.</p>   
           
   </div>
 </div>
@@ -236,7 +236,7 @@
       <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
     </p>
 
-    <p>Broadly, my research investigates how various market structures and interventions effect economic inequalities at both the local and global scale. I have worked under the mentorship of both <a href="https://sites.google.com/view/karimnchare/accueil" class="plain-link" target="_blank">Dr. Karim Nchare</a> (<a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">VU Economics</a>) and <a href="https://scholar.google.com/citations?user=0uUc8-cAAAAJ&hl=en" class="plain-link" target="_blank">Dr. Richard Lloyd</a> (<a href="https://as.vanderbilt.edu/sociology/" class="plain-link" target="_blank">VU Sociology</a>) researching housing inequality in Nashville and post-colonial trade patterns in west Africa.</p>
+    <p>Broadly, my research investigates how various market structures and interventions effect economic inequalities at both the local and global scale. I have worked under the mentorship of both <a href="https://sites.google.com/view/karimnchare/accueil" target="_blank">Dr. Karim Nchare</a> (<a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">VU Economics</a>) and <a href="https://scholar.google.com/citations?user=0uUc8-cAAAAJ&hl=en" target="_blank">Dr. Richard Lloyd</a> (<a href="https://as.vanderbilt.edu/sociology/" class="plain-link" target="_blank">VU Sociology</a>) researching housing inequality in Nashville and post-colonial trade patterns in west Africa.</p>
     
     <p>In my honors thesis, I applied causal inference methods from econometrics, taking advantage of a quasi-experimental policy design to estimate heterogeneous market segment <a href="https://nfb77.github.io/Files/URTPN.pdf" target="_blank">effects of upzoning on housing prices in Nashville</a>. In another strand of research, I analyzed trade relationships between Portugal and its former African colonies from 1960–2022, providing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874987" target="_blank">quantitative evidence for the persistence of colonial commodity dependence</a> and natural resource exploitation.</p>
 
