@@ -2,6 +2,7 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="favicon.ico?">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
   <title>Nicc Forster-Benson</title>
   
 <script>
