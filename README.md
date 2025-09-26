@@ -190,7 +190,7 @@
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home"> <a href="https://nfb77.github.io/#about" class="plain-link" >Nicc Forster-Benson</a> </div>
+  <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicc Forster-Benson</a> </div>
 
 
   <div class="navbar">
