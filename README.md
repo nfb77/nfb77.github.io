@@ -220,7 +220,7 @@
   </div>
 
   <div class="bio-text">
-        <p>I am an doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University. Broadly, my research investigates how various market structures and interventions affect economic inequalities at both the local and global scale.</p>
+        <p>I am an doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University and an affiliate of the <a href="https://caps.gov.harvard.edu/" target="_blank">Center for American Political Studies</a> and <a href="https://www.iq.harvard.edu/" target="_blank">the Institute for Quantitative Social Science</a>. Broadly, my research investigates how various market structures and interventions affect economic inequalities at both the local and global scale.</p>
 
         <p>Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, liquidity, and inequality. Another strand of my work focuses on underdevelopment, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in the global south.</p>
 
