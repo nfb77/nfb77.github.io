@@ -215,7 +215,7 @@
     <div class="photo-caption">
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
-    <img src="art4.jpg" alt="Niccccccc" style="width: auto; height: 100px; border-radius: 4px;" /> 
+    <img src="art4.jpg" alt="Niccccccc" style="width: 30%; height: auto; border-radius: 4px;" /> 
     </div>
   </div>
 
