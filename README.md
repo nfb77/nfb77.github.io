@@ -48,7 +48,7 @@
       display: flex;
       flex-wrap: wrap; }
    
-    /* Navbar  colors  #1f1f1f dark grey  #5e676e  light grey #4f4f4f grey  #0d2340 dark blue #0d2340 #840a0a crimson  #ffce56  yellow    */  
+    /* Colors   Grey #1e1e1e(HU web) #1f1f1f #5e676e  #0d2340 light grey #4f4f4f  dark blue #2b416e(HU web) #0d2340 #840a0a crimson  #a51c30(HU web) #ffce56    */  
       .navbar {
       background-color: #1e1e1e;
       position: absolute;
