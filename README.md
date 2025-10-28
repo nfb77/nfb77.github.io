@@ -6,7 +6,7 @@
   <title>Nicc Forster-Benson</title>
   
 <script>
-  document.title = "Nicc Forster-Benson";
+  document.title = "About Me";
 </script>
   
   <meta charset="UTF-8" />
