@@ -6,7 +6,7 @@
   <title>Nicc Forster-Benson</title>
   
 <script>
-  document.title = "About Me";
+  document.title = "Nicc Forster-Benson";
 </script>
   
   <meta charset="UTF-8" />
@@ -208,14 +208,14 @@
     
     <div class="wrapper">
 
-    <h2 id="about">Nicc Forster-Benson</h2>
+    <h2 id="about">About Me</h2>
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
-    <img src="art4.jpg" alt="Niccccccc" style="width: 40%; height: auto; border-radius: 4px;" /> 
+    <img src="art4.jpg" alt="Niccccccc" style="width: auto; height: 100px; border-radius: 4px;" /> 
     </div>
   </div>
 
