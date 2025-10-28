@@ -154,7 +154,7 @@
 
   .bio-text {
     text-align: left;
-    padding: 0 10px;
+    padding: 0px 0px 10px 0px;
   }
 }
     
