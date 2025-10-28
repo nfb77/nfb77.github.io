@@ -213,7 +213,7 @@
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
-        <img src="IMG_3706k.jpg" alt="Niccccccc" style="width: 60%; height: auto; border-radius: 4px;" /> 
+        <img src="IMG_3706k.jpg" alt="Niccccccc" style="width: 70%; height: auto; border-radius: 4px;" /> 
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
     </div>
