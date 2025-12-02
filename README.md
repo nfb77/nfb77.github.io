@@ -3,15 +3,15 @@
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="favicon.ico?">
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-  <title>Nicc Forster-Benson</title>
+  <title>Nicholas Forster-Benson</title>
   
 <script>
-  document.title = "Nicc Forster-Benson";
+  document.title = "Nicholas Forster-Benson";
 </script>
   
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta property="og:title" content="Nicc Forster-Benson">
+  <meta property="og:title" content="Nicholas Forster-Benson">
 
   <style>
     /* Reset & Base Styles */
@@ -190,7 +190,7 @@
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicc Forster-Benson</a> </div>
+  <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> </div>
 
 
   <div class="navbar">
