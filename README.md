@@ -31,7 +31,6 @@
     .wrapper {
   background-color: #f9f9f9;
   margin: 20px auto;              /* space so rounded edges show */
-  border-radius: 50px;
   padding: 30px 20px 20px;
   border: 1px solid #ddd;         /* subtle border */
   border-radius: 14px;            /* rounded corners */
@@ -184,7 +183,7 @@
 
 .contact-box {
   border: 1px dotted #888;
-  padding: 8px 14px;
+  border-radius: 6px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
