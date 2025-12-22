@@ -144,20 +144,33 @@
 }
 
 .sliding-background {
-  background: url("nashville_map.jpg") repeat-x;
-  height: 560px;
-  width: 5076px;
-  animation: slide 60s linear infinite;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200vw;
+  height: 200vh;
+  background-image: url("nashville_map.jpg");
+  background-repeat: repeat;
+  background-size: 800px auto; /* adjust scale here */
+  z-index: -1;
+  animation: diagonal-slide 80s linear infinite;
 }
 
-@keyframes slide{
+@keyframes diagonal-slide {
   0% {
-    transform: translate3d(0, 0, 0);
+    transform: translate(0, 0);
   }
   100% {
-    transform: translate3d(-1692px, 0, 0);
+    transform: translate(-50vw, -50vh);
   }
 }
+
+.content {
+  position: relative;
+  z-index: 1;
+}
+
+    
     /* Responsive mobile styles */
   @media (max-width: 768px) {
   .bio-section {
@@ -221,11 +234,9 @@
     </div>
   </div>
 
-  
-<div class="container">
-  <div class="sliding-background"></div>
-</div> 
+<div class="sliding-background"></div>
 
+<div class="content">
   
     <div class="fixed-background">
     </div>
@@ -296,6 +307,7 @@
       <img src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
   
   </div>
+</div>
 
 
 </body>
