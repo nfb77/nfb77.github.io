@@ -239,9 +239,6 @@
 <div class="sliding-background"></div>
 
 <div class="content">
-  
-    <div class="fixed-background">
-    </div>
     
     <div class="wrapper">
 
