@@ -164,6 +164,11 @@
 .content {
   position: relative;
   z-index: 1;
+
+}
+
+
+.wrapper {
   background-color: #f9f9f9;
   margin: 50px auto;              /* space so rounded edges show */
   padding: 30px 20px 20px;
@@ -243,6 +248,7 @@
   <div class="spacer"></div>
 
   <div class="content">
+  <div class="wrapper">
 
   
     <h2 id="about">About Me</h2>
@@ -307,7 +313,9 @@
     <p>⟟ <a href="https://www.google.com/maps/dir//808-818+Argyle+Ave,+Nashville,+TN+37203/@36.1364026,-86.7800109,214m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x8864667ef84ee215:0xecc27dbc7936315d!2m2!1d-86.7793274!2d36.1364026!3e0?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D"  target="_blank">Reservoir Park Courts, 1801 8th Ave South, Nashville, TN 37203</a></p>
 
       <img src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
-  
+   
+    
+    </div>
   </div>
 
 
