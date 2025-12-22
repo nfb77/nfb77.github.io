@@ -289,15 +289,15 @@
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
         <img src="IMG_3706k.jpg" alt="Niccccccc" style="width: 50%; height: auto; border-radius: 4px;" /> 
-      <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
+      <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
-    <span class="icon"> </span> GitHub
+    <span class="icon"></span> GitHub
   </a>
 
   <a href="mailto:nforsterbenson@g.harvard.edu" class="contact-box">
-    <span class="icon"> </span> E-mail
+    <span class="icon"></span> E-mail
   </a>
 </div>
     </div>
