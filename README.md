@@ -176,8 +176,8 @@
     .contact-boxes {
   display: flex;
   justify-content: center;
-  gap: 14px;
-  margin-top: 14px;
+  gap: 7px;
+  margin-top: 7px;
   flex-wrap: wrap;
 }
 
