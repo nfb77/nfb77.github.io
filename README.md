@@ -288,7 +288,7 @@
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
-    <span class="icon">🐙</span> GitHub
+    <span class="icon">  <a href="https://github.com/"><i class="fab fa-github" style='font-size:30px'></i></a></span> GitHub
   </a>
 
   <a href="mailto:nforsterbenson@g.harvard.edu" class="contact-box">
