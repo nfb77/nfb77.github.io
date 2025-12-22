@@ -270,13 +270,7 @@
 
 <div class="content">
     
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
+
 
 
     <div class="wrapper">
@@ -315,10 +309,6 @@
 
 
   </div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-
 
 
     <div class="wrapper">
@@ -336,13 +326,9 @@
 
 <div class="spacer"></div>
   </div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-
-
 
     <div class="wrapper">
+    
 
     <h2 id="teaching">Teaching</h2>
     <ul>
@@ -364,9 +350,8 @@
 <div class="spacer"></div>
   
   </div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
+
+
 
     <div class="wrapper">
     <h2 id="contact">Contact</h2>
