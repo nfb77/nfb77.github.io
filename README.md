@@ -30,7 +30,8 @@
 
     .wrapper {
   background-color: #f9f9f9;
-  margin: 50px auto;              /* space so rounded edges show */
+  margin: 20px auto;              /* space so rounded edges show */
+  border-radius: 50px;
   padding: 30px 20px 20px;
   border: 1px solid #ddd;         /* subtle border */
   border-radius: 14px;            /* rounded corners */
@@ -182,9 +183,8 @@
 }
 
 .contact-box {
-  border: 1.5px dotted #888;
+  border: 1px dotted #888;
   padding: 8px 14px;
-  border-radius: 6px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
@@ -288,11 +288,11 @@
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
-    <span class="icon">  <a href="https://github.com/"><i class="fab fa-github" style='font-size:30px'></i></a></span> GitHub
+    <span class="icon"> </span> GitHub
   </a>
 
   <a href="mailto:nforsterbenson@g.harvard.edu" class="contact-box">
-    <span class="icon">✉️</span> Email
+    <span class="icon"> </span> E-mail
   </a>
 </div>
     </div>
