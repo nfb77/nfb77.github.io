@@ -119,6 +119,10 @@
       margin-top: 60px;
       }
 
+        .spacerr {
+      margin-top: 100px;
+      }
+    
         .bio-section {
       display: flex;
       align-items: flex-start;
@@ -272,6 +276,10 @@
     
 
 
+<div class="spacerr"></div>
+<div class="spacerr"></div>
+<div class="spacerr"></div>
+<div class="spacerr"></div>
 
     <div class="wrapper">
 
@@ -301,14 +309,14 @@
 
         <p>Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, liquidity, and inequality. Another strand of my work focuses on underdevelopment, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in the global south.</p>
 
-        
           <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/major-minor/"  target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. I am a lifelong Tennessean, but I have also lived briefly lived in Uppsala, Chicago, Milan, and Boston. In my spare time, I am a pick-up basketball enthusiest.</p>   
           
   </div>
 </div>
-
-
   </div>
+  
+<div class="spacerr"></div>
+<div class="spacerr"></div>
 
 
     <div class="wrapper">
@@ -326,6 +334,8 @@
 
 <div class="spacer"></div>
   </div>
+<div class="spacerr"></div>
+<div class="spacerr"></div>
 
     <div class="wrapper">
     
@@ -350,6 +360,8 @@
 <div class="spacer"></div>
   
   </div>
+<div class="spacerr"></div>
+<div class="spacerr"></div>
 
 
 
