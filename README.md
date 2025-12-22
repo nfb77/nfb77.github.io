@@ -172,6 +172,36 @@
   z-index: 1;
 }
 
+
+    .contact-boxes {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
+
+.contact-box {
+  border: 1.5px dotted #888;
+  padding: 8px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #222;
+  font-size: 0.95em;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.contact-box:hover {
+  background-color: #f0f0f0;
+  border-color: #555;
+}
+
+.contact-box .icon {
+  font-size: 1.1em;
+}
     
     /* Responsive mobile styles */
   @media (max-width: 768px) {
@@ -256,6 +286,15 @@
         <img src="IMG_3706k.jpg" alt="Niccccccc" style="width: 70%; height: auto; border-radius: 4px;" /> 
       <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy, Harvard University</a> <br>
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
+    <div class="contact-boxes">
+  <a href="https://github.com/nfb77" target="_blank" class="contact-box">
+    <span class="icon">🐙</span> GitHub
+  </a>
+
+  <a href="mailto:nforsterbenson@g.harvard.edu" class="contact-box">
+    <span class="icon">✉️</span> Email
+  </a>
+</div>
     </div>
   </div>
 
