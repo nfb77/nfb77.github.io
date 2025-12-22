@@ -241,6 +241,9 @@
 <div class="content">
     
     <div class="wrapper">
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
 
     <h2 id="about">About Me</h2>
 
