@@ -28,13 +28,7 @@
       background-color: #f9f9f9;
     }
 
-    .wrapper {
-  background-color: #f9f9f9;
-  margin: 50px auto;              /* space so rounded edges show */
-  padding: 30px 20px 20px;
-  border: 1px solid #ddd;         /* subtle border */
-  border-radius: 14px;            /* rounded corners */
-``}
+
     
    .top-bar {
       background-color: #2b416e;
@@ -170,6 +164,11 @@
 .content {
   position: relative;
   z-index: 1;
+  background-color: #f9f9f9;
+  margin: 50px auto;              /* space so rounded edges show */
+  padding: 30px 20px 20px;
+  border: 1px solid #ddd;         /* subtle border */
+  border-radius: 14px;            /* rounded corners *
 }
 
     
@@ -237,14 +236,15 @@
   </div>
 
 <div class="sliding-background"></div>
-
-<div class="content">
     
-    <div class="wrapper">
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
+  
+  <div class="spacer"></div>
+  <div class="spacer"></div>
+  <div class="spacer"></div>
 
+  <div class="content">
+
+  
     <h2 id="about">About Me</h2>
 
     <div class="bio-section">
@@ -309,7 +309,6 @@
       <img src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
   
   </div>
-</div>
 
 
 </body>
