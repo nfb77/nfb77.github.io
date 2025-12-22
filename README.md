@@ -139,6 +139,25 @@
       flex: 1;
     }
 
+.container {
+  overflow: hidden;
+}
+
+.sliding-background {
+  background: url("nashville_map.jpg") repeat-x;
+  height: 560px;
+  width: 5076px;
+  animation: slide 60s linear infinite;
+}
+
+@keyframes slide{
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-1692px, 0, 0);
+  }
+}
     /* Responsive mobile styles */
   @media (max-width: 768px) {
   .bio-section {
@@ -201,7 +220,12 @@
       <a href="#teaching">Teaching</a>
     </div>
   </div>
+
   
+<div class="container">
+  <div class="sliding-background"></div>
+</div> 
+
   
     <div class="fixed-background">
     </div>
