@@ -184,6 +184,7 @@
 .contact-box {
   border: 1px dotted #888;
   border-radius: 6px;
+  padding: 4px 7px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
