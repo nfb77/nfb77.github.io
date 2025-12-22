@@ -176,15 +176,15 @@
     .contact-boxes {
   display: flex;
   justify-content: center;
-  gap: 7px;
-  margin-top: 7px;
+  gap: 14px;
+  margin-top: 14px;
   flex-wrap: wrap;
 }
 
 .contact-box {
   border: 1px dotted #888;
   border-radius: 6px;
-  padding: 4px 7px;
+  padding: 8px 14px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
@@ -299,10 +299,6 @@
   </div>
 
 
-  </div>
-
-    <div class="wrapper">
-
   <div class="bio-text">
         <p>I am an doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University and an affiliate of the <a href="https://caps.gov.harvard.edu/" target="_blank">Center for American Political Studies</a> and the <a href="https://www.iq.harvard.edu/" target="_blank">Institute for Quantitative Social Science</a>. Broadly, my research investigates how various market structures and interventions affect economic inequalities at both the local and global scale.</p>
 
@@ -313,6 +309,14 @@
           
   </div>
 </div>
+
+
+  </div>
+<div class="spacer"></div>
+
+
+
+    <div class="wrapper">
 
 <div class="spacer"></div>
 
