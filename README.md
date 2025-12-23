@@ -189,7 +189,7 @@
 .contact-box {
   border: 1px dotted #888;
   border-radius: 6px;
-  padding: 8px 14px;
+  padding: 8px 8px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
@@ -201,8 +201,8 @@
 
 .contact-box:hover {
   background-color: #4f4f4f;
-  text-color: white;
-  border-color: #555;
+  color: white;
+  border-color: white;
 }
 
 .contact-box .icon {
