@@ -200,7 +200,8 @@
 }
 
 .contact-box:hover {
-  background-color: #f0f0f0;
+  background-color: #4f4f4f;
+  text-color: white;
   border-color: #555;
 }
 
