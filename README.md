@@ -301,8 +301,8 @@
     <span class="icon"></span> E-mail
   </a>
 </div>
-    </div>
-  </div>
+</div>
+</div>
 
 
   <div class="bio-text">
@@ -313,7 +313,6 @@
           <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/major-minor/"  target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. I am a lifelong Tennessean, but I have also lived briefly lived in Uppsala, Chicago, Milan, and Boston. In my spare time, I am a pick-up basketball enthusiest.</p>   
           
   </div>
-</div>
   </div>
   
 <div class="spacerr"></div>
@@ -351,7 +350,6 @@
 
     <div class="wrapper">
     
-
     <h2 id="teaching">Teaching</h2>
     <ul>
       <li><strong>ECON 1500 Economic Statistics, Teaching Assistant, Fall 2024</strong><br>
