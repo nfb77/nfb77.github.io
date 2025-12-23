@@ -322,10 +322,17 @@
     <div class="wrapper">
 
     <h2 id="research">Research</h2>
-    <p>
-      <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
-    </p>
 
+    style="float: right;"
+
+  <p><strong>Publications</strong><p>
+  
+ <p> (<strong>2025</strong>) N. Forster-Benson and K. Nchare. Upzoning and Residential Transaction Price in Nashville. 
+  <em>Journal of Housing Economics</em>, 70: 102104. 
+  <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
+    https://doi.org/10.1016/j.jhe.2025.102104<p>
+
+    
     <p>Broadly, my research investigates how various market structures and interventions effect economic inequalities at both the local and global scale. I have worked under the mentorship of both <a href="https://sites.google.com/view/karimnchare/accueil" target="_blank">Dr. Karim Nchare</a> (<a href="https://as.vanderbilt.edu/economics/" class="plain-link" target="_blank">VU Economics</a>) and <a href="https://scholar.google.com/citations?user=0uUc8-cAAAAJ&hl=en" target="_blank">Dr. Richard Lloyd</a> (<a href="https://as.vanderbilt.edu/sociology/" class="plain-link" target="_blank">VU Sociology</a>) researching housing inequality in Nashville and post-colonial trade patterns in west Africa.</p>
     
     <p>In an article with Karim Nchare in the Journal of Housing Economics, we explored the connection between upzoning, displacement, and housing affordability in Nashville. Taking advantage of quasi-experimental policy design, we estimate heterogeneous market segment <a href="https://www.sciencedirect.com/science/article/pii/S1051137725000634" target="_blank">effects of upzoning on housing prices in Nashville</a>, showing decreases in affordability concentrated bottom quartile of sales simultaneously with potential price mitigation concentrated in the top fourth of the housing price distribution.</p>
@@ -344,8 +351,8 @@
     <ul>
       <li><strong>ECON 1500 Economic Statistics, Teaching Assistant, Fall 2024</strong><br>
         Vanderbilt University, Department of Economics — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
-        Set theory, probability, random variables, inference and regression analysis.
-      </li>
+        Introduction to probability and inference.
+</li>
       <li><strong>SOC 3233 Contemporary American Society, Teaching Assistant, Fall 2022, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
          Changes in political economy, geography, and social class stratification in the United States (1940s-present).
