@@ -320,32 +320,37 @@
 <div class="spacerr"></div>
 
 
-    <div class="wrapper">
+<div class="wrapper">
 
-    <h2 id="research">Research</h2>
+  <h2 id="research">Research</h2>
 
-<p><strong>Publications</strong><p>
-  
-<p> <strong>N. Forster-Benson</strong> and K. Nchare. (2025).
-  "Upzoning and Residential Transaction Price in Nashville."
-  <em>Journal of Housing Economics</em>, 70: 102104. 
-  <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
-    https://doi.org/10.1016/j.jhe.2025.102104
-  </a></p>
-  
-  <p><strong>Works in Progress</strong><p>
+  <h3>Publications</h3>
 
-<p>  <strong>N. Forster-Benson</strong> and K. Nchare. 
-  "Post-Colonial Trade Distortions and Dependency: The Colonial Legacy of Portugal in Africa."
-  Revise & Resubmit, <em>Journal of International Development.</em>,
-  <a href="http://dx. doi.org/10.2139/ssrn.4874987" target="_blank">
-    http://dx. doi.org/10.2139/ssrn.4874987  </a>
-</p>
-<div class="spacer"></div>
+  <p>
+    <strong>N. Forster-Benson</strong> and K. Nchare. (2025).
+    “Upzoning and Residential Transaction Price in Nashville.”
+    <em>Journal of Housing Economics</em>, 70: 102104.
+    <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
+      https://doi.org/10.1016/j.jhe.2025.102104
+    </a>
+  </p>
+
+  <h3>Works in Progress</h3>
+
+  <p>
+    <strong>N. Forster-Benson</strong> and K. Nchare.
+    “Post-Colonial Trade Distortions and Dependency: The Colonial Legacy of Portugal in Africa.”
+    Revise &amp; Resubmit, <em>Journal of International Development</em>.
+    <a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">
+      https://doi.org/10.2139/ssrn.4874987
+    </a>
+  </p>
+
+  <div class="spacer"></div>
+
+</div>
+
  
-  </div>
-  </div>
-  </div>
 
   
 <div class="spacerr"></div>
