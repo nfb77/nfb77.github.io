@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
@@ -322,9 +323,11 @@
     <div class="wrapper">
 
     <h2 id="research">Research</h2>
+    <p>
+      <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
+    </p>
 
-
-  <p><strong>Publications</strong><p>
+<p><strong>Publications</strong><p>
   
 <p> <strong>N. Forster-Benson</strong> and K. Nchare. (2025).
   "Upzoning and Residential Transaction Price in Nashville."
@@ -342,10 +345,10 @@
     http://dx. doi.org/10.2139/ssrn.4874987  </a>
 </p>
 
+
+    
 <div class="spacer"></div>
   </div>
-</div>
-
 <div class="spacerr"></div>
 <div class="spacerr"></div>
 
@@ -357,7 +360,7 @@
       <li><strong>ECON 1500 Economic Statistics, Teaching Assistant, Fall 2024</strong><br>
         Vanderbilt University, Department of Economics — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
         Introduction to probability and inference.
-</li>
+      </li>
       <li><strong>SOC 3233 Contemporary American Society, Teaching Assistant, Fall 2022, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
          Changes in political economy, geography, and social class stratification in the United States (1940s-present).
@@ -382,7 +385,7 @@
     <p>✉️ <a href="mailto:nforsterbenson@fas.harvard.edu">nforsterbenson@fas.harvard.edu</a></p>
     <p>⟟ <a href="https://www.google.com/maps/dir//808-818+Argyle+Ave,+Nashville,+TN+37203/@36.1364026,-86.7800109,214m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x8864667ef84ee215:0xecc27dbc7936315d!2m2!1d-86.7793274!2d36.1364026!3e0?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D"  target="_blank">Reservoir Park Courts, 1801 8th Ave South, Nashville, TN 37203</a></p>
 
-      <img style="float: right;" src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
+      <img src="r_park1.png" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
 
 <div class="spacerr"></div>
 
