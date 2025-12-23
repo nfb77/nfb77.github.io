@@ -327,7 +327,7 @@
 
   <p><strong>Publications</strong><p>
   
-<p> <strong>2025</strong> N. Forster-Benson and K. Nchare. 
+<p> <strong>N. Forster-Benson</strong> and K. Nchare. (2025).
   "Upzoning and Residential Transaction Price in Nashville."
   <em>Journal of Housing Economics</em>, 70: 102104. 
   <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
@@ -336,7 +336,7 @@
 </p>
   <p><strong>Works in Progress</strong><p>
 
-<p>  N. Forster-Benson and K. Nchare. 
+<p>  <strong>N. Forster-Benson</strong> and K. Nchare. 
   "Post-Colonial Trade Distortions and Dependency: The Colonial Legacy of Portugal in Africa."
   Revise & Resubmit, <em>Journal of International Development.</em>,
   <a href="http://dx. doi.org/10.2139/ssrn.4874987" target="_blank">
@@ -345,6 +345,8 @@
 
 <div class="spacer"></div>
   </div>
+</div>
+
 <div class="spacerr"></div>
 <div class="spacerr"></div>
 
