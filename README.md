@@ -269,7 +269,7 @@
       <a href="#research">Research</a>
       <a href="#teaching">Teaching</a>
     </div>
-  </div>
+    </div>
 
 <div class="sliding-background"></div>
 
@@ -345,6 +345,7 @@
  
   </div>
   </div>
+  </div>
 
   
 <div class="spacerr"></div>
@@ -372,6 +373,7 @@
 <div class="spacer"></div>
   
   </div>
+  
 <div class="spacerr"></div>
 <div class="spacerr"></div>
 
