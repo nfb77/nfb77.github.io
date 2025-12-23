@@ -323,9 +323,6 @@
     <div class="wrapper">
 
     <h2 id="research">Research</h2>
-    <p>
-      <a href="https://github.com/nfb77" target="_blank">GitHub</a> &nbsp;&nbsp; 
-    </p>
 
 <p><strong>Publications</strong><p>
   
@@ -334,8 +331,8 @@
   <em>Journal of Housing Economics</em>, 70: 102104. 
   <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
     https://doi.org/10.1016/j.jhe.2025.102104
-  </a>
-</p>
+  </a></p>
+  
   <p><strong>Works in Progress</strong><p>
 
 <p>  <strong>N. Forster-Benson</strong> and K. Nchare. 
@@ -344,11 +341,11 @@
   <a href="http://dx. doi.org/10.2139/ssrn.4874987" target="_blank">
     http://dx. doi.org/10.2139/ssrn.4874987  </a>
 </p>
-
-
-    
 <div class="spacer"></div>
+ 
   </div>
+
+  
 <div class="spacerr"></div>
 <div class="spacerr"></div>
 
