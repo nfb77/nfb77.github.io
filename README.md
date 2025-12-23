@@ -323,7 +323,6 @@
 
     <h2 id="research">Research</h2>
 
-    style="float: right;"
 
   <p><strong>Publications</strong><p>
   
