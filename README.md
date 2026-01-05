@@ -332,8 +332,7 @@
     “Upzoning and Residential Transaction Price in Nashville.”
     <em>Journal of Housing Economics</em>, 70: 102104.
     <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
-      https://doi.org/10.1016/j.jhe.2025.102104
-    </a>.
+      https://doi.org/10.1016/j.jhe.2025.102104</a>.
   </p>
 
   <h3>Works in Progress</h3>
@@ -343,8 +342,7 @@
     “Post-Colonial Trade Distortions and Dependency: The Colonial Legacy of Portugal in Africa.”
     Revise &amp; Resubmit, <em>Journal of International Development</em>.
     <a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">
-      https://doi.org/10.2139/ssrn.4874987
-    </a>.
+      https://doi.org/10.2139/ssrn.4874987</a>.
   </p>
 
   <div class="spacer"></div>
