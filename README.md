@@ -3,7 +3,7 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" 
-      href="{{ "/images/favicon.ico"  | absolute_url }}">
+      href="{{ "/images/favicon.ico?"  | absolute_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
   <title>Nicholas Forster-Benson</title>
   
