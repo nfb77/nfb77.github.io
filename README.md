@@ -359,15 +359,15 @@
     
     <h2 id="teaching">Teaching</h2>
     <ul>
-      <li><strong>ECON 1500 Economic Statistics, Teaching Assistant, Fall 2024</strong><br>
+      <li><strong>Economic Statistics (ECON 1500), Teaching Assistant, Fall 2024</strong><br>
         Vanderbilt University, Department of Economics — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
         Introduction to probability and inference.
       </li>
-      <li><strong>SOC 3233 Contemporary American Society, Teaching Assistant, Fall 2022, Fall 2023</strong><br>
+      <li><strong>Contemporary American Society (SOC 3233), Teaching Assistant, Fall 2022, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
          Changes in political economy, geography, and social class stratification in the United States (1940s-present).
       </li>
-      <li><strong>SOC 3202 Cultural Production and Institutions, Teaching Assistant, Fall 2023</strong><br>
+      <li><strong>Cultural Production and Institutions (SOC 3202), Teaching Assistant, Fall 2023</strong><br>
         Vanderbilt University, Department of Sociology — <a href="https://nfb77.github.io/Files/SOC3203Fall23.pdf" target="_blank">Syllabus</a><br>
         Examining the production of art and authenticity within various art fields, from the production of drill music to 15th-century Italian painting.
 
