@@ -388,7 +388,7 @@
     <p>✉ <a href="mailto:nforsterbenson@fas.harvard.edu">nforsterbenson@fas.harvard.edu</a></p>
     <p>⟟ <a href="https://www.google.com/maps/dir//808-818+Argyle+Ave,+Nashville,+TN+37203/@36.1364026,-86.7800109,214m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x8864667ef84ee215:0xecc27dbc7936315d!2m2!1d-86.7793274!2d36.1364026!3e0?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D"  target="_blank">Reservoir Park Courts, 1801 8th Ave South, Nashville, TN 37203</a></p>
 
-      <img src="images/r_park4.jpeg" alt="Niccccccccccccccc" style="width: 48%;height: auto;border-radius: 4px;"/>
+      <img src="images/r_park4.1.jpeg" alt="Niccccccccccccccc" style="width: 48%;height: auto;border-radius: 4px;"/>
 
 <div class="spacerr"></div>
 
