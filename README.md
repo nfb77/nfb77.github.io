@@ -344,6 +344,13 @@
     <a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">
       https://doi.org/10.2139/ssrn.4874987</a>.
   </p>
+  
+ <p>
+    <strong>N. Forster-Benson</strong>.
+   "Upzoning, Growth, and Displacement: Towards a Relational Understanding of Zoning Conflict."
+  </p>
+
+
 
   <div class="spacer"></div>
 
