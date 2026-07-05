@@ -329,28 +329,32 @@
 
   <p>
     <strong>N. Forster-Benson</strong> and K. Nchare. (2025).
-    “Upzoning and Residential Transaction Price in Nashville.”
+    “<a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">Upzoning and Residential Transaction Price in Nashville.</a>”
     <em>Journal of Housing Economics</em>, 70: 102104.
-    <a href="https://doi.org/10.1016/j.jhe.2025.102104" target="_blank">
-      https://doi.org/10.1016/j.jhe.2025.102104</a>.
+  
   </p>
 
   <h3>Works in Progress</h3>
 
   <p>
-    <strong>N. Forster-Benson</strong> and K. Nchare.
-    “Post-Colonial Trade Distortions and Dependency: The Colonial Legacy of Portugal in Africa.”
-    Revise &amp; Resubmit, <em>Journal of International Development</em>.
-    <a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">
-      https://doi.org/10.2139/ssrn.4874987</a>.
+   <strong>N. Forster-Benson</strong>.
+    “<a href="https://nfb77.github.io/Files/CODRUS.pdf" target="_blank">Corporate Ownership Density and Rent in the United States: An Analysis from 2012-2022.</a>”
+    Working paper. 
   </p>
+
+<p>
+    <strong>N. Forster-Benson</strong>. “Upzoning, Density, and the Financialization of Space in Nashville.” Under Review. 
+</p>
   
- <p>
-    <strong>N. Forster-Benson</strong>.
-   “Upzoning, Growth, and Displacement: Towards a Relational Understanding of Zoning Conflict.”
-  </p>
+<p>
+    <strong>N. Forster-Benson</strong>. “Towards a Relational Understanding of Zoning Conflict.” In Preperation.
+</p>
 
-
+<p>
+    <strong>N. Forster-Benson</strong> and K. Nchare.
+    “<a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">Trade Distortions and Colonial Legacy: Evidence from Portugal and Its Former Colonies.</a>”
+    Revise &amp; Resubmit, <em>Journal of International Development</em>.
+</p>
 
   <div class="spacer"></div>
 
