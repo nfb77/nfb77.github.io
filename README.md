@@ -265,10 +265,10 @@
 
   <div class="navbar">
     <div class="nav-links">
-      <a href="#about">About Me</a>
-      <a href="https://nfb77.github.io/Files/CV_NFB.pdf" target="_blank">CV</a>
       <a href="#research">Research</a>
       <a href="#teaching">Teaching</a>
+      <a href="https://nfb77.github.io/Files/CV_NFB.pdf" target="_blank">CV</a>
+
     </div>
     </div>
 
