@@ -58,7 +58,7 @@
       background-color: #4d6f65;
       position: absolute;
       justify-content: center; 
-      padding: 10px 0 10px 0;
+      padding: 14px 0 10px 0;
       top: 20px;
       left: 0;
       width: 100%;
