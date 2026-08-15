@@ -57,7 +57,7 @@
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
-      top: 2px;
+      top: 20px;
       left: 0;
       width: 100%;
       z-index: 1000;
@@ -266,7 +266,6 @@
 
 
   <div class="navbar">
-    <div>  <hr> </div>
     <div class="nav-links">
       <a href="#research">Research</a>
       <a href="#teaching">Teaching</a>
