@@ -261,9 +261,10 @@
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> </div>
+  <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
+  <hr>
+</div>
 
-<hr>
 
   <div class="navbar">
     <div class="nav-links">
