@@ -80,7 +80,7 @@
   color: white;
   padding: 8px 8px;
   text-decoration: none;
-  font-size: 24px;
+  font-size: 20px;
   transition: background 0.2s;
 }
 
