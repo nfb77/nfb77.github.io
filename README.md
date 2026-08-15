@@ -58,7 +58,7 @@
       padding: 1000px 0 0 0;
       text-align: left;
       font-size: 18px;
-      top: -20px;
+      top: -1020px;
       left: 0;
       width: 100%;
       z-index: 1000;
