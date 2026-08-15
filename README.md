@@ -51,9 +51,9 @@
       display: flex;
       flex-wrap: wrap; }
    
-    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #1f1f1f #5e676e  #0d2340 light grey #4f4f4f  #0d2340 #840a0a crimson  #a51c30(HU web) #ffce56    */  
+    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56    */  
       .navbar {
-      background-color: #1e1e1e;
+      background-color: #4d6f65;
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
@@ -262,6 +262,7 @@
 
   <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> </div>
 
+<hr style="border: none; height: 2px; background-color: white;">
 
   <div class="navbar">
     <div class="nav-links">
