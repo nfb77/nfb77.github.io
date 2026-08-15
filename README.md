@@ -47,7 +47,7 @@
       top: 0;
       left: 0;
       width: 100%;
-      z-index: 1001;
+      z-index: 1000;
       display: flex;
       flex-wrap: wrap; }
 
@@ -59,10 +59,10 @@
       position: absolute;
       justify-content: center; 
       padding: 14px 0 10px 0;
-      top: 20px;
+      top: 0px;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1001;
       display: flex;
       flex-wrap: wrap; 
     }
@@ -80,7 +80,7 @@
   color: white;
   padding: 8px 8px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 24px;
   transition: background 0.2s;
 }
 
@@ -287,7 +287,7 @@
 
     <div class="wrapper">
 
-    <h2 id="about">About Me</h2>
+    <h2 id="about">Nicholas Forster-Benson</h2>
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
