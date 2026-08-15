@@ -47,23 +47,11 @@
       top: 0;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1001;
       display: flex;
       flex-wrap: wrap; }
 
-       .top-bar2 {
-      background-color: #4d6f65;
-      position: absolute;
-      color: white;
-      padding: 1000px 0 0 0;
-      text-align: left;
-      font-size: 18px;
-      top: -1020px;
-      left: 0;
-      width: 100%;
-      z-index: 1000;
-      display: flex;
-      flex-wrap: wrap; }
+
    
     /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #3e6358 (fenway hover, dark) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey hover) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56    */  
       .navbar {
@@ -74,7 +62,7 @@
       top: 20px;
       left: 0;
       width: 100%;
-      z-index: 1001;
+      z-index: 1000;
       display: flex;
       flex-wrap: wrap; 
     }
@@ -202,14 +190,12 @@
 
 .contact-box {
   border: 1px dotted #888;
-  border-radius: 6px;
   padding: 8px ;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
   transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
@@ -276,9 +262,6 @@
 
   <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
   </div>
-  <div class="top-bar2" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
-</div>
-
 
   <div class="navbar">
     <div class="nav-links">
