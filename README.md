@@ -192,6 +192,7 @@
   border: 1px dotted #888;
   padding: 8px ;
   border-radius: 8px;
+  gap: 6px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
