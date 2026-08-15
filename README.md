@@ -38,7 +38,7 @@
 ``}
     
    .top-bar {
-      background-color: #4f4f4f;
+      background-color: #4d6f65;
       position: absolute;
       color: white;
       padding: 10px 0 15px 130px;
@@ -51,7 +51,7 @@
       display: flex;
       flex-wrap: wrap; }
    
-    /* Colors   Grey #1e1e1e(HU web) #1f1f1f #5e676e  #0d2340 light grey #4f4f4f  dark blue #2b416e(HU web) #0d2340 #840a0a crimson  #a51c30(HU web) #ffce56    */  
+    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #1f1f1f #5e676e  #0d2340 light grey #4f4f4f  #0d2340 #840a0a crimson  #a51c30(HU web) #ffce56    */  
       .navbar {
       background-color: #1e1e1e;
       position: absolute;
