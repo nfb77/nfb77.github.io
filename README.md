@@ -41,17 +41,17 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 130px;
+      padding: 10px 0 15px 230px;
       text-align: left;
       font-size: 18px;
-      top: 0;
+      top: -100;
       left: 0;
       width: 100%;
       z-index: 1000;
       display: flex;
       flex-wrap: wrap; }
    
-    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56    */  
+    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #3e6358 (fenway hover, dark) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey hover) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56    */  
       .navbar {
       background-color: #4d6f65;
       position: absolute;
@@ -83,7 +83,7 @@
 }
 
 .navbar a:hover {
-  background-color:  #4f4f4f;
+  background-color:  #3e6358;
   border-radius: 4px;
 }
 
@@ -111,9 +111,8 @@
     }
 
     hr {
-      border: 
-      none;
-      height: 2px;
+      border: none;
+      height: 5px;
       background-color: white;
     }
     
