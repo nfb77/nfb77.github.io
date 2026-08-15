@@ -38,7 +38,7 @@
 ``}
     
    .top-bar {
-      background-color: #2b416e;
+      background-color: #1e1e1e;
       position: absolute;
       color: white;
       padding: 10px 0 15px 130px;
