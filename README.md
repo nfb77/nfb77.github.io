@@ -47,7 +47,7 @@
       top: -90px;
       left: 0;
       width: 100%;
-      z-index: 1001;
+      z-index: 1000;
       display: flex;
       flex-wrap: wrap; }
    
@@ -60,7 +60,7 @@
       top: 20px;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1001;
       display: flex;
       flex-wrap: wrap; 
     }
