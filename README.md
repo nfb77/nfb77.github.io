@@ -41,13 +41,13 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 60px;
+      padding: 10px 0 0 60px;
       text-align: left;
       font-size: 18px;
       top: 0;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1001;
       display: flex;
       flex-wrap: wrap; }
    
