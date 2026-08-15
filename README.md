@@ -41,10 +41,10 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 230px;
+      padding: 10px 0 15px 130px;
       text-align: left;
       font-size: 18px;
-      top: -100;
+      top: 0;
       left: 0;
       width: 100%;
       z-index: 1000;
@@ -261,11 +261,12 @@
    <!-- Top Bar -->
 
   <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
-  <hr>
+
 </div>
 
 
   <div class="navbar">
+    <div>  <hr> </div>
     <div class="nav-links">
       <a href="#research">Research</a>
       <a href="#teaching">Teaching</a>
