@@ -41,7 +41,7 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 100px 0 0 130px;
+      padding: 10px 0 0 130px;
       text-align: left;
       font-size: 18px;
       top: 0;
@@ -191,6 +191,7 @@
 .contact-box {
   border: 1px dotted #888;
   padding: 8px ;
+  border-radius: 8px;
   text-decoration: none;
   color: #222;
   font-size: 0.95em;
