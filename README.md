@@ -41,7 +41,7 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 10px 0 15px 130px;
+      padding: 10px 0 15px 60px;
       text-align: left;
       font-size: 18px;
       top: 0;
@@ -57,7 +57,7 @@
       position: absolute;
       justify-content: center; 
       padding: 10px 0 10px 0;
-      top: 47px;
+      top: 2px;
       left: 0;
       width: 100%;
       z-index: 1000;
