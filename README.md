@@ -44,7 +44,7 @@
       padding: 100px 0 0 60px;
       text-align: left;
       font-size: 18px;
-      top: -90;
+      top: 90;
       left: 0;
       width: 100%;
       z-index: 1001;
