@@ -41,10 +41,24 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 100px 0 0 60px;
+      padding: 100px 0 0 130px;
       text-align: left;
       font-size: 18px;
-      top: -90px;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      display: flex;
+      flex-wrap: wrap; }
+
+       .top-bar2 {
+      background-color: #4d6f65;
+      position: absolute;
+      color: white;
+      padding: 1000px 0 0 0;
+      text-align: left;
+      font-size: 18px;
+      top: -20px;
       left: 0;
       width: 100%;
       z-index: 1000;
@@ -261,7 +275,8 @@
    <!-- Top Bar -->
 
   <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
-
+  </div>
+  <div class="top-bar2" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
 </div>
 
 
