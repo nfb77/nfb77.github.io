@@ -111,11 +111,12 @@
     }
 
     hr {
-      border: none;
+      border: 
+      none;
       height: 2px;
-      background-color: #ddd;
-      margin: 40px 0;
+      background-color: white;
     }
+    
     .spacer {
       margin-top: 60px;
       }
@@ -262,7 +263,7 @@
 
   <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> </div>
 
-<hr style="border: none; height: 2px; background-color: white;">
+<hr>
 
   <div class="navbar">
     <div class="nav-links">
