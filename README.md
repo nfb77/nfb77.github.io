@@ -16,8 +16,7 @@
 
   <style>
     /* Reset & Base Styles */
-    * {
-      font-family: 'Garamond','EB Garamond',  serif;
+    * {font-family: 'Garamond','EB Garamond',  serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
@@ -40,10 +39,9 @@
    .top-bar {
       background-color: #4d6f65;
       position: absolute;
-      align-items: center;
       color: white;
       padding: 10px 0 0 0;
-      text-align: left;
+      text-align: center;
       font-size: 18px;
       top: 0;
       left: 0;
@@ -59,7 +57,7 @@
       background-color: #4d6f65;
       position: absolute;
       justify-content: center; 
-      padding: 15px 0 15px 0;
+      padding: 0px 0 15px 0;
       top: 20px;
       left: 0;
       width: 100%;
