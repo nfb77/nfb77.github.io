@@ -40,8 +40,9 @@
    .top-bar {
       background-color: #4d6f65;
       position: absolute;
+      align-items: center;
       color: white;
-      padding: 10px 0 0 130px;
+      padding: 10px 0 0 0;
       text-align: left;
       font-size: 18px;
       top: 0;
@@ -59,7 +60,7 @@
       position: absolute;
       justify-content: center; 
       padding: 15px 0 15px 0;
-      top: 0px;
+      top: 20px;
       left: 0;
       width: 100%;
       z-index: 1001;
