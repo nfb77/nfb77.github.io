@@ -79,7 +79,7 @@
   color: white;
   padding: 8px 8px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 19px;
   transition: background 0.2s;
 }
 
@@ -260,8 +260,7 @@
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home"> <a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >Nicholas Forster-Benson</a> 
-  </div>
+  <div class="top-bar" id="home"> Nicholas Forster Benson   </div>
 
   <div class="navbar">
     <div class="nav-links">
@@ -285,13 +284,13 @@
 
     <div class="wrapper">
 
-    <h2 id="about">Nicholas Forster-Benson</h2>
+    <h2 id="about">Bio</h2>
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
         <img src="images/r_park1.png" alt="Nicccccccccccccc" style="width: 85%; height: auto; border-radius: 4px;" /> 
-      <p><strong>PhD Student</strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
+      <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
     <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
