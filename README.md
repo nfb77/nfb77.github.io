@@ -47,6 +47,7 @@
       left: 0;
       width: 100%;
       z-index: 1001;
+      border-bottom: .5rem solid white
       display: flex;
       flex-wrap: wrap; }
 
@@ -57,8 +58,7 @@
       background-color: #4d6f65;
       position: absolute;
       justify-content: center; 
-      border-top: .5rem solid white
-      padding: 10px 0 10px 0;
+      padding: 15px 0 15px 0;
       top: 30px;
       left: 0;
       width: 100%;
