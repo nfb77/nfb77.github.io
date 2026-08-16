@@ -41,8 +41,10 @@
       position: absolute;
       color: white;
       padding: 7.5px 0 7.5px 130px;
-      justify-content: left; 
+      font-family: 'Overpass', sans-serif;
+      font-weight: 700;
       font-size: 19px;
+      justify-content: left; 
       top: 0;
       left: 0;
       width: 100%;
