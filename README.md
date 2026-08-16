@@ -193,7 +193,7 @@
   padding: 8px ;
   border-radius: 8px;
   text-decoration: none;
-  color: #222;
+  color: #4d6f65;
   font-size: 0.95em;
   display: inline-flex;
   align-items: center;
