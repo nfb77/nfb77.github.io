@@ -58,11 +58,11 @@
       position: absolute;
       justify-content: center; 
       padding: 10px 0 15px 0;
-      top: 25px;
+      top: 35px;
       left: 0;
       width: 100%;
       z-index: 1000;
-      border-top: 15px solid white;
+      border-top: 5px solid white;
       display: flex;
       flex-wrap: wrap; 
     }
