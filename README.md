@@ -42,7 +42,7 @@
       color: white;
       padding: 10px 0 0 0;
       justify-content: center; 
-      font-size: 18px;
+      font-size: 19px;
       top: 0;
       left: 0;
       width: 100%;
