@@ -41,13 +41,13 @@
       position: absolute;
       color: white;
       padding: 10px 0 0 0;
+      border-bottom: .5rem solid white
       justify-content: center; 
       font-size: 19px;
       top: 0;
       left: 0;
       width: 100%;
       z-index: 1001;
-      border-bottom: .5rem solid white
       display: flex;
       flex-wrap: wrap; }
 
