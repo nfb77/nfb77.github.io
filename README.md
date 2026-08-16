@@ -189,7 +189,7 @@
 }
 
 .contact-box {
-  border: 1px dotted #888;
+  border: 1px solid #888;
   padding: 8px ;
   border-radius: 8px;
   text-decoration: none;
