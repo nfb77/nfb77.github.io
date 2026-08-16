@@ -40,7 +40,7 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 10px 0 0 130px;
+      padding: 10px 0 5px 130px;
       justify-content: left; 
       font-size: 19px;
       top: 0;
@@ -57,8 +57,8 @@
       background-color: #4d6f65;
       position: absolute;
       justify-content: center; 
-      padding: 15px 0 15px 0;
-      top: 30px;
+      padding: 10px 0 15px 0;
+      top: 25px;
       left: 0;
       width: 100%;
       z-index: 1000;
