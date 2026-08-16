@@ -58,7 +58,7 @@
       position: absolute;
       justify-content: center; 
       padding: 10px 0 15px 0;
-      top: 35px;
+      top: 40px;
       left: 0;
       width: 100%;
       z-index: 1000;
