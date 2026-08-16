@@ -62,7 +62,7 @@
       left: 0;
       width: 100%;
       z-index: 1000;
-      border-top: 10px solid white;
+      border-top: 7.5px solid white;
       display: flex;
       flex-wrap: wrap; 
     }
