@@ -61,7 +61,7 @@
       top: 30px;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1001;
       border-top: 5px solid white
       display: flex;
       flex-wrap: wrap; 
