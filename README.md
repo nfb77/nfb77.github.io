@@ -62,7 +62,7 @@
       left: 0;
       width: 100%;
       z-index: 1000;
-      border-top: 10px solid white;
+      border-top: 15px solid white;
       display: flex;
       flex-wrap: wrap; 
     }
@@ -193,7 +193,7 @@
   padding: 8px ;
   border-radius: 8px;
   text-decoration: none;
-  color: #4d6f65;
+  color: black;
   font-size: 0.95em;
   display: inline-flex;
   align-items: center;
@@ -201,7 +201,7 @@
 }
 
 .contact-box:hover {
-  background-color: #4f4f4f;
+  background-color: #4d6f65;
   color: white;
   border-color: white;
 }
