@@ -41,7 +41,7 @@
       position: absolute;
       color: white;
       padding: 10px 0 0 0;
-      text-align: center;
+      justify-content: center; 
       font-size: 18px;
       top: 0;
       left: 0;
@@ -57,8 +57,8 @@
       background-color: #4d6f65;
       position: absolute;
       justify-content: center; 
-      padding: 0px 0 15px 0;
-      top: 25px;
+      padding: 10px 0 10px 0;
+      top: 30px;
       left: 0;
       width: 100%;
       z-index: 1000;
