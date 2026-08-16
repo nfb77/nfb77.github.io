@@ -46,7 +46,7 @@
       top: 0;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1001;
       display: flex;
       flex-wrap: wrap; }
 
@@ -58,10 +58,10 @@
       position: absolute;
       justify-content: center; 
       padding: 0px 0 15px 0;
-      top: 20px;
+      top: 25px;
       left: 0;
       width: 100%;
-      z-index: 1001;
+      z-index: 1000;
       display: flex;
       flex-wrap: wrap; 
     }
