@@ -40,14 +40,13 @@
       background-color: #4d6f65;
       position: absolute;
       color: white;
-      padding: 10px 0 0 0;
-      justify-content: center; 
+      padding: 10px 0 0 130px;
+      justify-content: left; 
       font-size: 19px;
       top: 0;
       left: 0;
       width: 100%;
       z-index: 1001;
-      border-bottom: 5px solid white
       display: flex;
       flex-wrap: wrap; }
 
@@ -63,6 +62,7 @@
       left: 0;
       width: 100%;
       z-index: 1000;
+      border-top: 10px solid white;
       display: flex;
       flex-wrap: wrap; 
     }
