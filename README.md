@@ -32,7 +32,7 @@
   background-color: #e7d0a7;
   margin: 20px auto;              /* space so rounded edges show */
   padding: 30px 20px 20px;
-  border: 1px solid #ddd;         /* subtle border */
+  border: 1px solid black;         /* subtle border */
   border-radius: 14px;            /* rounded corners */
 ``}
     
