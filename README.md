@@ -40,7 +40,7 @@
       background-color: #e7d0a7;
       position: absolute;
       color: black;
-      padding: 7.5px 0 7.5px 0px; 
+      padding: 7px 0 8px 0px; 
       font-weight: 700; /*  green monster font,     font-family: 'Overpass', sans-serif; font-weight: 700;  text-transform: uppercase;     letter-spacing: 1px; */
       font-size: 19px;
       justify-content: center; 
