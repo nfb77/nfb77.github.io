@@ -59,12 +59,12 @@
       position: absolute;
       justify-content: center; 
       padding: 8px 0 8px 0;
-      top: 43px;
+      top: 44px;
       left: 0;
       width: 100%;
       z-index: 1000;
-      border-top: 2px solid black;
-      border-bottom: 2px solid black;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
       display: flex;
       flex-wrap: wrap; 
     }
