@@ -64,6 +64,7 @@
       width: 100%;
       z-index: 1000;
       border-top: 5px solid black;
+      border-bottom: 5px solid black;
       display: flex;
       flex-wrap: wrap; 
     }
