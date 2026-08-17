@@ -29,7 +29,7 @@
     }
 
     .wrapper {
-  background-color: #f9f9f9;
+  background-color: #e7d0a7;
   margin: 20px auto;              /* space so rounded edges show */
   padding: 30px 20px 20px;
   border: 1px solid #ddd;         /* subtle border */
@@ -63,8 +63,8 @@
       left: 0;
       width: 100%;
       z-index: 1000;
-      border-top: 1px solid black;
-      border-bottom: 1px solid black;
+      border-top: 2px solid black;
+      border-bottom: 1.5px solid black;
       display: flex;
       flex-wrap: wrap; 
     }
