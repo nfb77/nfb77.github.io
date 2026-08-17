@@ -37,9 +37,9 @@
 ``}
     
    .top-bar {
-      background-color: #4d6f65;
+      background-color: #e7d0a7;
       position: absolute;
-      color: white;
+      color: black;
       padding: 7.5px 0 7.5px 130px; 
       font-weight: 700; /* green monster font,     font-family: 'Overpass', sans-serif; font-weight: 700;  text-transform: uppercase;     letter-spacing: 1px; */
       font-size: 19px;
@@ -53,7 +53,7 @@
 
 
    
-    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #3e6358 (fenway hover, dark) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey hover) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56    */  
+    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #3e6358 (fenway hover, dark) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey hover) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56  #e7d0a7 (background cream) #f9f9f9 (textbox cream)*/  
       .navbar {
       background-color: #4d6f65;
       position: absolute;
