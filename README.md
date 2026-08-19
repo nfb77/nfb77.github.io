@@ -47,6 +47,7 @@
       top: 0;
       left: 0;
       width: 100%;
+      border-top: 1.5px solid black;
       z-index: 1001;
       display: flex;
       flex-wrap: wrap; }
