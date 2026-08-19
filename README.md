@@ -101,7 +101,7 @@ h1 {
     
 .markdown-body h2 {
   scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   color: #2c3e50;
   border-bottom: 1px solid #2c3e50;
 }
