@@ -60,7 +60,7 @@
       position: absolute;
       justify-content: center; 
       padding: 8px 0 8px 0;
-      top: 43px;
+      top: 41.5px;
       left: 0;
       width: 100%;
       z-index: 1000;
