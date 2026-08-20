@@ -117,7 +117,7 @@ h1 {
     }
 
     a {
-      color: #0077cc;
+      color: #4d6f65;    /* link color: #0077cc (light blue)   #4000ff (dark blue)*/
     }
 
     a:hover {
@@ -319,7 +319,7 @@ h1 {
 
 
   <div class="bio-text">
-        <p>I am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University and an affiliate of the <a href="https://caps.gov.harvard.edu/" target="_blank">Center for American Political Studies</a> and the <a href="https://www.iq.harvard.edu/" target="_blank">Institute for Quantitative Social Science</a>. 
+        <p>I am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University and an affiliate of the <a href="https://caps.gov.harvard.edu/" target="_blank">Center for American Political Studies</a> and the <a href="https://www.iq.harvard.edu/" target="_blank">Institute for Quantitative Social Science</a>. </p>
 
         <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various economic and political institutions. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, and inequality.</p>
 
