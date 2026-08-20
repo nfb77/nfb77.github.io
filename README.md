@@ -95,15 +95,15 @@
 h1 {
   scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
   margin-bottom: 60px;
-  color: #2c3e50;
-  border-bottom: 1px solid #2c3e50;
+  color: #000000; /* #2c3e50 for blue-black */
+  border-bottom: 1px solid #000000;
 }
     
 .markdown-body h2 {
   scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
   margin-bottom: 30px;
-  color: #2c3e50;
-  border-bottom: 1px solid #2c3e50;
+  color: #000000;
+  border-bottom: 1px solid #000000;
 }
     
 
