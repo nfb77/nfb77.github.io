@@ -95,15 +95,15 @@
 h1 {
   scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
   margin-bottom: 60px;
-  color: #000000; /* #2c3e50 for blue-black */
-  border-bottom: 1px solid #000000;
+  color: #2c3e50;
+  border-bottom: 1px solid #2c3e50;
 }
     
 .markdown-body h2 {
   scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
   margin-bottom: 30px;
-  color: #000000;
-  border-bottom: 1px solid #000000;
+  color: #2c3e50;
+  border-bottom: 1px solid #2c3e50;
 }
     
 
@@ -117,7 +117,7 @@ h1 {
     }
 
     a {
-      color: #2f008c;   /* link color  #0077cc (light blue) #2f008c (dark blue/magenta)*/  
+      color: #0077cc;
     }
 
     a:hover {
@@ -319,11 +319,7 @@ h1 {
 
 
   <div class="bio-text">
-        <p>I am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University and an affiliate of the <a href="https://caps.gov.harvard.edu/" target="_blank">Center for American Political Studies</a> and the <a href="https://www.iq.harvard.edu/" target="_blank">Institute for Quantitative Social Science</a>. 
-          
-          
-          <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various economic and political institutions. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, and inequality.</p>   
-          
+        <p>I am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> at Harvard University and an affiliate of the <a href="https://caps.gov.harvard.edu/" target="_blank">Center for American Political Studies</a> and the <a href="https://www.iq.harvard.edu/" target="_blank">Institute for Quantitative Social Science</a>. Broadly, my research investigates how various economic and political institutions exacerbate and mitigate inequality. Currently, my work focuses on U.S. housing markets, examining the intersection of local politics, financialization, and inequality.</p>
 
         <!-- <p>Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, and inequality. Another strand of my work focuses on underdevelopment, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in the global south.</p> -->
 
