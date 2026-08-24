@@ -324,7 +324,8 @@ h1 {
                     <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. </p>
 
 
-        <!-- Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality.through institutions and class relations.
+        <!-- through the interplay between class and institutions 
+        Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality.through institutions and class relations.
         through various economic and political institutions.
         through class relations and institutional arrangements.   institutional arrangements and class relations
                conjuncture between class interests and institutional arrangements 
