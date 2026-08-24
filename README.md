@@ -321,9 +321,13 @@ h1 {
   <div class="bio-text">
         <p>I am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> and Malcolm H. Wiener Scholar in Poverty and Justice at Harvard University. </p>
           
-          <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various economic and political institutions. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. </p>
+                    <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. </p>
 
-        <!-- conjuncture between class interests and institutional arrangements 
+
+        <!-- through various economic and political institutions.
+        through class relations and institutional arrangements.   institutional arrangements and class relations
+               conjuncture between class interests and institutional arrangements 
+               class interest and institutional arrangements come to shapes
         class interest and institutional arrangements come to shapes
          through various class relations and institutional arrangements  
         <p>Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, and inequality. Another strand of my work focuses on underdevelopment, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in the global south.</p> -->
