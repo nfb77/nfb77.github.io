@@ -304,7 +304,7 @@ h1 {
     <div class="photo-caption">
         <img src="images/r_park1.png" alt="Nicccccccccccccc" style="width: 85%; height: auto; border-radius: 4px;" /> 
       <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
-    <strong>Research Interests</strong>: Political economy, markets and inequality, financialization, quantatitive methods </p>
+    <strong>Research Interests</strong>: Political economy, welfare states, markets and inequality, quantatitive methods </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
     <span class="icon"></span> GitHub
