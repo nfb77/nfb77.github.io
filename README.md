@@ -170,7 +170,7 @@ h1 {
   left: 0;
   width: 200vw;
   height: 200vh;
-  background-image: url('Nashville_1927_Map.jpg');     /* nashville_map.jpg */
+  background-image: url('images/Nashville_1927_Map.jpg');     /* nashville_map.jpg */
   background-repeat: repeat;
   background-size: 2000px auto; /* adjust scale, original: 800px */
   z-index: -1;
@@ -269,7 +269,7 @@ h1 {
       .fixed-background {
       margin-top: 100px;
       margin-bottom: 30px;
-      background-image: url('Nashville_1927_Map.jpg');     /* nashville_map.jpg */
+      background-image: url('images/Nashville_1927_Map.jpg');     /* nashville_map.jpg */
       height: 55vh; /* original: 55vh */
       background-attachment: fixed;
       background-size: 75%;
