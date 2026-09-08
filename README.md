@@ -188,10 +188,10 @@ h1 {
 
     @keyframes orbit {
   from {
-    transform: rotate(0deg) translateX(50vh) rotate(0deg);
+    transform: rotate(0deg) translateX(10vh) rotate(0deg);
   }
   to {
-    transform: rotate(360deg) translateX(50vh) rotate(-360deg);
+    transform: rotate(360deg) translateX(10vh) rotate(-360deg);
   }
 }
 
