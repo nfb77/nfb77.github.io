@@ -29,7 +29,7 @@
     }
 
     .wrapper {
-  background-color: #f9e4b7;
+  background-color: #f7e2b5;
   margin: 20px auto;              
   padding: 30px 20px 20px;
   border: 1px solid black;         /* subtle border */
@@ -37,7 +37,7 @@
 ``}
     
    .top-bar {
-      background-color: #f9e4b7;
+      background-color: #f7e2b5;
       position: absolute;
       color: black;
       padding: 7px 0 8px 0px; 
@@ -54,7 +54,7 @@
 
 
    
-    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #3e6358 (fenway hover, dark) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey hover) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56  #e7d0a7 (background cream) #f9e4b7 (lighter background cream)  #f9f9f9 (textbox cream)*/  
+    /* Colors    #2b416e(dark blue HU web) #1e1e1e(Grey HU web) #4d6f65 (fenway green) #3e6358 (fenway hover, dark) #1f1f1f #5e676e  #0d2340 #4f4f4f (light grey hover) #0d2340 #840a0a   #a51c30(crimsonHU web) #ffce56  #e7d0a7 (background cream) #f7e2b5 (lighter background cream)  #f9f9f9 (textbox cream)*/  
       .navbar {
       background-color: #4d6f65;
       position: absolute;
@@ -178,24 +178,23 @@ h1 {
 }
 
 @keyframes diagonal-slide {
+  /* origonal order:  translate(0, 0); (-50vw, -50vh)  (-50vw, 0vh) (0vh,-50vw) (0, 0)*/
+
 
     0% {
-    transform: translate(-50vw, 0vh); /* origonal order:  translate(0, 0); (-50vw, -50vh)  (-50vw, 0vh) (0vh,-50vw) (0, 0)*/
-  }
-
-    25% {
     transform: translate(0vh,-50vw);
   }
-
-      50% {
+    25% {
     transform: translate(-50vw, 0vh);
   }
-    75% {
+    50% {
     transform: translate(-50vw, -50vh);
   }
-  
-    100% {
+    75% {
     transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(0vh,-50vw);
   }
 }
 
