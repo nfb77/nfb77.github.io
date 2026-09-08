@@ -93,14 +93,14 @@
 }
 
 h1 {
-  scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
+  scroll-margin-top: 20px; 
   margin-bottom: 60px;
   color: #2c3e50;
   border-bottom: 1px solid #2c3e50;
 }
     
 .markdown-body h2 {
-  scroll-margin-top: 20px; /* or whatever height your navbar is + some padding */
+  scroll-margin-top: 20px; 
   margin-bottom: 30px;
   color: #2c3e50;
   border-bottom: 1px solid #2c3e50;
@@ -242,7 +242,7 @@ h1 {
 }
     
     .plain-link {
-      color: inherit;           /* Uses the same text color as surrounding text */
+      color: inherit;           /* same text color as surrounding text */
       text-decoration: none;    */  Removes underline     */ Optional: adds pointer cursor      cursor: pointer;     */
     }
 
@@ -250,7 +250,7 @@ h1 {
       margin-top: 100px;
       margin-bottom: 30px;
       background-image: url('nashville_map.jpg');
-      height: 55vh;
+      height: 100vh;
       background-attachment: fixed;
       background-size: 75%;
       background-position: top;
