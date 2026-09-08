@@ -250,11 +250,11 @@ h1 {
       margin-top: 100px;
       margin-bottom: 30px;
       background-image: url('nashville_map.jpg');
-      height: 300vh; /* original: 55vh */
+      height: 55vh; /* original: 55vh */
       background-attachment: fixed;
       background-size: 75%;
       background-position: top;
-      background-repeat: no-repeat;
+      background-repeat: repeat;/* no-repeat */
     }
 
     /* Fallback for mobile */
