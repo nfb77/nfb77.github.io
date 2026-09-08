@@ -172,7 +172,7 @@ h1 {
   height: 200vh;
   background-image: url("images/nashville_map.jpg");
   background-repeat: repeat;
-  background-size: 2600px auto; /* adjust scale, origonal: 800px */
+  background-size: 2000px auto; /* adjust scale, origonal: 800px */
   z-index: -1;
   animation: diagonal-slide 90s linear alternate infinite;
 }
