@@ -174,7 +174,7 @@ h1 {
   background-repeat: repeat;
   background-size: 2000px auto; /* adjust scale, origonal: 800px */
   z-index: -1;
-  animation: diagonal-slide 90s linear alternate infinite;
+  animation: orbit 90s linear alternate infinite;
 }
 
 @keyframes diagonal-slide {
@@ -183,6 +183,15 @@ h1 {
   }
   100% {
     transform: translate(-50vw, -50vh);
+  }
+}
+
+    @keyframes orbit {
+  from {
+    transform: rotate(0deg) translateX(50vh) rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg) translateX(50vh) rotate(-360deg);
   }
 }
 
