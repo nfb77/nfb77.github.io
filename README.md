@@ -174,18 +174,26 @@ h1 {
   background-repeat: repeat;
   background-size: 2000px auto; /* adjust scale, origonal: 800px */
   z-index: -1;
-  animation: diagonal-slide 90s linear alternate infinite;
+  animation: diagonal-slide 360s linear alternate infinite; /* alternate - makes it bounce */
 }
 
 @keyframes diagonal-slide {
   0% {
     transform: translate(0, 0);
   }
-    50% {
-    transform: translate(-100vw, -100vh);
+    25% {
+    transform: translate(-50vw, -50vh);
   }
-  100% {
-    transform: translate(-100vw, 0vh);
+  50% {
+    transform: translate(-50vw, 0vh);
+  }
+
+    75% {
+    transform: translate(0vh,-50vw);
+  }
+
+    100% {
+    transform: translate(0, 0);
   }
 }
 
