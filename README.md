@@ -30,7 +30,7 @@
 
     .wrapper {
   background-color: #e7d0a7;
-  margin: 20px auto;              /* space so rounded edges show */
+  margin: 20px auto;              
   padding: 30px 20px 20px;
   border: 1px solid black;         /* subtle border */
   border-radius: 14px;            /* rounded corners */
@@ -170,9 +170,9 @@ h1 {
   left: 0;
   width: 200vw;
   height: 200vh;
-  background-image: url("images/nashville_map.jpg");
+  background-image: url('Nashville_1927_Map.jpg');     /* nashville_map.jpg */
   background-repeat: repeat;
-  background-size: 2000px auto; /* adjust scale, origonal: 800px */
+  background-size: 2000px auto; /* adjust scale, original: 800px */
   z-index: -1;
   animation: diagonal-slide 500s linear alternate infinite; /* alternate - makes it bounce */
 }
@@ -269,7 +269,7 @@ h1 {
       .fixed-background {
       margin-top: 100px;
       margin-bottom: 30px;
-      background-image: url('nashville_map.jpg');
+      background-image: url('Nashville_1927_Map.jpg');     /* nashville_map.jpg */
       height: 55vh; /* original: 55vh */
       background-attachment: fixed;
       background-size: 75%;
