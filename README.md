@@ -172,9 +172,9 @@ h1 {
   height: 200vh;
   background-image: url("images/nashville_map.jpg");
   background-repeat: repeat;
-  background-size: 800px auto; /* adjust scale here */
+  background-size: 2600px auto; /* adjust scale, origonal: 800px */
   z-index: -1;
-  animation: diagonal-slide 80s linear infinite;
+  animation: diagonal-slide 90s linear infinite;
 }
 
 @keyframes diagonal-slide {
@@ -243,14 +243,14 @@ h1 {
     
     .plain-link {
       color: inherit;           /* same text color as surrounding text */
-      text-decoration: none;    */  Removes underline     */ Optional: adds pointer cursor      cursor: pointer;     */
+      text-decoration: none;   /*  Removes underline    , Optional: adds pointer cursor      cursor: pointer;     */
     }
 
       .fixed-background {
       margin-top: 100px;
       margin-bottom: 30px;
       background-image: url('nashville_map.jpg');
-      height: 100vh;
+      height: 300vh; /* original: 55vh */
       background-attachment: fixed;
       background-size: 75%;
       background-position: top;
