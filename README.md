@@ -325,7 +325,7 @@ h1 {
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
-        <img src="images/r_park1.png" alt="Nicccccccccccccc" style="width: 60%; height: auto; border-radius: 4px;" /> 
+       <!-- <img src="images/r_park1.png" alt="Nicccccccccccccc" style="width: 85%; height: auto; border-radius: 4px;" />  -->
       <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
     <strong>Research Interests</strong>: Political economy, welfare states,<br> markets and inequality, quantatitive methods </p>
     <div class="contact-boxes">
@@ -349,12 +349,9 @@ h1 {
 
         <!-- through the interplay between class and institutions 
         Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality.through institutions and class relations.
-        through various economic and political institutions.
-        through class relations and institutional arrangements.   institutional arrangements and class relations
-               conjuncture between class interests and institutional arrangements 
-               class interest and institutional arrangements come to shapes
-        class interest and institutional arrangements come to shapes
-         through various class relations and institutional arrangements  
+        through various economic and political institutions.through class relations and institutional arrangements.   institutional arrangements and class relations
+               conjuncture between class interests and institutional arrangements. class interest and institutional arrangements come to shapes. class interest and institutional arrangements come to shapes. through various class relations and institutional arrangements  
+               
         <p>Currently, my research focuses on U.S. housing markets, examining the intersection of local politics, financialization, and inequality. Another strand of my work focuses on underdevelopment, utilizing nation-level heterogeneity in trade flows and macro-economic indicators to better understand post-colonial commodity dependence and natural resource exploitation in the global south.</p> -->
 
           <p>I hold a BA in <a href="https://as.vanderbilt.edu/economics/major-minor/"  target="_blank">Economics</a> and <a href="https://nfb77.github.io/Files/requirements-individually-designed-interdisciplinary-major.pdf" target="_blank">Quantitative Social Science</a> (<a href="https://as.vanderbilt.edu/internal/policies/individually-designed-interdisciplinary-major.php" class="plain-link" target="_blank">interdisciplinary</a>) from <a href="https://www.vanderbilt.edu/" class="plain-link" target="_blank">Vanderbilt University</a>. I am a lifelong Tennessean, but I have also lived briefly lived in Uppsala, Chicago, Milan, and Boston. In my spare time, I am a <a href="https://en.wikipedia.org/wiki/Pick-up_basketball"  target="_blank">pick-up basketball</a> enthusiest.</p>   
