@@ -182,7 +182,7 @@ h1 {
 
 
     0% {
-    transform: translate(0vh,-50vw);
+    transform: translate(-10vh,-40vw);
   }
     25% {
     transform: translate(-50vw, 0vh);
