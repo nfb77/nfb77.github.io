@@ -8,21 +8,19 @@
 <script>
   document.title = "Nicholas Forster-Benson";
 </script>
-  
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=.3"/>
   <meta property="og:title" content="Nicholas Forster-Benson">
 
   <style>
     /* Reset & Base Styles */
-    * {font-family: 'Garamond','EB Garamond',  serif;
+    * {font-family: 'Garamond','EB Garamond',  monospace;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
 
          body {
-            font-family: 'Garamond','EB Garamond',  serif;
             margin: 20px auto;              
             padding: 30px 20px 20px;
             width: 60%;
@@ -30,11 +28,8 @@
          }
         .navbar {
             background-color: #white;
-            overflow: hidden;
-            display: flex;
-            padding: ;
+            overflow: scroll;
             justify-content: left; 
-
         }
         .navbar a {
             color: #black;
@@ -42,7 +37,7 @@
             padding-right: 20px;
             padding-bottom: 10px;
             text-align: center;
-            font-size: 30px; /* Increased font size */
+            font-size: 25px; /* Increased font size */
         }
  
         }
@@ -59,11 +54,11 @@
         
        p, li {
       margin-bottom: 30px;
-      font-size: 30px;
+      font-size: 25px;
     }
        h1 {
         color: #black;
-        font-size: 30px;
+        font-size: 25px;
       }
     
         hr {
@@ -88,14 +83,23 @@
         .image-container img:last-child {
             margin-right: 0px;
         }
+
+@media (min-width: 600px) {
+  .navbar {grid-area: 1 / span 6;}
+  .header {grid-area: 3 / span 1;}
+  .content {grid-area: 2 / span 4;}
+  .facts {grid-area: 2 / span 1;}
+  .footer {grid-area: 3 / span 6;}
+}
+
     </style>
 </head>
      <body>
                <h1 id="about">Nicholas Forster-Benson</h1>
 
     <div class="navbar">
-        <a href="https://nfb77.github.io/Files/research.html">Research</a>
-        <a href="https://nfb77.github.io/Files/teaching.html">Teaching</a>
+        <a href="https://nfb77.github.io/research.html">Research</a>
+        <a href="https://nfb77.github.io/teaching.html">Teaching</a>
         <a href="https://nfb77.github.io/Files/CV_NFB.pdf" target="_blank">CV</a>  
 
 
