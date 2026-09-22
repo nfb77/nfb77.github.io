@@ -419,16 +419,16 @@ h1 {
     <ul>
         <p>
         Department of Economics, Vanderbilt University:<br>
-        &bull;<strong>Economic Statistics</strong> (ECON 1500), Teaching Assistant, Fall 2024<br>
-        Introduction to probability and inference — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
+        &bull; <strong>Economic Statistics</strong> (ECON 1500), Teaching Assistant, Fall 2024<br>
+          Introduction to probability and inference — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
       </p>
       <p>
       Department of Sociology, Vanderbilt University:<br>
-      &bull;<strong>Contemporary American Society</strong> (SOC 3233), Teaching Assistant, Fall 2022, Fall 2023<br>
+      &bull; <strong>Contemporary American Society</strong> (SOC 3233), Teaching Assistant, Fall 2022, Fall 2023<br>
          Changes in political economy, geography, and social class stratification in the United States (1940s-present) — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a><br>
       
-      &bull;<strong>Cultural Production and Institutions</strong> (SOC 3202), Teaching Assistant, Fall 2023<br>
-        Examining the production of art and authenticity within various art fields, from the production of drill music to 15th-century Italian painting — <a href="https://nfb77.github.io/Files/SOC3203Fall23.pdf" target="_blank">Syllabus</a><br>
+      &bull; <strong>Cultural Production and Institutions</strong> (SOC 3202), Teaching Assistant, Fall 2023<br>
+          Examining the production of art and authenticity within various fields, from the production of drill music to 15th-century Italian painting — <a href="https://nfb77.github.io/Files/SOC3203Fall23.pdf" target="_blank">Syllabus</a><br>
          </p>
     </ul>
 
