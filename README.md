@@ -194,7 +194,7 @@ h1 {
     transform: translate(0, 0);
   }
   100% {
-    transform: translate(0vh,-50vw);
+    transform:  translate(-05vh,-45vw);
   }
 }
 
