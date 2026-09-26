@@ -16,7 +16,7 @@
 
   <style>
     /* Reset & Base Styles */
-    * {font-family: 'Garamond','EB Garamond',  serif;
+    * {font-family: 'EB Garamond', 'Georgia', 'Times', serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
