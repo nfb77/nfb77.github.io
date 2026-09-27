@@ -218,15 +218,15 @@ h1 {
     .contact-boxes {
   display: flex;
   justify-content: center;
-  gap: 14px;
-  margin-top: 14px;
+  gap: 7px;
+  margin-top: 7px;
   flex-wrap: wrap;
 }
 
 .contact-box {
   border: 1px solid #888;
-  padding: 8px ;
-  border-radius: 8px;
+  padding: 6px ;
+  border-radius: 6px;
   text-decoration: none;
   color: black;
   font-size: 0.95em;
