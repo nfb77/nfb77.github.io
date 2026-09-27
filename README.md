@@ -228,14 +228,14 @@ h1 {
   display: flex;
   justify-content: center;
   gap: 7px;
-  margin-top: 0px;
+  margin-top: 3px;
   flex-wrap: wrap;
 }
 
 .contact-box {
   border: 1px solid #888;
-  padding: 3px ;
-  border-radius: 3px;
+  padding: 6px ;
+  border-radius: 6px;
   text-decoration: none;
   color: black;
   font-size: 0.95em;
@@ -336,7 +336,7 @@ h1 {
     <div class="photo-caption">
        <img src="images/r_park1.png " alt="Nicccccccccccccc" style="width: 55%; height: auto; border-radius: 4px;" />  <!-- r_park1.png   IMG_1704.1.jpeg width: 55% -->
        <!--  <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>  -->
-    <strong>Research Interests</strong>: Political economy, welfare states,<br> markets and inequality, quantatitive methods </p>
+   <p> <strong>Research Interests</strong>: Political economy, welfare states,<br> markets and inequality, quantatitive methods <br> </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
     <span class="icon"></span> GitHub
