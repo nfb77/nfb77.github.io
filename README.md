@@ -351,7 +351,7 @@ h1 {
 
 
   <div class="bio-text">
-        <p><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >I</a></strong> am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> and Malcolm H. Wiener Scholar in Poverty and Justice at Harvard University. </p>
+        <p><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >I</a> am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> and Malcolm H. Wiener Scholar in Poverty and Justice at Harvard University. </p>
           
                     <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. </p>
 
