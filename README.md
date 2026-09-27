@@ -228,14 +228,14 @@ h1 {
   display: flex;
   justify-content: center;
   gap: 7px;
-  margin-top: 7px;
+  margin-top: 0px;
   flex-wrap: wrap;
 }
 
 .contact-box {
   border: 1px solid #888;
-  padding: 6px ;
-  border-radius: 6px;
+  padding: 3px ;
+  border-radius: 3px;
   text-decoration: none;
   color: black;
   font-size: 0.95em;
@@ -334,8 +334,8 @@ h1 {
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
-       <img src="images/r_park1.png " alt="Nicccccccccccccc" style="width: 45%; height: auto; border-radius: 4px;" />  <!-- r_park1.png   IMG_1704.1.jpeg width: 55% -->
-      <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
+       <img src="images/r_park1.png " alt="Nicccccccccccccc" style="width: 55%; height: auto; border-radius: 4px;" />  <!-- r_park1.png   IMG_1704.1.jpeg width: 55% -->
+       <!--  <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>  -->
     <strong>Research Interests</strong>: Political economy, welfare states,<br> markets and inequality, quantatitive methods </p>
     <div class="contact-boxes">
   <a href="https://github.com/nfb77" target="_blank" class="contact-box">
@@ -351,7 +351,7 @@ h1 {
 
 
   <div class="bio-text">
-        <p>I am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> and Malcolm H. Wiener Scholar in Poverty and Justice at Harvard University. </p>
+        <p><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >I</a></strong> am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> and Malcolm H. Wiener Scholar in Poverty and Justice at Harvard University. </p>
           
                     <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. </p>
 
