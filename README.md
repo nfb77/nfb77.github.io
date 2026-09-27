@@ -30,7 +30,7 @@
 
     .wrapper {
   background-color: #f7e2b5;
-  margin: 20px auto;              
+  margin: 1opx auto;              
   padding: 20px 20px 20px;
   border: 1px solid black;         /* subtle border */
   border-radius: 14px;            /* rounded corners */
