@@ -450,12 +450,12 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
       <img src="images/r_park4.1.jpeg" alt="Reservoir Park" style="width: 48%;height: auto;border-radius: 4px;"/>
 
 <div class="spacerr"></div>
+<p>Background: Streetcar and Coach map from the Nashville Railway & Light Company (1927). Sourced from the Tennessee State Library & Archives, <a href="https://teva.contentdm.oclc.org/digital/collection/p15138coll23/id/9973"  target="_blank">Tennessee Virtual Archive</a>. </p>
 
   </div>
 </div>
 <div class="spacerr"></div>
 <div class="spacerr"></div>
-<p>Background: Streetcar and Coach map from the Nashville Railway & Light Company (1927). Sourced from the Tennessee State Library & Archives, <a href="https://teva.contentdm.oclc.org/digital/collection/p15138coll23/id/9973"  target="_blank">Tennessee Virtual Archive</a>. </p>
 
 </body>
 </html>
