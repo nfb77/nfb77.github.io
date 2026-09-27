@@ -305,7 +305,7 @@ h1 {
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home">     </div>
+   <!-- <div class="top-bar" id="home">  Nicholas Forster Benson  </div> -->
 
   <div class="navbar">
     <div class="nav-links">
