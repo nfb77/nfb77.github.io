@@ -174,7 +174,7 @@ h1 {
   background-repeat: repeat;
   background-size: 2500px auto; /* adjust scale, original: 800px */
   z-index: -1;
-  animation: diagonal-slide 500s linear alternate infinite; /* alternate - makes it bounce */
+  animation: diagonal-slide 600s linear alternate infinite; /* alternate - makes it bounce */
 }
 
 @keyframes diagonal-slide {
