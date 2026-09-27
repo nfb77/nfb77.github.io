@@ -40,7 +40,7 @@
       background-color: #f7e2b5;
       position: absolute;
       color: black;
-      padding: 7px 0 8px 0px; 
+      padding: 11px 0 12px 0px; /* for when using top text    padding: 7px 0 8px 0px; 
       font-weight: 700; /*  green monster font,     font-family: 'Overpass', sans-serif; font-weight: 700;  text-transform: uppercase;     letter-spacing: 1px; */
       font-size: 19px;
       justify-content: center; 
@@ -296,7 +296,7 @@ h1 {
 <body>
    <!-- Top Bar -->
 
-  <div class="top-bar" id="home"> Nicholas Forster Benson   </div>
+  <div class="top-bar" id="home">     </div>
 
   <div class="navbar">
     <div class="nav-links">
@@ -320,7 +320,7 @@ h1 {
 
     <div class="wrapper">
 
-    <!-- <h2 id="about">Bio</h2> -->
+    <h2 id="about">Nicholas Forster-Benson</h2>
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
