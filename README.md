@@ -16,7 +16,7 @@
 
   <style>
     /* Reset & Base Styles */
-    * {font-family: 'EB Garamond', 'Georgia', 'Times', serif;
+    * {font-family:'Garamond', 'EB Garamond', 'Georgia', 'Times', serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
@@ -95,15 +95,15 @@
 h1 {
   scroll-margin-top: 20px; 
   margin-bottom: 60px;
-  color: #2c3e50;
-  border-bottom: 1px solid #2c3e50;
+  color: #333;
+  border-bottom: 1px solid #333;
 }
     
 .markdown-body h2 {
   scroll-margin-top: 20px; 
   margin-bottom: 30px;
-  color: #2c3e50;
-  border-bottom: 1px solid #2c3e50;
+  color: #333;
+  border-bottom: 1px solid #333;
 }
     
 
