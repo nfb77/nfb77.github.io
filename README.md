@@ -40,7 +40,7 @@
       background-color: #f7e2b5;
       position: absolute;
       color: black;
-      padding: 11px 0 12px 0px; /* for when using top text    padding: 7px 0 8px 0px; 
+      padding: 7px 0 8px 0px;; /* for when using top text    padding: 7px 0 8px 0px;  */
       font-weight: 700; /*  green monster font,     font-family: 'Overpass', sans-serif; font-weight: 700;  text-transform: uppercase;     letter-spacing: 1px; */
       font-size: 19px;
       justify-content: center; 
@@ -60,11 +60,11 @@
       position: absolute;
       justify-content: center; 
       padding: 8px 0 8px 0;
-      top: 41.5px;
+      top: 0;    /*  top: 41.5px;*/  
       left: 0;
       width: 100%;
       z-index: 1000;
-      border-top: 2px solid black;
+      border-top: 1.5px solid black;
       border-bottom: 1.5px solid black;
       display: flex;
       flex-wrap: wrap; 
@@ -98,6 +98,15 @@ h1 {
   color: #333;
   border-bottom: 1px solid #333;
 }
+
+ .markdown-body>*:first-child {
+    margin-top: 0 !important;
+}
+.markdown-body h1 {
+    padding-bottom: 0.3em;
+    font-size: 0;
+}
+    
     
 .markdown-body h2 {
   scroll-margin-top: 20px; 
