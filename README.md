@@ -320,12 +320,12 @@ h1 {
 
     <div class="wrapper">
 
-    <h2 id="about">Bio</h2>
+    <!-- <h2 id="about">Bio</h2> -->
 
     <div class="bio-section">
     <div class="bio-photo-wrapper">   
     <div class="photo-caption">
-       <img src="images/r_park1.png " alt="Nicccccccccccccc" style="width: 60%; height: auto; border-radius: 4px;" />  <!-- r_park1.png   IMG_1704.1.jpeg width: 55% -->
+       <img src="images/r_park1.png " alt="Nicccccccccccccc" style="width: 45%; height: auto; border-radius: 4px;" />  <!-- r_park1.png   IMG_1704.1.jpeg width: 55% -->
       <p><strong><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >PhD Student</a></strong>, <a href="https://gsas.harvard.edu/program/social-policy" class="plain-link" target="_blank">Sociology & Social Policy</a> <br>
     <strong>Research Interests</strong>: Political economy, welfare states,<br> markets and inequality, quantatitive methods </p>
     <div class="contact-boxes">
