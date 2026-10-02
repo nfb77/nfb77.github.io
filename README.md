@@ -424,14 +424,22 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
 <div class="spacerr"></div>
 <div class="spacerr"></div>
 
-    <div class="wrapper">
+
+ <div class="wrapper">
     
     <h2 id="teaching">Teaching</h2>
+
+      <p> Kennedy School of Government, Harvard:<br>
+         &bull; <strong>Policy Analysis</strong> (PAE/SYPA), Quantitative Data & Methods Course Assistant, AY 2026-2027 — <a href="https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/policy-analysis-exercise" target="_blank">Description</a>  <br>
+        <!-- MPP and MPA capstone research project focused on policy analysis — <a href="https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/policy-analysis-exercise" target="_blank">Description</a> -->
+         </p>
+
         <p>
         Department of Economics, Vanderbilt University:<br>
-        &bull; <strong>Economic Statistics</strong> (ECON 1500), Teaching Assistant, Fall 2024 — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>
-       <!--   Introduction to probability and inference — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a> <br>  </p> -->
-     
+        &bull; <strong>Economic Statistics</strong> (ECON 1500), Teaching Assistant, Fall 2024 — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a> <br>
+       <!--   Introduction to probability and inference — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a> <br> -->
+      </p> 
+      
       <p> Department of Sociology, Vanderbilt University:<br>
        &bull; <strong>Contemporary American Society</strong> (SOC 3233), Teaching Assistant, Fall 2022, Fall 2023  — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a> <br>
         <!-- Changes in political economy, geography, and social class stratification in the United States (1940s-present) — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a> <br> -->
@@ -441,7 +449,6 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
           </p> 
 
   </div> 
-  </div>
 
   
 <div class="spacerr"></div>
