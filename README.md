@@ -15,8 +15,42 @@
   <meta property="og:title" content="Nicholas Forster-Benson">
 
   <style>
-    /* Reset & Base Styles */
-    * {font-family:'Garamond', 'EB Garamond', 'Georgia', 'Times', serif;
+
+    @font-face {
+  font-family: 'fbb';
+  src: url('fonts/fbb-Regular.woff2') format('woff2'),
+       url('fonts/fbb-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fbb';
+  src: url('fonts/fbb-Italic.woff2') format('woff2'),
+       url('fonts/fbb-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'fbb';
+  src: url('fonts/fbb-Bold.woff2') format('woff2'),
+       url('fonts/fbb-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fbb';
+  src: url('fonts/fbb-BoldItalic.woff2') format('woff2'),
+       url('fonts/fbb-BoldItalic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+    
+    /* Reset & Base Styles 'Garamond', 'EB Garamond', 'Georgia', 'Times', */
+    * {font-family: 'fbb', 'EB Garamond', serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
