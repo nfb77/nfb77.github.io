@@ -428,11 +428,11 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
     
     <h2 id="teaching">Teaching</h2>
         <p>
-        Department of Economics, Vanderbilt University:
+        Department of Economics, Vanderbilt University:<br>
        <ul>  &bull; <strong>Economic Statistics</strong> (ECON 1500), Teaching Assistant, Fall 2024<br>
           Introduction to probability and inference — <a href="https://nfb77.github.io/Files/ECON1500Fall24.pdf" target="_blank">Syllabus</a><br>  </ul> </p> 
      
-      <p> Department of Sociology, Vanderbilt University:
+      <p> Department of Sociology, Vanderbilt University:<br>
       <ul>  &bull; <strong>Contemporary American Society</strong> (SOC 3233), Teaching Assistant, Fall 2022, Fall 2023<br>
          Changes in political economy, geography, and social class stratification in the United States (1940s-present) — <a href="https://nfb77.github.io/Files/SOC3233Fall23.pdf" target="_blank">Syllabus</a> <br> 
       
