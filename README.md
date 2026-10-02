@@ -440,7 +440,9 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
         <!--Examining the production of art and authenticity within various fields, from the production of drill music to 15th-century Italian painting — <a href="https://nfb77.github.io/Files/SOC3203Fall23.pdf" target="_blank">Syllabus</a><br> -->
           </p> 
 
+  </div> 
   </div>
+
   
 <div class="spacerr"></div>
 <div class="spacerr"></div>
