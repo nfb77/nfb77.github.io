@@ -429,7 +429,7 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
     
     <h2 id="teaching">Teaching</h2>
 
-      <p> Kennedy School of Government, Harvard:<br>
+      <p> Kennedy School of Government, Harvard University:<br>
          &bull; <strong>Policy Analysis</strong> (PAE/SYPA), Quantitative Data & Methods Course Assistant, AY 2026-2027 — <a href="https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/policy-analysis-exercise" target="_blank">Description</a>  <br>
         <!-- MPP and MPA capstone research project focused on policy analysis — <a href="https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/policy-analysis-exercise" target="_blank">Description</a> -->
          </p>
