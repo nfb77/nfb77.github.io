@@ -147,6 +147,8 @@ h1 {
   margin-bottom: 30px;
   color: #333;
   border-bottom: 1px solid #333;
+  font-weight: normal;
+  
 }
     
 
