@@ -148,10 +148,16 @@ h1 {
   color: #333;
   border-bottom: 1px solid #333;
   font-weight: normal;
-  
 }
-    
 
+  .markdown-body h3 {
+  font-weight: normal;
+}
+       
+
+
+
+    
     p, li {
       margin-bottom: 16px;
       font-size: 16px;
