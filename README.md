@@ -453,7 +453,7 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
 
 <p>
     <strong>Forster-Benson</strong>, N. and Nchare, K. (2025).
-    “<a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">Trade Distortions and Colonial Legacy: Evidence from Portugal and Its Former Colonies.</a>”
+    “<a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">Trade and Colonial Legacy: The Case of Portugal and Its Former African Colonies.</a>”
     Revise &amp; Resubmit, <em>Journal of International Development</em>.
 </p>
 
