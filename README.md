@@ -397,10 +397,12 @@ h1 {
   <div class="bio-text">
         <p><a href="https://sociology.fas.harvard.edu/people/nicholas-forster-benson" class="plain-link" >I</a> am a doctoral student in <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-social-policy" target="_blank">Sociology & Social Policy</a> and Malcolm H. Wiener Scholar in Poverty and Justice at Harvard University. </p>
           
-                    <p>Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality. </p>
+                    <p>Broadly, I am interested in understanding how inequality is shaped by various institutional arrangements and class relations. My current research asks: why  housing welfare states developed in some places and not others? I also work on documenting housing inequality in the U.S. with administrative and survey data.  </p>
 
 
-        <!-- through the interplay between class and institutions 
+
+        <!-- I also publish work documenting housing inequality in the U.S..
+        through the interplay between class and institutions 
         Broadly, my research asks how material inequalities are produced, reproduced, or mitigated through various institutional arrangements and class relations. My current focus is U.S. housing markets, examining the intersection of local politics, financialization, and inequality.through institutions and class relations.
         through various economic and political institutions.through class relations and institutional arrangements.   institutional arrangements and class relations
                conjuncture between class interests and institutional arrangements. class interest and institutional arrangements come to shapes. class interest and institutional arrangements come to shapes. through various class relations and institutional arrangements  
