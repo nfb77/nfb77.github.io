@@ -436,16 +436,15 @@ I grew up playing baseball in the rolling hills of href="https://en.wikipedia.or
   </p>
 
   <h3>Works in Progress</h3>
+<p>
+    <strong>Forster-Benson</strong>, N. “The Desirability of Density: Upzoning, Financialization, and Displacement in Nashville.” Under Review. 
+</p>
 
   <p>
    <strong>Forster-Benson</strong>, N.
     “<a href="https://nfb77.github.io/Files/CODRUS.pdf" target="_blank">Corporate Ownership Density and Rent in the United States: An Analysis from 2012-2022.</a>”
     Working paper. 
   </p>
-
-<p>
-    <strong>Forster-Benson</strong>, N. “Upzoning, Density, and the Financialization of Space in Nashville.” Under Review. 
-</p>
   
 <p>
     <strong>Forster-Benson</strong>, N. “Towards a Relational Understanding of Zoning Conflict.” In Preperation.
