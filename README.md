@@ -426,7 +426,7 @@ h1 {
 
   <h3>Works in Progress</h3>
 <p>
-    <strong>Forster-Benson</strong>, N. “The Desirability of Density: Upzoning, Financialization, and Displacement in Nashville.” Under Review. 
+    <strong>Forster-Benson</strong>, N. “The Desirability of Density: Upzoning, Financialization, and Displacement in Nashville.”  Revise &amp; Resubmit, <em>Urban Geography</em>.
 </p>
 
   <p>
