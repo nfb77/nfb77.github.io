@@ -434,13 +434,9 @@ h1 {
     “<a href="https://nfb77.github.io/Files/CODRUS.pdf" target="_blank">Corporate Ownership Density and Rent in the United States: An Analysis from 2012-2022.</a>”
     Working paper. 
   </p>
-  
-<p>
-    <strong>Forster-Benson</strong>, N. “Towards a Relational Understanding of Zoning Conflict.” In Preperation.
-</p>
 
 <p>
-    <strong>Forster-Benson</strong>, N. and Nchare, K. (2025).
+    <strong>Forster-Benson</strong>, N. and Nchare, K.
     “<a href="https://doi.org/10.2139/ssrn.4874987" target="_blank">Trade and Colonial Legacy: The Case of Portugal and Its Former African Colonies.</a>”
     Revise &amp; Resubmit, <em>Journal of International Development</em>.
 </p>
